@@ -1,0 +1,44 @@
+{{ $data := index .Site.Data .Site.Language.Lang }}
+{{ $title := .Title }}
+{{ $url := printf "%s" .URL | absLangURL }}
+{{ $body := print $title ", by " .Site.Title "\n" .Params.description "\n\n" $url "\n" }}
+
+{{ with $data.social }}
+<section id="sharing">
+    <ul class="icons alt">
+        <li>
+          <a href="#" class="button primary disabled">Share</a>
+        </li>
+        {{ with .twitter}}
+        <li><a href="https://twitter.com/intent/tweet/?text={{$title}}:&amp;url={{$url}}" class="icon alt fa-twitter" target="_blank"><span class="label">Twitter</span></a></li>
+        {{ end }}
+        {{ with .facebook}}
+        <li><a href="http://www.facebook.com/sharer.php?u={{ $url }}" target="_blank" class="icon alt fa-facebook" target="_blank"><span class="label">Facebook</span></a></li>
+        {{ end }}
+        {{ with .instagram}}
+        <li><a href="{{ . }}" class="icon alt fa-instagram" target="_blank"><span class="label">Instagram</span></a></li>
+        {{ end }}
+        {{ with .linkedin}}
+        <li><a href="{{ . }}" class="icon alt fa-linkedin" target="_blank"><span class="label">LinkedIn</span></a></li>
+        {{ end }}
+        {{ with .github}}
+        <li><a href="{{ . }}" class="icon alt fa-github" target="_blank"><span class="label">GitHub</span></a></li>
+        {{ end }}
+        {{ with .youtube}}
+        <li><a href="{{ . }}" class="icon alt fa-youtube" target="_blank"><span class="label">Youtube</span></a></li>
+        {{ end }}
+        {{ with .googleplus}}
+        <li><a href="{{ . }}" class="icon alt fa-google-plus" target="_blank"><span class="label">Google Plus</span></a></li>
+        {{ end }}
+        {{ with .lastfm}}
+        <li><a href="{{ . }}" class="icon alt fa-lastfm" target="_blank"><span class="label">Last.fm</span></a></li>
+        {{ end }}
+        {{ with .flickr}}
+        <li><a href="{{ . }}" class="icon alt fa-flickr" target="_blank"><span class="label">Flickr</span></a></li>
+        {{ end }}
+        {{ with .pinterest}}
+        <li><a href="https://pinterest.com/pin/create/button/?url={{$url}}&amp;media=http%3A%2F%2Fsharingbuttons.io&amp;description={{$body}}" class="icon alt fa-pinterest" target="_blank"><span class="label">Pinterest</span></a></li>
+        {{ end }}
+    </ul>
+</section>
+{{ end }}
