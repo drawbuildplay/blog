@@ -4,6 +4,7 @@ title = "DrawBuildPlay"
 theme = "massively"
 
 disqusShortname = "drawbuildplay"
+googleAnalytics = "UA-73309318"
 
 # set below parameter to define a favicon
 # [params]
@@ -24,3 +25,4 @@ disqusShortname = "drawbuildplay"
 [languages]
 [languages.en]
   languageName = "English"
+

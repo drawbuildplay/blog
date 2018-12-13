@@ -16,12 +16,30 @@ Then edit the post and add the content from within the `/content/blog` folder.
 Any images for your blog post should be added to the `/static/images` folder.
 
 
-Publishing your updates
+Saving and Publishing your updates
 -----------------------
 
 from the /blog folder, run the following:
 
-``` $ ./deploy.sh ```
+``` 
+$ git status
+```
+
+add any new files added:
+
+```
+$ git add <filepath>
+```
+
+save your changes
+```
+$ git commit -a -m "<what you changed>"
+```
+
+deploy all latest updates
+```
+$ ./deploy.sh 
+```
 
 
 Viewing your updates live
@@ -29,6 +47,6 @@ Viewing your updates live
 
 Once the deploy script has run, the website should update within a few seconds.
 
-Go to https://www.drawbuildplay.com/blog to view the latest published website.
+Go to https://www.drawbuildplay.com/ to view the latest published website.
 
 
