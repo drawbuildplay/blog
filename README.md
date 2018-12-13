@@ -34,6 +34,7 @@ $ git add <filepath>
 save your changes
 ```
 $ git commit -a -m "<what you changed>"
+$ git push
 ```
 
 deploy all latest updates
