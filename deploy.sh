@@ -3,7 +3,7 @@
 echo -e "\033[0;32mDeploying updates to GitHub...\033[0m"
 
 # Build the project.
-hugo -t massively # if using a theme, replace with `hugo -t <YOURTHEME>`
+hugo -t massively --config config-prod.toml
 
 # Go To Public folder
 cd public
