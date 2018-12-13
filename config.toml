@@ -1,0 +1,26 @@
+baseURL = "http://localhost:1313/"
+languageCode = "en-us"
+title = "DrawBuildPlay"
+theme = "massively"
+
+disqusShortname = "hugo-massively"
+
+# set below parameter to define a favicon
+# [params]
+#     favicon = "favicon.ico"
+
+# Below parameters can be set to override default post settings
+[params.posts]
+     foldername = "blog"
+     pagesize = "10"
+     featuredpost = "false"
+
+[permalinks]
+  blog = "/blog/:year/:month/:day/:title/"
+
+[taxonomies]
+  category = "categories"
+
+[languages]
+[languages.en]
+  languageName = "English"
