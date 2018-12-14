@@ -10,7 +10,7 @@ Customers that make it to your site say how great it is.  You now have a web pre
 image: '/images/blogging.png'
 images: ['/images/blogging.png']
 date: 2016-03-01T13:22:41-05:00
-categories: [business-growth]
+categories: [web development]
 aliases: ["blog/2016/2/29/blogging-about-your-business"]
 ---
 

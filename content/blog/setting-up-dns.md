@@ -4,7 +4,7 @@ description: 'You just created a beautiful website.  Great!  Now you need custom
 image: '/images/dns.png'
 images: ['/images/dns.png']
 date: 2016-02-09T13:22:41-05:00
-categories: [business-growth]
+categories: [web development]
 aliases: ["blog/2016/2/9/setting-up-dns"]
 ---
 

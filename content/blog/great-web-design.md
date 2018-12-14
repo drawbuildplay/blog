@@ -5,7 +5,7 @@ We believe great web experiences are achieved only by producing beautiful web de
 image: '/images/webdesign.png'
 images: ['/images/webdesign.png']
 date: 2016-02-24T13:51:42-05:00
-categories: [business-growth]
+categories: [web development]
 aliases: ["blog/2016/2/24/why-great-web-design-is-more-than-just-pretty-pictures"]
 ---
 

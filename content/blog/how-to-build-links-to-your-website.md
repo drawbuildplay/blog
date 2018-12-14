@@ -4,7 +4,7 @@ description: 'Link building is one of the hardest things to do when it comes to 
 image: '/images/links.png'
 images: ['/images/links.png']
 date: 2016-02-26T15:02:28-05:00
-categories: [business-growth]
+categories: [web development]
 aliases: ["blog/2016/2/24/how-to-build-links-to-your-website"]
 ---
 

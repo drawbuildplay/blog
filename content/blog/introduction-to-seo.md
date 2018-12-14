@@ -4,7 +4,7 @@ description: 'Search Engine Optimization (also known as SEO) is the art form of 
 image: '/images/seo.png'
 images: ['/images/seo.png']
 date: 2016-02-08T13:22:41-05:00
-categories: [business-growth]
+categories: [web development]
 aliases: ["blog/2016/2/8/introduction-to-seo"]
 ---
 
