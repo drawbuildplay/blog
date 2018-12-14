@@ -4,6 +4,7 @@ description: 'The infamous question.  What is SSL?  Or, more importantly, why sh
 image: '/images/ssl.png'
 date: 2016-02-16T13:38:48-05:00
 categories: [business-growth]
+aliases: ["blog/2016/2/16/introduction-to-ssl"]
 ---
 
 SSL stands for Secure Socket Layer. It's actually a deprecated technology, now replaced by a newer acronym - TLS.  TLS stands for Transport Layer Security.

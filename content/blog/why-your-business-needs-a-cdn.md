@@ -4,6 +4,7 @@ description: 'A CDN (Content Delivery Network) is a network of servers around th
 date: 2016-02-22T13:22:41-05:00
 image: '/images/cdn.png'
 categories: [business-growth]
+aliases: ["blog/2016/2/22/why-your-business-needs-a-cdn"]
 ---
 
 
