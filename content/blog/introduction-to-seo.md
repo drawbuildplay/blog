@@ -58,7 +58,14 @@ White Hat is when you take an ethical approach to optimizing your website and yo
 
 Black Hat is the unethical approach to SEO.  Often this may give a short term boost to your page rank, but usually is discovered by Google and you end up being severly penalized.  Sites often disappear off google when these techniques are employed.  So what are the techniques black-hat utilizes?  It often includes paying third party websites to link to your site.  These third party websites often will have nothing in common with your product/services and provide no real benefit to users.
 
- 
+SEO TOOLS
+---------
+
+There are a number of websites and tools on the internet that we analyze your website and bring attention to opportunities for improving your SEO score.  Here is a list of tools I enjoy using:
+
+* https://neilpatel.com/seo-analyzer/
+* https://moz.com/free-seo-tools
+
 
 WHATS NEXT
 ----------
@@ -75,8 +82,6 @@ The longer your website is around, and producing new content, the more likely go
 Social Media such as Facebook and Twitter are providing more signals to Google about your website, brand, and content.  Post links to your articles to multiple places. This will help it get picked up in more places, and Google will start picking it up to.
  
 
- 
-
-Soon I will have a follow up post on some of the more advanced SEO techniques to help your Page Rank.  At drawbuildplay, all our website packages incorporate Basic SEO techniques. 
+Soon I will have a follow up post on some of the more advanced SEO techniques to help your Page Rank.  
 
 I hope you found this post useful.
