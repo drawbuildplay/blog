@@ -6,8 +6,8 @@ theme = "massively"
 disqusShortname = "hugo-massively"
 
 # set below parameter to define a favicon
-# [params]
-#     favicon = "favicon.ico"
+[params]
+    favicon = "/favicon.png"
 
 # Below parameters can be set to override default post settings
 [params.posts]
