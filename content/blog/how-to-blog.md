@@ -8,6 +8,7 @@ Your rank in google is pretty much stationary.
 
 Customers that make it to your site say how great it is.  You now have a web presence, and the customers who already know about you are finding you.  But you want more.  You want to grow faster.  You want to get new customers. Well, lets start with blogging.'
 image: '/images/blogging.png'
+images: ['/images/blogging.png']
 date: 2016-03-01T13:22:41-05:00
 categories: [business-growth]
 aliases: ["blog/2016/2/29/blogging-about-your-business"]
