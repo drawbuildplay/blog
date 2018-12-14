@@ -1,6 +1,6 @@
 ---
 title: "How to Cut the Cord - Stop paying for your landline"
-description: 'Its almost 2019, and there are so many online services out there you may wonder what the point is still paying for cable.  Here is a step by step guide to stop paying for the phone line from the cable companies that my family has been enjoying since 2011.'
+description: 'Its almost 2019, and there are so many online services out there you may wonder what the point is still paying for cable.  Here is a step by step guide to stop paying for the phone line from the cable companies. My family has not paid for a landline since 2011.'
 image: '/images/landline.jpg'
 images: ['/images/landline.png']
 date: 2018-12-14T16:13:08-05:00
@@ -10,7 +10,10 @@ categories: [home improvement]
 
 Many homes are still subscribed to cable.  Many are still paying for bundled services like Phone, Internet, and TV.  Often, these nasty cable bills are around $200 per month.
 
-Now, what if I told you you didnt need to pay for phone or TV.  You can get internet service in most places for between $30 - $100 depending on how fast broadband speeds you want.  I currently pay AT&T for their Gigabit Fiber network $70/month.  My parents have comcast at 50 Megabit speeds for $50/month.  And thats it.  No fee for TV.  No fee for Phone.
+Now, what if I told you you didnt need to pay for phone or TV.  You can get internet service in most places for between $30 - $100 depending on how fast broadband speeds you want.  I currently pay AT&T for their Gigabit Fiber network $70/month.  My parents have comcast at 50 Megabit speeds for $50/month.  And thats it.  
+
+* No fee for TV.  
+* No fee for Phone.
 
 This guide describes how we did this, and how to make free calls with [Obihai](https://amzn.to/2EmhzWX) and [Google Voice](https://voice.google.com).
 
@@ -24,6 +27,10 @@ This guide will show you how to use a regular phone in your home just as you hav
 
 1.  Sign up to [Google Voice](https://voice.google.com).  Its free and you get a modern Internet based calling account.
 2.  Go to Amazon and buy an [OBI200 device](https://amzn.to/2EmhzWX) - its around $50 at the time of this post.
+
+{{< figure src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00BUV7C9A&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=drawbuildplay-20" link="https://www.amazon.com/gp/product/B00BUV7C9A/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00BUV7C9A&linkCode=as2&tag=drawbuildplay-20&linkId=5565d942f2d5b9bfeb08cef89b3dce35" title="OBI200 Device" >}}
+
+
 3.  Connect your [OBI200 device](https://amzn.to/2EmhzWX) to your router, and to your phone line.
 4.  Create your [OBITalk account](https://www.obitalk.com)
 5.  Add your new device to your OBITalk account, and link it to your [Google Voice](https://voice.google.com) account.  The OBITalk setup wizard will take you through the steps.
@@ -41,7 +48,7 @@ SHOPPING LIST
 
 
 ---------------------------
-TOTAL COST: $50 (one time)
+TOTAL COST: approximately $50 (one time)
 ---------------------------
 
 Look out for Part 2 where I describe how we stopped paying for Cable TV.
