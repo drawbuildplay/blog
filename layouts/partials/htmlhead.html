@@ -1,3 +1,5 @@
+{{ $data := index .Site.Data .Site.Language.Lang }}
+
 <!DOCTYPE HTML>
 <!--
 	Massively by HTML5 UP
@@ -7,6 +9,17 @@
 <html lang='{{ .Site.Language.Lang | default "en-us" }}'>
 	<head>
 		<title>{{ if eq (.Site.Title) (.Title) }}{{ .Site.Title }}{{ else }}{{ .Title }} &middot; {{ .Site.Title }}{{ end }}</title>
+		<meta name="description" content="{{ if (.Description) }}{{ .Description }}{{ else }}Useful tips and tricks for designing and building things yourself{{ end }}">
+
+		<meta property=”og:title” content="{{ .Title }}" />
+		<meta property=”og:description content="{{ if (.Description) }}{{ .Description }}{{ else }}Useful tips and tricks for designing and building things yourself{{ end }}" />
+		<meta property=”og:url content="{{ .Permalink }}" />
+		<meta property=”og:type” content="blog" />
+		
+		{{ if .Params.image }}
+		<meta property="og:image" content="{{ .Params.image }}" />
+		{{ end }}
+		
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<link rel="stylesheet" href='{{ "assets/css/main.css" | relURL }}' />
