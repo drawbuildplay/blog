@@ -51,6 +51,6 @@ SHOPPING LIST
 TOTAL COST: approximately $50 (one time)
 ---------------------------
 
-Look out for Part 2 where I describe how we stopped paying for Cable TV.
+Look out for **[Part 2]({{<ref "/blog/how-to-cut-the-cord-with-tv.md">}})** where I describe **[how we stopped paying for Cable TV]({{<ref "/blog/how-to-cut-the-cord-with-tv.md">}})**.
 
 
