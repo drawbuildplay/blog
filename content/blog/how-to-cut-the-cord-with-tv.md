@@ -1,6 +1,6 @@
 ---
 title: "How to Cut the Cord With Free Over The Air TV"
-description: 'Cut the cord with an Apple TV, HDHomeRun, and over the air broadcasts. Why are you still paying for cable?  We stopped paying them back in 2015 by combining free over the air TV with Netflix.  See how we did it.'
+description: 'Cut the cord with an Apple TV, HDHomeRun, and over the air broadcasts. Why are you still paying for cable?  We stopped paying them back in 2015 by combining free over the air TV with Netflix.  Learn how we did it.'
 image: '/images/hdhomerun.jpg'
 images: ['/images/hdhomerun.jpg']
 date: 2018-12-19T14:26:27-05:00
