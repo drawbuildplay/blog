@@ -2,7 +2,7 @@
 title: "How to Cut the Cord With Free Over The Air TV"
 description: 'Cut the cord with an Apple TV, HDHomeRun, and over the air broadcasts. Why are you still paying for cable?  We stopped paying them back in 2015 by combining free over the air TV with Netflix.  Learn how we did it.'
 image: '/images/hdhomerun.jpg'
-images: ['/images/hdhomerun.jpg']
+images: ['/images/hdhomerun.jpg', '/images/hdhomerun_network.png', '/images/channelsapp.png']
 date: 2018-12-19T14:26:27-05:00
 categories: [home-improvement]
 ---
@@ -38,23 +38,19 @@ SHOPPING LIST
 
 Before getting started, you will need to buy the following items:
 
-{{< figure src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B077H1XKLX&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=drawbuildplay-20&language=en_US" link="https://www.amazon.com/SiliconDust-HDHomeRun-HDHR5-2US-Splitter-Reusable/dp/B077H1XKLX/ref=as_li_ss_il?&linkCode=li2&tag=drawbuildplay-20&linkId=4357d5535d2230e6d9ec67c496322c4b&language=en_US" title="HDHomeRun Connect Duo (Around $90)" >}}
-
-{{< figure src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00HSMK59E&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=drawbuildplay-20&language=en_US" link="https://www.amazon.com/Mohu-Paper-thin-Reversible-Performance-MH-110599/dp/B00HSMK59E/ref=as_li_ss_il?s=electronics&ie=UTF8&qid=1545250490&sr=1-7&keywords=mohu+leaf&linkCode=li2&tag=drawbuildplay-20&linkId=94f632b843e26904efc5b32a3f97b5cd&language=en_US" title="TV Antenna (Around $25 - $50)" >}}
-
-
-{{< figure src="/images/appletv.png" link="https://www.amazon.com/dp/B075NCMLYL/ref=twister_B075Y1BZDP?_encoding=UTF8&psc=1" width="360" title="Apple TV 4K (Around $179)" >}}
+|{{< figure src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B077H1XKLX&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=drawbuildplay-20&language=en_US" link="https://www.amazon.com/SiliconDust-HDHomeRun-HDHR5-2US-Splitter-Reusable/dp/B077H1XKLX/ref=as_li_ss_il?&linkCode=li2&tag=drawbuildplay-20&linkId=4357d5535d2230e6d9ec67c496322c4b&language=en_US" title="HDHomeRun Connect Duo (Around $90)" >}}|{{< figure src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00HSMK59E&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=drawbuildplay-20&language=en_US" link="https://www.amazon.com/Mohu-Paper-thin-Reversible-Performance-MH-110599/dp/B00HSMK59E/ref=as_li_ss_il?s=electronics&ie=UTF8&qid=1545250490&sr=1-7&keywords=mohu+leaf&linkCode=li2&tag=drawbuildplay-20&linkId=94f632b843e26904efc5b32a3f97b5cd&language=en_US" title="TV Antenna (Around $25 - $50)" >}}
+| ----------------------|------------|
 
 
-{{< figure src="/images/channelsapp.png" link="https://getchannels.com" width="360" title="Channels App for Apple TV  (Around $25)" >}}
+
+|{{< figure src="/images/appletv.png" link="https://www.amazon.com/dp/B075NCMLYL/ref=twister_B075Y1BZDP?_encoding=UTF8&psc=1" width="360" title="Apple TV 4K (Around $179)" >}}|{{< figure src="/images/channelsapp.png" link="https://getchannels.com" width="360" title="Channels App for Apple TV  (Around $25)" >}}|
+|-------------|-------------|
 
 
-<a href="" target="_blank"><img border="0" src="" ></a><img src="" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-
-PART TWO - STOP PAYING FOR CABLE TV
+PART TWO - HOW TO STOP PAYING FOR CABLE TV
 -----------------------------------
 
-{{< figure src="/images/hdhomerun_network.png" title="Network Setup" >}}
+{{< figure src="/images/hdhomerun_network.png" width="100%" title="Network Setup" >}}
 
 
 1.  You will need an [antenna](https://amzn.to/2CoCw2c) to receive the free Over The Air TV signal from the broadcaster.  There is a large variety of antenna's you can get.  If you have the ability to mount one inside your attic, or on your roof - you will get the best signal.  The [Mohu Leaf Antenna](https://amzn.to/2CoCw2c) I linked to is also a great option for mounting discretely on your wall and getting a good signal.  Make sure you antenna is positioned to get the best possible signals, else you may experience weakness on some channels.  A guide to the direction of your [local broadcast towers](https://antennaweb.org/Address) can be found here.  
