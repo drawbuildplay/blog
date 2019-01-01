@@ -1,8 +1,8 @@
 ---
 title: "Introduction to SEO"
 description: 'Search Engine Optimization (also known as SEO) is the art form of optimizing your website for targeted keywords so that you rank as high as possible on search engines such as Google.'
-image: '/images/seo.png'
-images: ['/images/seo.png']
+image: 'images/seo.png'
+images: ['images/seo.png']
 date: 2016-02-08T13:22:41-05:00
 categories: [web development]
 aliases: ["blog/2016/2/8/introduction-to-seo"]

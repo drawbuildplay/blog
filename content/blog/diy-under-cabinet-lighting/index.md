@@ -1,8 +1,8 @@
 ---
 title: "DIY Under Cabinet Lighting"
 description: 'How to install your own gorgeous under cabinet kitchen lighting for around $30.'
-image: '/images/under_cabinet_lighting.png'
-images: ['/images/under_cabinet_lighting.png','/images/under_cabinet_lighting_outlet.png','/images/under_cabinet_lighting_wiring.png']
+image: 'images/under_cabinet_lighting.png'
+images: ['images/under_cabinet_lighting.png','images/under_cabinet_lighting_outlet.png','images/under_cabinet_lighting_wiring.png']
 date: 2018-12-20T10:11:27-05:00
 categories: [home-improvement]
 ---
@@ -11,7 +11,7 @@ One of the things we wanted to do when we built our home was to have under cabin
 
 After researching some ideas, we decided to install wired puck lights ourselves afterwards.  I had the builder install power outlets above the cabinets, connected to a wall switch. If you do this, have them install it horizontally so that the outlet is obstructed from view from the ground by the cabinets.
 
-{{<figure src="/images/under_cabinet_lighting_outlet.png" title="Under Cabinet Lighting Outlet" width="50%">}}
+{{<figure src="images/under_cabinet_lighting_outlet.png" title="Under Cabinet Lighting Outlet" width="50%">}}
 
 > If you can't install outlets, look around as you may already have one inside one of your cabinets to power your rangehood or microwave. Alternatively, you can install battery powered puck lights, and not worry about wiring.  I didnt want the hassle of replacing batteries and wanted to control them together easily, so went with wired.
 
@@ -29,7 +29,7 @@ INSTALLATION
 
 2. Look in between your cabinets.  There is usually a small gap between each cupboard, hidden by the framing of the cabinet.  This is where we are going to thread the wire.
 
-	{{<figure src="/images/under_cabinet_lighting_wiring.png" title="Under Cabinet Lighting Wiring" width="50%">}}
+	{{<figure src="images/under_cabinet_lighting_wiring.png" title="Under Cabinet Lighting Wiring" width="50%">}}
 
 3.  Carefully, climb up and connect the wire (per its instructions) to the wall outlet.  You can string it across the top of the cabinets to wherever your wall outlet is located.
 

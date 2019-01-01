@@ -1,8 +1,8 @@
 ---
 title: "Introduction to SSL"
 description: 'The infamous question.  What is SSL?  Or, more importantly, why should I care about it?'
-image: '/images/ssl.png'
-images: ['/images/ssl.png']
+image: 'images/ssl.png'
+images: ['images/ssl.png']
 date: 2016-02-16T13:38:48-05:00
 categories: [web development]
 aliases: ["blog/2016/2/16/introduction-to-ssl"]
@@ -14,7 +14,7 @@ Okay, enough of this gobbledygook!  What do all these fancy words mean?!?!  In a
 
 When you visit your bank website, or these days even Facebook and Google, you will see a lock icon next to the URL in the address bar.
 
-{{< figure src="/images/ssl_lock.png" title="The Green Lock" >}}
+{{< figure src="images/ssl_lock.png" title="The Green Lock" >}}
 
 
 THE GREEN LOCK

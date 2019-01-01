@@ -1,8 +1,8 @@
 ---
 title: "Setting up DNS"
 description: 'You just created a beautiful website.  Great!  Now you need customers to be able to get to it.  This is where the Domain Name Server (DNS) comes in.'
-image: '/images/dns.png'
-images: ['/images/dns.png']
+image: 'images/dns.png'
+images: ['images/dns.png']
 date: 2016-02-09T13:22:41-05:00
 categories: [web development]
 aliases: ["blog/2016/2/9/setting-up-dns"]
@@ -10,7 +10,7 @@ aliases: ["blog/2016/2/9/setting-up-dns"]
 
 You should be familiar with the Address Bar in your browser.  It looks something like this:
 
-{{< figure src="/images/dns_addressbar.png" title="Address Bar" >}}
+{{< figure src="images/dns_addressbar.png" title="Address Bar" >}}
 
 When your users go to a URL such as "www.drawbuildplay.com", the request will go to a DNS server which routes the request to the correct place where your website is hosted.  Think of it like regular mail you send through the post office.  You send a letter marked with the recipients address.  The postal service will pick up the mail and route it to the appropriate place, going through a bunch of intermediary postal locations, until it reaches the destination.
 
@@ -43,7 +43,7 @@ NS RECORDS
 
 NS Records are used to tell your Domain Name Server where your settings are kept.  A lot of users will have their Name Server at the same provider as where they purchased their domain.  Others however, control their DNS settings from somewhere else like Rackspace or Google Domains.  This is where they would set the NS record at the provider where the domain ownership exists.
  
-{{< figure src="/images/dns_records.png" title="Sample DNS Record Fields" >}}
+{{< figure src="images/dns_records.png" title="Sample DNS Record Fields" >}}
 
 DNS PROVIDERS
 -------------

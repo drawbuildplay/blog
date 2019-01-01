@@ -3,7 +3,6 @@ languageCode = "en-us"
 title = "DrawBuildPlay"
 description = "Useful tips and tricks for designing and building things yourself"
 theme = "massively"
-
 disqusShortname = "hugo-massively"
 
 # set below parameter to define a favicon
@@ -25,3 +24,4 @@ disqusShortname = "hugo-massively"
 [languages]
 [languages.en]
   languageName = "English"
+
