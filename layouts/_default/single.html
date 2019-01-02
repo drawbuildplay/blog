@@ -19,9 +19,12 @@
                                 <h1>{{ .Title }}</h1>
                                 <p>{{ .Description }}</p>
                             </header>
-                            {{ if .Params.image }}
-                            <div class="image main"><img src="{{ .Permalink }}{{ .Params.image }}" alt="" /></div>
+                            {{ $cover := .Resources.GetMatch "*"}}
+                            {{ with $cover }}
+                            {{ $scaled := .Fill "1200x760" }}
+                            <div class="image main"><img src="{{ $scaled.Permalink }}" alt="{{ .Name }}"></div>
                             {{ end }}
+
                             {{ .Content }}
 
                             {{ partial "postcustom" . }}

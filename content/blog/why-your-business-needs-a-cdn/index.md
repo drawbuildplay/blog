@@ -6,6 +6,12 @@ image: 'images/cdn.png'
 images: ['images/cdn.png']
 categories: [web development]
 aliases: ["blog/2016/2/22/why-your-business-needs-a-cdn"]
+images:
+- 'images/cdn.png'
+
+resources:
+- name: Why your business needs a CDN
+  src: 'images/cdn.png'
 ---
 
 

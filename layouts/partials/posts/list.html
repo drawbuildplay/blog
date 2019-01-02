@@ -9,9 +9,15 @@
             {{ end }}
             <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
         </header>
-        {{ if .Params.image }}
-        <a href="{{ .Permalink }}" class="image fit"><img src="{{ .Permalink }}{{.Params.image }}" alt="{{ .Title }}" /></a>
-        {{ end }}
+
+        <a href="{{ .Permalink }}" class="image fit">
+            {{ $cover := .Resources.GetMatch "*"}}
+            {{ with $cover }}
+            {{ $scaled := .Fill "600x400" }}
+            <img src="{{ $scaled.Permalink }}" alt="{{ $.title }}">
+            {{ end }}
+        </a>    
+
         <p>{{ .Description }}</p>
         <ul class="actions">
             <li><a href="{{ .Permalink }}" class="button">{{ $data.post.linktext }}</a></li>

@@ -1,10 +1,16 @@
 ---
 title: "How to Cut the Cord With Free Over The Air TV"
 description: 'Cut the cord with an Apple TV, HDHomeRun, and over the air broadcasts. Why are you still paying for cable?  We stopped paying them back in 2015 by combining free over the air TV with Netflix.  Learn how we did it.'
-image: 'images/hdhomerun.jpg'
-images: ['images/hdhomerun.jpg', 'images/hdhomerun_network.png', 'images/channelsapp.png']
 date: 2018-12-19T14:26:27-05:00
 categories: [home-improvement]
+images:
+- 'images/hdhomerun.jpg'
+- 'images/hdhomerun_network.png'
+- 'images/channelsapp.png'
+
+resources:
+- name: Cutting the Cord
+  src: 'images/hdhomerun.jpg'
 ---
 
 As I mentioned in my previous blog post on **[Part One - How to stop paying for your landline]({{<ref "/blog/how-to-cut-the-cord">}})**, most people pay between $100 and $250 each month to their cable providers.  They are paying for Internet, Phone, and TV.  My last post showed how you can save at least $20 per month by not paying your cable company for a phone line.  Now for the bigger savings.  Lets save some money on TV.
@@ -43,14 +49,14 @@ Before getting started, you will need to buy the following items:
 
 
 
-|{{< figure src="images/appletv.png" link="https://www.amazon.com/dp/B075NCMLYL/ref=twister_B075Y1BZDP?_encoding=UTF8&psc=1" width="360" title="Apple TV 4K (Around $179)" >}}|{{< figure src="images/channelsapp.png" link="https://getchannels.com" width="360" title="Channels App for Apple TV  (Around $25)" >}}|
+|{{< figure src="images/appletv.png" link="https://www.amazon.com/dp/B075NCMLYL/ref=twister_B075Y1BZDP?_encoding=UTF8&psc=1" width="360" title="Apple TV 4K (Around $179)" >}}|{{<imgproc "images/channelsapp.png" Resize "360x" >}}Channels App for Apple TV (Around $25){{</imgproc>}}|
 |-------------|-------------|
 
 
 PART TWO - HOW TO STOP PAYING FOR CABLE TV
 -----------------------------------
 
-{{< figure src="images/hdhomerun_network.png" width="100%" title="Network Setup" >}}
+{{<imgproc "images/hdhomerun_network.png" Resize "1200x" >}}Network Setup{{</imgproc>}}
 
 
 1.  You will need an [antenna](https://amzn.to/2CoCw2c) to receive the free Over The Air TV signal from the broadcaster.  There is a large variety of antenna's you can get.  If you have the ability to mount one inside your attic, or on your roof - you will get the best signal.  The [Mohu Leaf Antenna](https://amzn.to/2CoCw2c) I linked to is also a great option for mounting discretely on your wall and getting a good signal.  Make sure you antenna is positioned to get the best possible signals, else you may experience weakness on some channels.  A guide to the direction of your [local broadcast towers](https://antennaweb.org/Address) can be found here.  
@@ -70,7 +76,7 @@ PART TWO - HOW TO STOP PAYING FOR CABLE TV
 
 	> I pick up 132 channels, many of which are in High Definition.  However, theres only about 6 or so popular channels that we regularly watch (eg ABC, FOX, PBS, CBS, etc).
 
-	{{< figure src="images/channelsapp.png" link="https://getchannels.com" width="100%" title="Channels App for Apple TV" >}}
+	{{<imgproc "images/channelsapp.png" Resize "1200x" >}}Channels App for Apple TV{{</imgproc>}}
 
 
 5.  If you have a Netflix, Amazon Prime, Hulu, or whatever your favorite streaming service is, then chances are there is an Apple TV app for that also and you can watch everything from just your Apple TV.

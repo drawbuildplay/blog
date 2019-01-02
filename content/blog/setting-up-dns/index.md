@@ -1,11 +1,15 @@
 ---
 title: "Setting up DNS"
 description: 'You just created a beautiful website.  Great!  Now you need customers to be able to get to it.  This is where the Domain Name Server (DNS) comes in.'
-image: 'images/dns.png'
-images: ['images/dns.png']
 date: 2016-02-09T13:22:41-05:00
 categories: [web development]
 aliases: ["blog/2016/2/9/setting-up-dns"]
+images:
+- 'images/dns.png'
+
+resources:
+- name: Setting up DNS
+  src: 'images/dns.png'
 ---
 
 You should be familiar with the Address Bar in your browser.  It looks something like this:

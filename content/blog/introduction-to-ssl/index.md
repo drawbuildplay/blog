@@ -1,11 +1,16 @@
 ---
 title: "Introduction to SSL"
 description: 'The infamous question.  What is SSL?  Or, more importantly, why should I care about it?'
-image: 'images/ssl.png'
-images: ['images/ssl.png']
 date: 2016-02-16T13:38:48-05:00
 categories: [web development]
 aliases: ["blog/2016/2/16/introduction-to-ssl"]
+
+images:
+- 'images/ssl.png'
+
+resources:
+- name: Introduction to SSL
+  src: 'images/ssl.png'
 ---
 
 SSL stands for Secure Socket Layer. It's actually a deprecated technology, now replaced by a newer acronym - TLS.  TLS stands for Transport Layer Security.

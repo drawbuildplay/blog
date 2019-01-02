@@ -6,6 +6,12 @@ images: ['images/seo.png']
 date: 2016-02-08T13:22:41-05:00
 categories: [web development]
 aliases: ["blog/2016/2/8/introduction-to-seo"]
+images:
+- 'images/seo.png'
+
+resources:
+- name: Introduction to SEO
+  src: 'images/seo.png'
 ---
 
 Welcome to my first post on SEO.  
