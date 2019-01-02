@@ -2,13 +2,14 @@ baseURL = "https://www.drawbuildplay.com/"
 languageCode = "en-us"
 title = "DrawBuildPlay"
 theme = "massively"
-
-disqusShortname = "drawbuildplay"
-googleAnalytics = "UA-73309318"
+disqusShortname = "hugo-massively"
 
 # set below parameter to define a favicon
-# [params]
-#     favicon = "favicon.ico"
+[params]
+    favicon = "/favicon.png"
+    author = "Amit Gandhi"
+	site_description = "Useful tips and tricks for designing and building things yourself"
+	description = "Useful tips and tricks for designing and building things yourself"
 
 # Below parameters can be set to override default post settings
 [params.posts]
