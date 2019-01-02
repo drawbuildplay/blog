@@ -11,6 +11,11 @@ disqusShortname = "hugo-massively"
 	site_description = "Useful tips and tricks for designing and building things yourself"
 	description = "Useful tips and tricks for designing and building things yourself"
 
+[outputs]
+  home = ["HTML", "AMP", "RSS"]
+  page = ["HTML", "AMP"]
+
+
 # Below parameters can be set to override default post settings
 [params.posts]
      foldername = "blog"
