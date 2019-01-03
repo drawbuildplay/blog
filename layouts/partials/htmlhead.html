@@ -11,6 +11,7 @@
 		<title>{{ if eq (.Site.Title) (.Title) }}{{ .Site.Title }}{{ else }}{{ .Title }} &middot; {{ .Site.Title }}{{ end }}</title>
 		<meta name="description" content="{{ if (.Description) }}{{ .Description }}{{ else }}Useful tips and tricks for designing and building things yourself{{ end }}">
 
+		{{ template "_internal/google_analytics_async.html" . }}
 		{{ template "_internal/opengraph.html" . }}
 		{{ template "_internal/twitter_cards.html" . }}
 		
