@@ -1,6 +1,6 @@
 ---
 title: "Home Building Checklist - Choosing a Location"
-description: "The first thing when scouting for a new home is choosing a location.  Whether you plan to buy a plot of land and have a custom architect design and build for you, or if you plan to go with one of the many neighborhoods built with existing plans by Pulte, DR Horton, or other large developers, the first step is to find a home in your desired location."
+description: "The first thing when scouting for a new home is choosing a location.  Whether you plan to buy a plot of land and use a custom architect/builder, or if you plan to go with one of the many neighborhoods built with existing plans by Pulte, DR Horton, or other large developers, the first step is to find a home in your desired location."
 date: 2019-01-03T10:11:27-05:00
 categories: [home-improvement]
 images:
@@ -17,7 +17,9 @@ Choosing a great location for your new home is the first step in your [home buil
 School Districts
 ----------------
 
-Back in 2010, my wife and I were newly married and we built our first home, looking at school districts was about the last thing on our minds.  We weren't planning on kids any time soon, and we prioritized other things about the house.  Really, we didn't even think to look at what the school ratings were in the area that we built our home.  What we learned pretty quickly though, is that the quality of the neighborhood is impacted by the schools in that area.  I.e better schools tend to have more professionals in that area, and tend to be safer, slightly more affluent, etc.  This will directly impact your home value and your ability to sell in the future.  So make sure you are buying in a district with good schools, even if you dont have kids yet.
+Back in 2010, my wife and I were newly married and we built our first home, looking at school districts was about the last thing on our minds.  We weren't planning on kids any time soon, and we prioritized other things about the house.  Really, we didn't even think to look at what the school ratings were in the area that we built our home.  What we learned pretty quickly though, is that the quality of the neighborhood is impacted by the schools in that area.  I.e better schools tend to have more professionals in that area, and tend to be safer, slightly more affluent, etc.  This will directly impact your home value and your ability to sell in the future.  So make sure you are buying in a district with good schools, even if you dont have kids yet.  Five years later, we built our second new home.  By this time we had kids, and we wanted to move to an area with good schools.  We see a huge difference in the neighborhoods and home values.
+
+The county where you home will be situated will have publicly published rankings of the schools in your district. You should be able to find it with a quick google search (eg "[county] school rankings")  The builders will often also advertise this information if the schools are rated great.
 
 Easy Freeway Access
 -------------------
@@ -71,8 +73,8 @@ Most people dont think about this, but have a look at how strong the cell recept
 
 If you find you dont have a strong cell reception, fear not.  Most cell providers and modern phones these days support wifi calling, meaning having a strong LTE signal is not as critical as it once was.
 
-Sunshine
---------
+Its always sunny in _Philadeplhia_
+----------------------------------
 
 You want to make sure your home will bask in the sun.  Check out where your house will be facing in the morning when the sun comes up, and what side of the house the sun will shine on in the evening as it sets.  Generally you want the front of the house to get morning sun (facing East), while in the evening you want the sun in the back while you are on the deck or enjoying your back yard.  There is also some feng shui (chinese) and vastu shashtra (hindu) techniques described for how your house should face if it appeals to you.
 

@@ -40,10 +40,11 @@ These are the things to look for when choosing the floor plan that suits you:
 
 - [ ] <label>Open Plan Living</label>
 - [ ] <label>Bedroom on Main</label>
-- [ ] <label>Number of Bedrooms</label>
-- [ ] <label>Feng Shui / Vastu Shashtra</label>
-- [ ] <label>Basement Plan</label>
+- [ ] <label>Number of Bedrooms and Bathrooms</label>
+- [ ] <label>Basement Layout</label>
+- [ ] <label>Elevation</label>
 - [ ] <label>Ceiling Height</label>
+- [ ] <label>Feng Shui / Vastu Shashtra</label>
 
 Choosing your Upgrades
 ----------------------
@@ -75,20 +76,31 @@ Here are some of the other modifications that you should ask the builder:
 - [ ] <label>Outlets above Kitchen Cabinets</label>
 - [ ] <label>Strategically placed floor outlets</label>
 - [ ] <label>Backsplash Options</label>
+- [ ] <label>Electric Car Charging Outlets</label>
+
+DIY Home Projects
+-----------------
+
+There will be upgrades that the builder will offer which you can probably DIY later.  With some planning, you may have the builder do some work to enable better integration of your DIY.  Although this website has is focused on <a href="/categories/home-improvement">DIY tips and tricks</a>, here are some options which I found are much cheaper (or better) to do yourself after you move in, compared to the upgrade options provided by the builder:
+
+- [ ] <label>[Under Cabinet Lighting]({{<ref "diy-under-cabinet-lighting">}})</label>
+- [ ] <label>Install your own Upgraded Light Fixtures and Fans</label>
+- [ ] <label>Outdoor Landscape Lighting</label>
+- [ ] <label>Epoxy the Garage Floor</label>
 
 Smart Home Technology
 ---------------------
 
-Once your home is built, you may want to incorporate the following smart home technologies into your home.  These dont rely on structural implementations from the builder.
+Once your home is built, you may want to incorporate the following smart home technologies into your home.  Making your home connected gives you more convenience to make your home more comfortable, while also giving you the security of being able to see and control aspects of your home while you are away.  These often dont rely on structural changes from the builder, and can be integrated after you move in.  Some builders offer smart home packages.  It would be wise to evaluate what technology they offer, the eco system it falls under, and the price to install vs doing it yourself.  Automation will typically fall under 4 categories - Apple (Siri/Homekit), Google (Home/Assistant), Amazon (Alexa), or "all of the above".
 
 - [ ] <label>Home Security Camera's</label>
-- [ ] <label>Connected Home Security</label>
+- [ ] <label>Connected Home Security Monitoring</label>
 - [ ] <label>Connected Thermostats</label>
 - [ ] <label>Connected Smart Lighting</label>
 - [ ] <label>Connected Garage Door Opener</label>
 - [ ] <label>Smart Locks</label>
 - [ ] <label>Multi Room Connected Speakers</label>
 - [ ] <label>Voice Assistants</label>
-- [ ] <label>Alternatives to Cable (Antenna)</label>
+- [ ] <label>Alternatives to Cable (Antenna) - [Free Over the Air TV]({{<ref "free-over-the-air-tv">}})</label>
 - [ ] <label>Technology Closet</label>
 - [ ] <label>Home Automation</label>
