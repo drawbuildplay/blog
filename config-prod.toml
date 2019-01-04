@@ -23,7 +23,7 @@ googleAnalytics = "UA-73309318-1"
      featuredpost = "false"
 
 [permalinks]
-  blog = "/blog/:year/:month/:day/:title/"
+  blog = "/blog/:title/"
 
 [taxonomies]
   category = "categories"

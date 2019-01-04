@@ -3,6 +3,7 @@ title: "DIY Under Cabinet Lighting"
 description: 'How to install your own gorgeous under cabinet kitchen lighting for around $30.'
 date: 2018-12-20T10:11:27-05:00
 categories: [home-improvement]
+aliases: ["blog/2018/12/20/diy-under-cabinet-lighting/"]
 images:
 - 'images/under_cabinet_lighting.png'
 - 'images/under_cabinet_lighting_outlet.png'

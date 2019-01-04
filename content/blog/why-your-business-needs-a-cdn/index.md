@@ -5,7 +5,7 @@ date: 2016-02-22T13:22:41-05:00
 image: 'images/cdn.png'
 images: ['images/cdn.png']
 categories: [web development]
-aliases: ["blog/2016/2/22/why-your-business-needs-a-cdn"]
+aliases: ["blog/2016/2/22/why-your-business-needs-a-cdn", "blog/2016/02/22/why-your-business-needs-a-cdn"]
 images:
 - 'images/cdn.png'
 

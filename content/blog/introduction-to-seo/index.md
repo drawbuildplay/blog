@@ -5,7 +5,7 @@ image: 'images/seo.png'
 images: ['images/seo.png']
 date: 2016-02-08T13:22:41-05:00
 categories: [web development]
-aliases: ["blog/2016/2/8/introduction-to-seo"]
+aliases: ["blog/2016/2/8/introduction-to-seo","blog/2016/02/08/introduction-to-seo"]
 images:
 - 'images/seo.png'
 
