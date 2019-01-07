@@ -13,9 +13,6 @@
 						<!-- Post -->
                         <section class="post">
                             <header class="major">
-                                {{ if not .Date.IsZero }}
-                                <span class="date">{{ .Date.Format "January 2, 2006" }}</span>
-                                {{ end }}
                                 <h1>{{ .Title }}</h1>
                                 <p>{{ .Description }}</p>
                             </header>
@@ -29,6 +26,10 @@
 
                             {{ partial "postcustom" . }}
                             
+                            {{ if not .Date.IsZero }}
+                            <h6><span class="date">Last Updated: {{ .Date.Format "January 2, 2006" }}</span></h6>
+                            {{ end }}
+
                             {{ if not (eq .Params.disableComments true) }}
                             {{ template "_internal/disqus.html" . }}
                             {{ end }}
