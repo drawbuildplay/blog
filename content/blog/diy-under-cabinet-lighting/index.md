@@ -10,7 +10,7 @@ images:
 - 'images/under_cabinet_lighting_wiring.png'
 
 resources:
-- name: Under Cabinet Lighting
+- name: DIY Under Cabinet Lighting for less than $30
   src: 'images/under_cabinet_lighting.png'
 ---
 

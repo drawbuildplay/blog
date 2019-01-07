@@ -10,7 +10,7 @@ images:
 - 'images/channelsapp.png'
 
 resources:
-- name: Cutting the Cord
+- name: Cutting the Cord to get Free Over The Air TV with HDHomeRun and Apple TV
   src: 'images/hdhomerun.jpg'
 ---
 
@@ -57,7 +57,7 @@ Before getting started, you will need to buy the following items:
 PART TWO - HOW TO STOP PAYING FOR CABLE TV
 -----------------------------------
 
-{{<imgproc "images/hdhomerun_network.png" Resize "1200x" >}}Network Setup{{</imgproc>}}
+{{<imgproc "images/hdhomerun_network.png" Resize "1200x" >}}Network Setup for Free Over the Air TV with HDHomeRun and Apple TV{{</imgproc>}}
 
 
 1.  You will need an [antenna](https://amzn.to/2CoCw2c) to receive the free Over The Air TV signal from the broadcaster.  There is a large variety of antenna's you can get.  If you have the ability to mount one inside your attic, or on your roof - you will get the best signal.  The [Mohu Leaf Antenna](https://amzn.to/2CoCw2c) I linked to is also a great option for mounting discretely on your wall and getting a good signal.  Make sure you antenna is positioned to get the best possible signals, else you may experience weakness on some channels.  A guide to the direction of your [local broadcast towers](https://antennaweb.org/Address) can be found here.  
@@ -77,7 +77,7 @@ PART TWO - HOW TO STOP PAYING FOR CABLE TV
 
 	> I pick up 132 channels, many of which are in High Definition.  However, theres only about 6 or so popular channels that we regularly watch (eg ABC, FOX, PBS, CBS, etc).
 
-	{{<imgproc "images/channelsapp.png" Resize "1200x" >}}Channels App for Apple TV{{</imgproc>}}
+	{{<imgproc "images/channelsapp.png" Resize "1200x" >}}Channels App for free Over The Air TV on Apple TV{{</imgproc>}}
 
 
 5.  If you have a Netflix, Amazon Prime, Hulu, or whatever your favorite streaming service is, then chances are there is an Apple TV app for that also and you can watch everything from just your Apple TV.

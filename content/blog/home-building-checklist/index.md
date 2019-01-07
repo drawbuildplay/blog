@@ -7,7 +7,7 @@ images:
 - 'images/home-building-checklist.png'
 
 resources:
-- name: Home Building Checklist
+- name: Free Home Building Checklist
   src: 'images/home-building-checklist.png'
 ---
 

@@ -7,7 +7,7 @@ images:
 - 'images/home-building-location.png'
 
 resources:
-- name: Home Building Location
+- name: Free Home Building Checklist - Choosing a Location Checklist
   src: 'images/home-building-location.png'
 ---
 
