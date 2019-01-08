@@ -3,7 +3,7 @@ languageCode = "en-us"
 title = "DrawBuildPlay"
 theme = "massively"
 disqusShortname = "drawbuildplay"
-googleAnalytics = "UA-73309318-1"
+googleAnalytics = "UA-73309318-2"
 
 # set below parameter to define a favicon
 [params]
