@@ -31,12 +31,12 @@ The first thing when scouting for a new home is [choosing a location]({{<ref "ho
 
 Read more about each of these items for [choosing a location]({{<ref "home-building-checklist-location">}}).
 
-Choosing a House Plan
+Choosing a Floor Plan
 ---------------------
 
 Many builders will offer a range of pre-designed plans to choose from.  Each plan may also have a number of elevations (front view) to select from.  Sometimes you get lucky and there are model homes you can walk through that give you an idea of how the floor plan will look once built.  
 
-These are the things to look for when choosing the floor plan that suits you:
+These are the things to look for when [choosing the floor plan]({{<ref "home-building-checklist-floorplan">}}) that suits you:
 
 - [ ] <label>Open Plan Living</label>
 - [ ] <label>Bedroom on Main</label>
@@ -73,7 +73,7 @@ Here are some of the other modifications that you should ask the builder:
 - [ ] <label>Wired Ethernet</label>
 - [ ] <label>Ceiling Mounted Wireless Access Points</label>
 - [ ] <label>Infinity Hot Water Line</label>
-- [ ] <label>Outlets above Kitchen Cabinets</label>
+- [ ] <label>[Outlets above Kitchen Cabinets]({{<ref "diy-under-cabinet-lighting">}})</label>
 - [ ] <label>Strategically placed floor outlets</label>
 - [ ] <label>Backsplash Options</label>
 - [ ] <label>Electric Car Charging Outlets</label>
