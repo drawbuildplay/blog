@@ -45,14 +45,28 @@ SHOPPING LIST
 
 Before getting started, you will need to buy the following items:
 
-|{{< figure src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B077H1XKLX&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=drawbuildplay-20&language=en_US" link="https://www.amazon.com/SiliconDust-HDHomeRun-HDHR5-2US-Splitter-Reusable/dp/B077H1XKLX/ref=as_li_ss_il?&linkCode=li2&tag=drawbuildplay-20&linkId=4357d5535d2230e6d9ec67c496322c4b&language=en_US" title="HDHomeRun Connect Duo (Around $90)" >}}|{{< figure src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00HSMK59E&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=drawbuildplay-20&language=en_US" link="https://www.amazon.com/Mohu-Paper-thin-Reversible-Performance-MH-110599/dp/B00HSMK59E/ref=as_li_ss_il?s=electronics&ie=UTF8&qid=1545250490&sr=1-7&keywords=mohu+leaf&linkCode=li2&tag=drawbuildplay-20&linkId=94f632b843e26904efc5b32a3f97b5cd&language=en_US" title="TV Antenna (Around $25 - $50)" >}}
-| ----------------------|------------|
+<div class="row">
+	<div class="col">
+		{{<affiliateImg Image "//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B077H1XKLX&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=drawbuildplay-20&language=en_US" URL "https://www.amazon.com/SiliconDust-HDHomeRun-HDHR5-2US-Splitter-Reusable/dp/B077H1XKLX/ref=as_li_ss_il?&linkCode=li2&tag=drawbuildplay-20&linkId=4357d5535d2230e6d9ec67c496322c4b&language=en_US" Title "HDHomeRun Connect Duo (Around $90)" >}}
+	</div>
+</div>
+<div class="row">
+	<div class="col">
+		{{<affiliateImg Image "//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00HSMK59E&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=drawbuildplay-20&language=en_US" URL "https://www.amazon.com/Mohu-Paper-thin-Reversible-Performance-MH-110599/dp/B00HSMK59E/ref=as_li_ss_il?s=electronics&ie=UTF8&qid=1545250490&sr=1-7&keywords=mohu+leaf&linkCode=li2&tag=drawbuildplay-20&linkId=94f632b843e26904efc5b32a3f97b5cd&language=en_US" Title "TV Antenna (Around $25 - $50)" >}}
+	</div>
+</div>
+<div class="row">
+	<div class="col">
+		{{<affiliateImg Image "images/appletv.png" URL "https://www.amazon.com/dp/B075NCMLYL/ref=twister_B075Y1BZDP?_encoding=UTF8&psc=1" Title "Apple TV 4K (Around $179)" >}}
+	</div>
+</div>
+<div class="row">
+	<div class="col">
+		{{<imgproc "images/channelsapp.png" Resize "360x" >}}Channels App for Apple TV (Around $25){{</imgproc>}}
+	</div>
+</div>
 
-
-
-|{{< figure src="images/appletv.png" link="https://www.amazon.com/dp/B075NCMLYL/ref=twister_B075Y1BZDP?_encoding=UTF8&psc=1" width="360" title="Apple TV 4K (Around $179)" >}}|{{<imgproc "images/channelsapp.png" Resize "360x" >}}Channels App for Apple TV (Around $25){{</imgproc>}}|
-|-------------|-------------|
-
+---
 
 PART TWO - HOW TO STOP PAYING FOR CABLE TV
 -----------------------------------
@@ -60,11 +74,11 @@ PART TWO - HOW TO STOP PAYING FOR CABLE TV
 {{<imgproc "images/hdhomerun_network.png" Resize "1200x" >}}Network Setup for Free Over the Air TV with HDHomeRun and Apple TV{{</imgproc>}}
 
 
-1.  You will need an [antenna](https://amzn.to/2CoCw2c) to receive the free Over The Air TV signal from the broadcaster.  There is a large variety of antenna's you can get.  If you have the ability to mount one inside your attic, or on your roof - you will get the best signal.  The [Mohu Leaf Antenna](https://amzn.to/2CoCw2c) I linked to is also a great option for mounting discretely on your wall and getting a good signal.  Make sure you antenna is positioned to get the best possible signals, else you may experience weakness on some channels.  A guide to the direction of your [local broadcast towers](https://antennaweb.org/Address) can be found here.  
+1.  You will need an {{<affiliatelink URL "https://amzn.to/2CoCw2c" Title "antenna">}} to receive the free Over The Air TV signal from the broadcaster.  There is a large variety of antenna's you can get.  If you have the ability to mount one inside your attic, or on your roof - you will get the best signal.  The {{<affiliatelink URL "https://amzn.to/2CoCw2c" Title "Mohu Leaf Antenna">}} I linked to is also a great option for mounting discretely on your wall and getting a good signal.  Make sure you antenna is positioned to get the best possible signals, else you may experience weakness on some channels.  A guide to the direction of your [local broadcast towers](https://antennaweb.org/Address) can be found here.  
 
 	> Helpful Tip: If you are in the process of building a new home, have the builder install a conduit from the attic to your network closet.  That way you can install an antenna in the attic, and thread the coax cable down to the basement where your router and hdhomerun can live.
 
-2.  Once you have your antenna where you want it to be and pointing in the right direction, plug it into your new [HDHomeRun](https://amzn.to/2BvtO0l).  The role of the HDHomeRun is to take the analog Over The Air signal, and make it available to stream on your home network where your Apple TV will be able to see it.  You will be connecting your antenna to the the coax input of your HDHomeRun.  Then connect an ethernet cable from your HDHomeRun to your Internet Router.
+2.  Once you have your antenna where you want it to be and pointing in the right direction, plug it into your new {{<affiliatelink URL "https://amzn.to/2BvtO0l" Title "HDHomeRun">}}.  The role of the HDHomeRun is to take the analog Over The Air signal, and make it available to stream on your home network where your Apple TV will be able to see it.  You will be connecting your antenna to the the coax input of your HDHomeRun.  Then connect an ethernet cable from your HDHomeRun to your Internet Router.
 
 3.  Install the Channels App on your Apple TV (4th Generation or higher). 
 	* Open the Channels App
