@@ -4,6 +4,7 @@ description: 'Watch TV for free without cable with an Apple TV, HDHomeRun, and o
 date: 2018-12-19T14:26:27-05:00
 categories: [home-improvement]
 aliases: ["blog/2018/12/19/how-to-cut-the-cord-with-free-over-the-air-tv/","blog/how-to-cut-the-cord-with-free-over-the-air-tv/"]
+pinableImage: 'images/hdhomerun.jpg'
 images:
 - 'images/hdhomerun.jpg'
 - 'images/hdhomerun_network.png'

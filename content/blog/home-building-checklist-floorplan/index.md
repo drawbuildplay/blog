@@ -3,6 +3,7 @@ title: "Home Building Checklist - Choosing a Floor Plan"
 description: "Once you have found a location for your new home, the next step is to choose the floor plan that is best for you.  Read our free checklist on finding your perfect floor plan."
 date: 2019-01-08
 categories: [home-improvement]
+pinableImage: 'images/choosing_a_floorplan.png'
 images:
 - 'images/choosing_a_floorplan.png'
 - 'images/plan.png'

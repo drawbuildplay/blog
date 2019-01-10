@@ -4,6 +4,7 @@ description: 'Its almost 2019, and there are so many online services out there y
 date: 2018-12-14T16:13:08-05:00
 categories: [home improvement]
 aliases: ["blog/2018/12/14/how-to-cut-the-cord---stop-paying-for-your-landline/"]
+pinableImage: 'images/landline.jpg'
 images:
 - 'images/landline.jpg'
 

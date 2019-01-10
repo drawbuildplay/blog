@@ -1,10 +1,13 @@
 ---
-title: "Home Building Checklist"
+title: "50 Awesome Hacks for Building a new home"
 description: "Congrats on deciding to build your new home. There are many items to consider to find and build your dream home.  Go through my home building checklist for building a new house to help you get into your dream home."
 date: 2019-01-03T21:09:27-05:00
 categories: [home-improvement]
+aliases: ["blog/home-building-checklist/"]
+
+pinableImage: 'images/50-awesome-hacks-building-a-home.png'
 images:
-- 'images/home-building-checklist.png'
+- 'images/50-awesome-hacks-building-a-home.png'
 
 resources:
 - name: Free Home Building Checklist
@@ -104,3 +107,4 @@ Once your home is built, you may want to incorporate the following smart home te
 - [ ] <label>Alternatives to Cable (Antenna) - [Free Over the Air TV]({{<ref "free-over-the-air-tv">}})</label>
 - [ ] <label>Technology Closet</label>
 - [ ] <label>Home Automation</label>
+
