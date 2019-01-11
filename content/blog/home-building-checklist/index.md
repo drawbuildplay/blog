@@ -34,6 +34,7 @@ The first thing when scouting for a new home is [choosing a location]({{<ref "ho
 
 Read more about each of these items for [choosing a location]({{<ref "home-building-checklist-location">}}).
 
+
 Choosing a Floor Plan
 ---------------------
 
