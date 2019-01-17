@@ -22,13 +22,13 @@ Here is what the laundry looked like before the makeover:
 
 It was pretty bland.  We had just purchased a new front loader washer and dryer, but we werent happy with the look of the room.  It just didn't do justice to the new gear in the room.  After being inspired by various other laundry remodels on Pinterest, we took the step to makeover our laundry room.
 
-I started of with getting these really nice and inexpensive wood panels from Lowes.  I covered the back and side walls with the panels to give it a nice depth and warmth.  Trim was added to help with the transition since I didnt want it to cover the entire side walls.  To attach these to the wall, the easiest thing to do is use Liquid Nails.  Stick it on the wall, then add a few molding nails along the studs so that it stays secure.
+I started of with getting these really nice and inexpensive wood panels from Home Depot.  I covered the back and side walls with the panels to give it a nice depth and warmth.  Trim was added to help with the transition since I didnt want it to cover the entire side walls.  To attach these to the wall, the easiest thing to do is use Liquid Nails.  Stick it on the wall, then add a few molding nails along the studs so that it stays secure.
 
 Once the wood panels were attached and secured (wait a few hours for the liquid nails to really dry), I painted the walls.  I wanted contrast between the back wall and the side panels.  The back wall panels are painted in Sherwin Williams - Repose Gray.  The side wood panels are Glossy White.  The side walls where the panels were not applied are again the Repose Gray.
 
 Next up was to put in a DIY counter top.  We wanted the wood to appear weathered.  This is actually surprisingly simple to DIY.
 
-1.  Buy some wood from Lowes.  We used the 12" deep boards (2" thick) and cut them down to width needed.  One of the boards was only 8" deep so that the counter would fit in the space when laid out next to each other.
+1.  Buy some wood from Home Depot.  We used the 12" deep boards (2" thick) and cut them down to width needed.  One of the boards was only 8" deep so that the counter would fit in the space when laid out next to each other.
 
 2.  After it has been laid out and you have dry fit it in the laundry, you get to have some fun and give it the weathered look.  Start by sanding it down with your mouse sander to get rid of any rough patches.  Sand down the edges so they too look a bit warn out and aren't so sharp.
 
