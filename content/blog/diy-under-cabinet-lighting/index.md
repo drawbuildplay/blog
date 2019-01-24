@@ -4,7 +4,7 @@ description: 'How to install your own gorgeous under cabinet kitchen lighting fo
 date: 2018-12-20T10:11:27-05:00
 categories: [home-improvement]
 aliases: ["blog/2018/12/20/diy-under-cabinet-lighting/"]
-pinableImage: 'images/under_cabinet_lighting.png'
+pinableImage: 'images/under_cabinet_lighting_pin.png'
 images:
 - 'images/under_cabinet_lighting.png'
 - 'images/under_cabinet_lighting_outlet.png'
