@@ -2,7 +2,7 @@
 title: "Watch TV for Free without cable"
 description: 'Watch TV for free without cable with an Apple TV, HDHomeRun, and over the air broadcasts. Why are you still paying cable?  We stopped paying them back in 2015 by combining free over the air TV with Netflix.  Learn how we did it.'
 date: 2018-12-19T14:26:27-05:00
-categories: [home-improvement]
+categories: [smart-home]
 aliases: ["blog/2018/12/19/how-to-cut-the-cord-with-free-over-the-air-tv/","blog/how-to-cut-the-cord-with-free-over-the-air-tv/"]
 pinableImage: 'images/watch_live_tv.png'
 images:

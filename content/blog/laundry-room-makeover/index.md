@@ -2,7 +2,7 @@
 title: "Laundry Room Makeover"
 description: 'DIY Small Laundry Room Makeover Reveal with a Farmhouse Vibe and Wooden Countertop.'
 date: 2019-01-15
-categories: [home-improvement]
+categories: [home-decor]
 pinableImage: 'images/laundry_room_makeover.png'
 images:
 - 'images/laundry_room_makeover_cover.png'
