@@ -53,6 +53,12 @@ fields:
   name: social_media_images
   label: Social Media Images
   description: Images for Pinterest and Facebook
+- type: textarea
+  name: social_media_text
+  label: Social Media Text
+  description: Text to be posted alongside Social Media Images (Use Keywords)
+  config:
+    required: false
 pages:
 - content/blog/home-building-checklist-floorplan.md
 - content/blog/home-building-checklist-location.md
