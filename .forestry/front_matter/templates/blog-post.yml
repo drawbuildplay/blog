@@ -1,0 +1,46 @@
+---
+label: Blog Post
+hide_body: 
+is_partial: 
+fields:
+- name: title
+  label: Title
+  type: text
+  hidden: false
+  default: ''
+- name: description
+  label: Description
+  type: textarea
+  hidden: false
+  default: ''
+- name: date
+  label: Date
+  type: datetime
+  hidden: false
+  default: ''
+- name: categories
+  label: Categories
+  type: tag_list
+  hidden: false
+  default: ''
+- name: images
+  label: Images
+  type: field_group
+  fields:
+  - name: is_pin_friendly
+    label: Is pin friendly
+    type: boolean
+    hidden: false
+    default: ''
+  - name: name
+    label: Name
+    type: text
+    hidden: false
+    default: ''
+  - name: src
+    label: Src
+    type: text
+    hidden: false
+    default: ''
+  hidden: false
+  default: ''
