@@ -50,5 +50,9 @@ fields:
   default: ''
   description: Cover Image for the Post
 pages:
+- content/blog/home-building-checklist-floorplan.md
+- content/blog/home-building-checklist-location.md
+- content/blog/how-to-cut-the-cord.md
+- content/blog/free-over-the-air-tv.md
 - content/blog/home-building-checklist.md
 - content/blog/diy-under-cabinet-lighting.md
