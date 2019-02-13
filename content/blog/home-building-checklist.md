@@ -2,6 +2,8 @@
 categories = ["home-building"]
 date = "2019-01-02T19:50:00-05:00"
 description = "Congrats on deciding to build your new home. There are many items to consider to find and build your dream home.  Go through my home building checklist for building a new house to help you get into your dream home."
+social_media_images = ["/uploads/50 Tips and Tricks to know when building your new home.png"]
+social_media_text = "50 Tips and Tricks to know when building your new home. Go through my home building checklist for building a new house to help you get into your dream home. #newhome #buildingguide #newconstruction #builder #dreamhome"
 title = "50 Awesome Hacks for Building a new home"
 [images]
 is_pin_friendly = false
