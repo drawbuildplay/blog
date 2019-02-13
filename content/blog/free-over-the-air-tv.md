@@ -3,7 +3,7 @@ categories = ["smart-home"]
 date = "2018-12-19"
 description = "Watch TV for free without cable with an Apple TV, HDHomeRun, and over the air broadcasts. Why are you still paying cable?  We stopped paying them back in 2015 by combining free over the air TV with Netflix.  Learn how we did it."
 social_media_images = ["/uploads/watch_live_tv.png"]
-social_media_text = "Watch TV for free without cable with an Apple TV, HDHomeRun, and over the air broadcasts. Why are you still paying cable? Learn how we did it.  #appletv #freetv #cutthecord #nomorecable #watchtvforfree"
+social_media_text = "Watch TV for free without cable with an Apple TV, HDHomeRun, and over the air broadcasts. Why are you still paying cable? Learn how we did it.  #appletv #freetv #cutthecord #nomorecable #watchtvforfree #getridofcomcast #getridofcable"
 title = "Watch TV for Free without cable"
 [images]
 is_pin_friendly = false
