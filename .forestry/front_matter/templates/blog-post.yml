@@ -49,6 +49,10 @@ fields:
   hidden: false
   default: ''
   description: Cover Image for the Post
+- type: image_gallery
+  name: social_media_images
+  label: Social Media Images
+  description: Images for Pinterest and Facebook
 pages:
 - content/blog/home-building-checklist-floorplan.md
 - content/blog/home-building-checklist-location.md
