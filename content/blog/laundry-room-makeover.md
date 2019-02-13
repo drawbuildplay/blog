@@ -1,23 +1,21 @@
----
-title: "Laundry Room Makeover"
-description: 'DIY Small Laundry Room Makeover Reveal with a Farmhouse Vibe and Wooden Countertop.'
-date: 2019-01-15
-categories: [home-decor]
-pinableImage: 'images/laundry_room_makeover.png'
-images:
-- 'images/laundry_room_makeover_cover.png'
++++
+title = "Laundry Room Makeover"
+description = "DIY Small Laundry Room Makeover Reveal with a Farmhouse Vibe and Wooden Countertop."
+date = "2019-01-15"
+categories = ["home-decor"]
+[images]
+is_pin_friendly = false
+name = "Laundry Room Makeover"
+src = "/uploads/laundry_room_makeover_cover.png"
++++
 
-resources:
-- name: Laundry Room Makeover
-  src: 'images/laundry_room_makeover_cover.png'
----
 
 Hi DIYers.  Welcome to my latest post on DIY projects.  This is one of the first projects I ever completed at home and inspired me to do many more since then.  Our home came equipped with two locations for the laundry room.  The standard one was downstairs behind the kitchen in what I consider to be a massively oversized room for a laundry.  But, we also asked the builder to equip one of the closets upstairs to be a laundry room, which he happily obliged.  We wanted our laundry to be upstairs, and the smaller closet location really made a lot of sense to us, since we dont really get the need for having oversized laundry rooms.  _I'll post later on what we did in what was supposed to be the downstairs laundry._  
 
 Here is what the laundry looked like before the makeover:
 
 
-{{<imgproc "images/laundry_room_before.png" Resize "600x" >}}Laundry Room Before the Makeover{{</imgproc>}}
+{{<imgproc "/uploads/laundry_room_before.png" Resize "600x" >}}Laundry Room Before the Makeover{{</imgproc>}}
 
 
 It was pretty bland.  We had just purchased a new front loader washer and dryer, but we werent happy with the look of the room.  It just didn't do justice to the new gear in the room.  After being inspired by various other laundry remodels on Pinterest, we took the step to makeover our laundry room.
@@ -47,7 +45,7 @@ Once installed, simply place the weathered boards on top.  Enjoy =)
 
 And now for the big reveal!
 
-{{<imgproc "images/laundry_room_after.png" Resize "600x" >}}Laundry Room Makeover{{</imgproc>}}
+{{<imgproc "/uploads/laundry_room_after.png" Resize "600x" >}}Laundry Room Makeover{{</imgproc>}}
 
 
 The laundry room is not fully complete yet (are any of our projects truly ever complete?).  Next we will be adding a shelf next to the cupboard there, which I plan to do as one of my upcoming projects (stay tuned). Probably a floating shelf or maybe pipes holding the shelf up.  Stay tuned for that update.  Also need to get some farmhouse signage that would look great in here.

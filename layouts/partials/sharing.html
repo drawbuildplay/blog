@@ -2,21 +2,26 @@
 {{ $title := .Title }}
 {{ $url := printf "%s" .URL | absLangURL }}
 {{ $body := print .Title " - " .Params.description }}
-{{ $pinImage := .Params.pinableImage}}
+{{ $pinImage := .Params.pinnableImage}}
 {{ $cover := print .Permalink $pinImage }}
 
 {{ with $data.social }}
 <section id="sharing" class="panelShare">
     <div class="box">
         <ul class="icons alt">
-           <li>
-              <span class="button primary" id="btnShare">Bookmark/Share this post</span>
-            </li>
             {{ with .pinterest}}
                 {{ if $pinImage }}
-                <li><a href="https://www.pinterest.com/pin/create/button/" data-pin-do="buttonPin" data-pin-custom="true" data-pin-media="{{ $cover }}" data-pin-description="{{ $body }}" class="icon alt fa-pinterest"><span class="label">Pinterest</span></a></li>
+                <li>
+                    <a href="https://www.pinterest.com/pin/create/button/" data-pin-do="buttonPin" data-pin-custom="true" data-pin-media="{{ $cover }}" data-pin-description="{{ $body }}">
+                        <span class="button primary" id="btnShare">Pin This For Later</span>
+                    </a>
+                </li>
                 {{ else }}
-                <li><a href="https://www.pinterest.com/pin/create/button/" data-pin-do="buttonPin" data-pin-custom="true"  data-pin-description="{{ $body }}" class="icon alt fa-pinterest"><span class="label">Pinterest</span></a></li>
+                <li>
+                    <a href="https://www.pinterest.com/pin/create/button/" data-pin-do="buttonPin" data-pin-custom="true"  data-pin-description="{{ $body }}">
+                        <span class="button primary" id="btnShare">Pin This For Later</span>
+                    </a>
+                </li>
                 {{ end }}
             {{ end}}
             

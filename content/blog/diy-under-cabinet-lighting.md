@@ -1,25 +1,19 @@
----
-title: "DIY Under Cabinet Lighting"
-description: 'How to install your own gorgeous under cabinet kitchen lighting for around $30.'
-date: 2018-12-20T10:11:27-05:00
-categories: [home-decor]
-aliases: ["blog/2018/12/20/diy-under-cabinet-lighting/"]
-pinableImage: 'images/under_cabinet_lighting_pin.png'
-images:
-- 'images/under_cabinet_lighting.png'
-- 'images/under_cabinet_lighting_outlet.png'
-- 'images/under_cabinet_lighting_wiring.png'
-
-resources:
-- name: DIY Under Cabinet Lighting for less than $30
-  src: 'images/under_cabinet_lighting.png'
----
++++
+title = "DIY Under Cabinet Lighting"
+description = 'How to install your own gorgeous under cabinet kitchen lighting for around $30.'
+date = "2018-12-20"
+categories = ["home-decor"]
+[images]
+is_pin_friendly = false
+name = "DIY Under Cabinet Lighting for less than $30"
+src = "/uploads/under_cabinet_lighting.png"
++++
 
 One of the things we wanted to do when we built our home was to have under cabinet lighting in our kitchen.  Getting this from our builder was going to be $200 per light, and with three sections in our kitchen this would have easily cost us $600 - $1000 depending on how much we got.
 
 After researching some ideas, we decided to install wired puck lights ourselves afterwards.  I had the builder install power outlets above the cabinets, connected to a wall switch. If you do this, have them install it horizontally so that the outlet is obstructed from view from the ground by the cabinets.
 
-{{<imgproc "images/under_cabinet_lighting_outlet.png" Resize "600x" >}}Under Cabinet Lighting Outlet{{</imgproc>}}
+{{<imgproc "/uploads/under_cabinet_lighting_outlet.png" Resize "600x" >}}Under Cabinet Lighting Outlet{{</imgproc>}}
 
 > If you can't install outlets, look around as you may already have one inside one of your cabinets to power your rangehood or microwave. Alternatively, you can install battery powered puck lights, and not worry about wiring.  I didnt want the hassle of replacing batteries and wanted to control them together easily, so went with wired.
 
@@ -36,7 +30,7 @@ INSTALLATION
 
 2. Look in between your cabinets.  There is usually a small gap between each cupboard, hidden by the framing of the cabinet.  This is where we are going to thread the wire.
 
-	{{<imgproc "images/under_cabinet_lighting_wiring.png" Resize "600x" >}}Under Cabinet Lighting Wiring{{</imgproc>}}
+	{{<imgproc "/uploads/under_cabinet_lighting_wiring.png" Resize "600x" >}}Under Cabinet Lighting Wiring{{</imgproc>}}
 
 3.  Carefully, climb up and connect the wire (per its instructions) to the wall outlet.  You can string it across the top of the cabinets to wherever your wall outlet is located.
 

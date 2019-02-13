@@ -1,19 +1,13 @@
----
-title: "Watch TV for Free without cable"
-description: 'Watch TV for free without cable with an Apple TV, HDHomeRun, and over the air broadcasts. Why are you still paying cable?  We stopped paying them back in 2015 by combining free over the air TV with Netflix.  Learn how we did it.'
-date: 2018-12-19T14:26:27-05:00
-categories: [smart-home]
-aliases: ["blog/2018/12/19/how-to-cut-the-cord-with-free-over-the-air-tv/","blog/how-to-cut-the-cord-with-free-over-the-air-tv/"]
-pinableImage: 'images/watch_live_tv.png'
-images:
-- 'images/hdhomerun.jpg'
-- 'images/hdhomerun_network.png'
-- 'images/channelsapp.png'
-
-resources:
-- name: Watch TV for free with an HDHomeRun and an Apple TV
-  src: 'images/hdhomerun.jpg'
----
++++
+title = "Watch TV for Free without cable"
+description = 'Watch TV for free without cable with an Apple TV, HDHomeRun, and over the air broadcasts. Why are you still paying cable?  We stopped paying them back in 2015 by combining free over the air TV with Netflix.  Learn how we did it.'
+date = "2018-12-19"
+categories = ["smart-home"]
+[images]
+is_pin_friendly = false
+name = "Watch TV for free with an HDHomeRun and an Apple TV"
+src = "/uploads/hdhomerun.jpg"
++++
 
 As I mentioned in my previous blog post on **[Part One - How to stop paying for your landline]({{<ref "/blog/how-to-cut-the-cord">}})**, most people pay between $100 and $250 each month to their cable providers.  They are paying for Internet, Phone, and TV.  My last post showed how you can save at least $20 per month by not paying your cable company for a phone line.  Now for the bigger savings.  Lets save some money by watching TV for free without cable.
 
@@ -58,12 +52,12 @@ Before getting started, you will need to buy the following items:
 </div>
 <div class="row">
 	<div class="col">
-		{{<affiliateImg Image "images/appletv.png" URL "https://www.amazon.com/dp/B075NCMLYL/ref=twister_B075Y1BZDP?_encoding=UTF8&psc=1" Title "Apple TV 4K (Around $179)" >}}
+		{{<affiliateImg Image "/uploads/appletv.png" URL "https://www.amazon.com/dp/B075NCMLYL/ref=twister_B075Y1BZDP?_encoding=UTF8&psc=1" Title "Apple TV 4K (Around $179)" >}}
 	</div>
 </div>
 <div class="row">
 	<div class="col">
-		{{<imgproc "images/channelsapp.png" Resize "360x" >}}Channels App for Apple TV (Around $25){{</imgproc>}}
+		{{<imgproc "/uploads/channelsapp.png" Resize "360x" >}}Channels App for Apple TV (Around $25){{</imgproc>}}
 	</div>
 </div>
 
@@ -72,7 +66,7 @@ Before getting started, you will need to buy the following items:
 HOW TO WATCH TV FOR FREE WITHOUT CABLE
 --------------------------------------
 
-{{<imgproc "images/hdhomerun_network.png" Resize "1200x" >}}Network Setup to Watch Free TV with HDHomeRun and Apple TV{{</imgproc>}}
+{{<imgproc "/uploads/hdhomerun_network.png" Resize "1200x" >}}Network Setup to Watch Free TV with HDHomeRun and Apple TV{{</imgproc>}}
 
 
 1.  You will need an {{<affiliatelink URL "https://amzn.to/2CoCw2c" Title "antenna">}} to receive the free Over The Air TV signal from the broadcaster.  There is a large variety of antenna's you can get.  If you have the ability to mount one inside your attic, or on your roof - you will get the best signal.  The {{<affiliatelink URL "https://amzn.to/2CoCw2c" Title "Mohu Leaf Antenna">}} I linked to is also a great option for mounting discretely on your wall and getting a good signal.  Make sure your antenna is positioned to get the best possible signals, else you may experience weakness on some channels.  A guide to the direction of your [local broadcast towers](https://antennaweb.org/Address) can be found here.  
@@ -92,7 +86,7 @@ HOW TO WATCH TV FOR FREE WITHOUT CABLE
 
 	> I pick up 132 channels, many of which are in High Definition.  However, theres only about 6 or so popular channels that we regularly watch (eg ABC, FOX, PBS, CBS, etc).
 
-	{{<imgproc "images/channelsapp.png" Resize "1200x" >}}Channels App for free Over The Air TV on Apple TV{{</imgproc>}}
+	{{<imgproc "/uploads/channelsapp.png" Resize "1200x" >}}Channels App for free Over The Air TV on Apple TV{{</imgproc>}}
 
 
 5.  If you have a Netflix, Amazon Prime, Hulu, or whatever your favorite streaming service is, then there is probably an Apple TV app for that also and you can watch everything from just your Apple TV.

@@ -39,37 +39,22 @@
 	    <meta property="og:description" content="{{ .Description }}">
 	    <meta property="og:url" content="{{ .Permalink }}">
 	    <meta property="og:site_name" content="{{ .Site.Title }}">
-	    {{ if .Params.pinableImage }}
-	    <meta property="og:image" content="{{ .Permalink }}{{ .Params.pinableImage }}">
-	    {{ else }}
-	    	{{ $cover := .Resources.GetMatch "*"}}
-	        {{ with $cover }}
-	    <meta property="og:image" content="{{ $cover.Permalink }}">
-		    {{ end }}
+	    
+
+		{{ $imageResources := .Site.GetPage "/uploads" }}
+        {{ with .Params.images }}
+            {{ $imageName := .name }}
+            {{ $imgToFind := strings.TrimPrefix "/uploads/" .src }}
+            {{ $imageResource := $imageResources.Resources.GetMatch (strings.TrimPrefix "/uploads/" .src ) }}
+	    <meta property="og:image" content="{{ $imageResource.Permalink }}">
 	    {{ end }}
-	    {{ range .Params.tags }}
+
+
+
+	    {{ range .Params.categories }}
 	    <meta property="og:tags" content="{{ . }}">
 	    {{ end }}
 	    <!-- End of Open Graph -->
-	    <!-- Start of Twitter -->
-    	{{ if .Description }}
-	    <meta property="twitter:card" content="{{ .Description }}">
-        {{ else }}
-	    <meta property="twitter:card" content="{{ .Title }}">
-        {{ end }}
-
-	    <meta property="twitter:description" content="{{ .Description }}">
-	    <meta property="twitter:title" content="{{ .Title }}">
-	    
-	    {{ if .Params.pinableImage }}
-	    <meta property="twitter:image" content="{{ .Permalink }}{{ .Params.pinableImage }}">
-	    {{ else }}
-	    	{{ $cover := .Resources.GetMatch "*"}}
-	        {{ with $cover }}
-	    <meta property="twitter:image" content="{{ $cover.Permalink }}">
-		    {{ end }}
-	    {{ end }}
-	    <!-- End of Twitter -->
 		
 		
 		<meta charset="utf-8" />

@@ -1,17 +1,13 @@
----
-title: "Home Building Checklist - Choosing a Floor Plan"
-description: "Once you have found a location for your new home, the next step is to choose the floor plan that is best for you.  Read our free checklist on finding your perfect floor plan."
-date: 2019-01-08
-categories: [home-building]
-pinableImage: 'images/choosing_a_floorplan.png'
-images:
-- 'images/choosing_a_floorplan.png'
-- 'images/plan.png'
-- 'images/openplan_vs_closedplan.png'
-
-resources:
-- name: Free Home Building Checklist - Choosing a Floor Plan Checklist
-  src: 'images/choosing_a_floorplan.png'
++++
+title = "Home Building Checklist - Choosing a Floor Plan"
+description = "Once you have found a location for your new home, the next step is to choose the floor plan that is best for you.  Read our free checklist on finding your perfect floor plan."
+date = "2019-01-08"
+categories = ["home-building"]
+[images]
+is_pin_friendly = false
+name = "Free Home Building Checklist - Choosing a Floor Plan Checklist"
+src = "/uploads/choosing_a_floorplan.png"
++++
 ---
 
 When building a new home (or even buying one that is already standing), you will want to go through our [free home building checklist]({{<ref "home-building-checklist">}}) to ensure you are considering everything you need in the layout of your home.
@@ -41,7 +37,7 @@ Another advantage of open plan living is the large space gives a more airy feel 
 
 You can see pictures below of my previous house vs my current home.  The openness is dramatic and our family gets to spend much more time together.
 
-{{<imgproc "images/openplan_vs_closedplan.png" Resize "600x" >}}Free Home Building Checklist - Closed Plan vs Open Plan{{</imgproc>}}
+{{<imgproc "/uploads/openplan_vs_closedplan.png" Resize "600x" >}}Free Home Building Checklist - Closed Plan vs Open Plan{{</imgproc>}}
 
 Bedroom on Main
 ---------------
@@ -78,7 +74,7 @@ Now that your plan is laid out, its time to look at the elevation.  Based on you
 
 Part of your elevation is also selecting bricks.  Some builders will offer full brick to no brick, or something in between (eg a third of the way up only).  Choose what you want here, based on cost and preference.  This is really a personal choice.  Up north you may want more brick to insulate you from the colder winters.  In the South, it really doesnt matter.
 
-{{<imgproc "images/plan.png" Resize "600x" >}}Free Home Building Checklist - Choosing an Elevation{{</imgproc>}}
+{{<imgproc "/uploads/plan.png" Resize "600x" >}}Free Home Building Checklist - Choosing an Elevation{{</imgproc>}}
 
 
 Ceiling Height

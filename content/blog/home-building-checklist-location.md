@@ -1,16 +1,15 @@
++++
+title = "Home Building Checklist - Choosing a Location"
+description = "The first thing when scouting for a new home is choosing a location.  Whether you plan to buy a plot of land and use a custom architect/builder, or if you plan to go with one of the many neighborhoods built with existing plans by Pulte, DR Horton, or other large developers, the first step is to find a home in your desired location."
+date = "2019-01-04"
+categories = ["home-building"]
+[images]
+is_pin_friendly = false
+name = "Free Home Building Checklist - Choosing a Location Checklist"
+src = "/uploads/home-building-location.png"
++++
 ---
-title: "Home Building Checklist - Choosing a Location"
-description: "The first thing when scouting for a new home is choosing a location.  Whether you plan to buy a plot of land and use a custom architect/builder, or if you plan to go with one of the many neighborhoods built with existing plans by Pulte, DR Horton, or other large developers, the first step is to find a home in your desired location."
-date: 2019-01-04T10:11:27-05:00
-categories: [home-building]
-pinableImage: 'images/home-building-location.png'
-images:
-- 'images/home-building-location.png'
 
-resources:
-- name: Free Home Building Checklist - Choosing a Location Checklist
-  src: 'images/home-building-location.png'
----
 
 Choosing a great location for your new home is the first step in your [home building checklist]({{<ref "home-building-checklist">}}).  Continue reading to learn more about each of these items to help choose a location that meets your needs and land you in your dream home.
 

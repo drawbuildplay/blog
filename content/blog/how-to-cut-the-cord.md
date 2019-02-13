@@ -1,18 +1,13 @@
----
-title: "How to Cut the Cord - Stop paying for your landline"
-description: 'Its almost 2019, and there are so many online services out there you may wonder what the point is still paying for cable.  Here is a step by step guide to stop paying for the phone line from the cable companies. My family has not paid for a landline since 2011.'
-date: 2018-12-14T16:13:08-05:00
-categories: [smart-home]
-aliases: ["blog/2018/12/14/how-to-cut-the-cord---stop-paying-for-your-landline/"]
-pinableImage: 'images/landline.jpg'
-images:
-- 'images/landline.jpg'
-
-resources:
-- name: Under Cabinet Lighting
-  src: 'images/landline.jpg'
----
----
++++
+title = "How to Cut the Cord - Stop paying for your landline"
+description = "Its almost 2019, and there are so many online services out there you may wonder what the point is still paying for cable.  Here is a step by step guide to stop paying for the phone line from the cable companies. My family has not paid for a landline since 2011."
+date = "2018-12-14"
+categories = ["home-building", "smart-home"]
+[images]
+is_pin_friendly = false
+name = "Under Cabinet Lighting"
+src = "/uploads/landline.jpg"
++++
 
 
 Many homes are still subscribed to cable.  Many are still paying for bundled services like Phone, Internet, and TV.  Often, these nasty cable bills are around $200 per month.

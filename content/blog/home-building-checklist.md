@@ -1,18 +1,13 @@
----
-title: "50 Awesome Hacks for Building a new home"
-description: "Congrats on deciding to build your new home. There are many items to consider to find and build your dream home.  Go through my home building checklist for building a new house to help you get into your dream home."
-date: 2019-01-03T21:09:27-05:00
-categories: [home-building]
-aliases: ["blog/home-building-checklist/"]
-
-pinableImage: 'images/50-awesome-hacks-building-a-home.png'
-images:
-- 'images/50-awesome-hacks-building-a-home.png'
-
-resources:
-- name: Free Home Building Checklist
-  src: 'images/home-building-checklist.png'
----
++++
+title = "50 Awesome Hacks for Building a new home"
+description = "Congrats on deciding to build your new home. There are many items to consider to find and build your dream home.  Go through my home building checklist for building a new house to help you get into your dream home."
+date = "2019-01-03"
+categories =["home-building"]
+[images]
+is_pin_friendly = false
+name = "Free Home Building Checklist"
+src = "/uploads/home-building-checklist.png"
++++
 
 
 Choosing a Location
