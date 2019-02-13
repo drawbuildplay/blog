@@ -1,23 +1,27 @@
 ---
 label: Blog Post
-hide_body: 
-is_partial: 
+hide_body: false
+is_partial: false
 fields:
 - name: title
   label: Title
   type: text
   hidden: false
   default: ''
+  description: Blog Title (Use KeyWords)
 - name: description
   label: Description
   type: textarea
   hidden: false
   default: ''
+  description: Description (Use Keywords)
 - name: date
   label: Date
   type: datetime
   hidden: false
   default: ''
+  config:
+    required: true
 - name: categories
   label: Categories
   type: tag_list
@@ -31,7 +35,7 @@ fields:
     label: Is pin friendly
     type: boolean
     hidden: false
-    default: ''
+    default: false
   - name: name
     label: Name
     type: text
@@ -44,3 +48,4 @@ fields:
     default: ''
   hidden: false
   default: ''
+  description: Cover Image for the Post
