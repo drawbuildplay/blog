@@ -1,15 +1,14 @@
 +++
-title = "50 Awesome Hacks for Building a new home"
-description = "Congrats on deciding to build your new home. There are many items to consider to find and build your dream home.  Go through my home building checklist for building a new house to help you get into your dream home."
+categories = ["home-building"]
 date = "2019-01-03"
-categories =["home-building"]
+description = "Congrats on deciding to build your new home. There are many items to consider to find and build your dream home.  Go through my home building checklist for building a new house to help you get into your dream home."
+title = "50 Awesome Hacks for Building a new home"
 [images]
 is_pin_friendly = false
 name = "Free Home Building Checklist"
 src = "/uploads/home-building-checklist.png"
+
 +++
-
-
 Choosing a Location
 -------------------
 
@@ -103,4 +102,3 @@ Once your home is built, you may want to incorporate the following smart home te
 - [ ] <label>Alternatives to Cable (Antenna) - [Free Over the Air TV]({{<ref "free-over-the-air-tv">}})</label>
 - [ ] <label>Technology Closet</label>
 - [ ] <label>Home Automation</label>
-

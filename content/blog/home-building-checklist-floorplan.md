@@ -1,12 +1,13 @@
 +++
-title = "Home Building Checklist - Choosing a Floor Plan"
-description = "Once you have found a location for your new home, the next step is to choose the floor plan that is best for you.  Read our free checklist on finding your perfect floor plan."
-date = "2019-01-08"
 categories = ["home-building"]
+date = "2019-01-08"
+description = "Once you have found a location for your new home, the next step is to choose the floor plan that is best for you.  Read our free checklist on finding your perfect floor plan."
+title = "Home Building Checklist - Choosing a Floor Plan"
 [images]
 is_pin_friendly = false
 name = "Free Home Building Checklist - Choosing a Floor Plan Checklist"
 src = "/uploads/choosing_a_floorplan.png"
+
 +++
 ---
 
@@ -109,6 +110,3 @@ Below are a list of things that I think are most valuable from the texts, along 
 Feng Shui will dive into colors based on the direction of rooms in your house.  I may go into that in a future post.
 
 Let me know what you think in the comments below.  Also if there are other things you think are important to look at I'll be happy to update my post.
-
-
-

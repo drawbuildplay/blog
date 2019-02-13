@@ -1,15 +1,14 @@
 +++
-title = "How to Cut the Cord - Stop paying for your landline"
-description = "Its almost 2019, and there are so many online services out there you may wonder what the point is still paying for cable.  Here is a step by step guide to stop paying for the phone line from the cable companies. My family has not paid for a landline since 2011."
-date = "2018-12-14"
 categories = ["home-building", "smart-home"]
+date = "2018-12-14"
+description = "Its almost 2019, and there are so many online services out there you may wonder what the point is still paying for cable.  Here is a step by step guide to stop paying for the phone line from the cable companies. My family has not paid for a landline since 2011."
+title = "How to Cut the Cord - Stop paying for your landline"
 [images]
 is_pin_friendly = false
 name = "Under Cabinet Lighting"
 src = "/uploads/landline.jpg"
+
 +++
-
-
 Many homes are still subscribed to cable.  Many are still paying for bundled services like Phone, Internet, and TV.  Often, these nasty cable bills are around $200 per month.
 
 Now, what if I told you you didnt need to pay for phone or TV.  You can get internet service in most places for between $30 - $100 depending on how fast broadband speeds you want.  I currently pay AT&T for their Gigabit Fiber network $70/month.  My parents have comcast at 50 Megabit speeds for $50/month.  And thats it.  
@@ -54,5 +53,3 @@ TOTAL COST: approximately $50 (one time)
 ---------------------------
 
 Look out for **[Part 2]({{<ref "free-over-the-air-tv">}})** where I describe **[how we stopped paying for Cable TV]({{<ref "/blog/free-over-the-air-tv">}})**.
-
-

@@ -1,12 +1,13 @@
 +++
-title = "Home Building Checklist - Choosing a Location"
-description = "The first thing when scouting for a new home is choosing a location.  Whether you plan to buy a plot of land and use a custom architect/builder, or if you plan to go with one of the many neighborhoods built with existing plans by Pulte, DR Horton, or other large developers, the first step is to find a home in your desired location."
-date = "2019-01-04"
 categories = ["home-building"]
+date = "2019-01-04"
+description = "The first thing when scouting for a new home is choosing a location.  Whether you plan to buy a plot of land and use a custom architect/builder, or if you plan to go with one of the many neighborhoods built with existing plans by Pulte, DR Horton, or other large developers, the first step is to find a home in your desired location."
+title = "Home Building Checklist - Choosing a Location"
 [images]
 is_pin_friendly = false
 name = "Free Home Building Checklist - Choosing a Location Checklist"
 src = "/uploads/home-building-location.png"
+
 +++
 ---
 
@@ -79,13 +80,3 @@ Its always sunny in _Philadeplhia_
 You want to make sure your home will bask in the sun.  Check out where your house will be facing in the morning when the sun comes up, and what side of the house the sun will shine on in the evening as it sets.  Generally you want the front of the house to get morning sun (facing East), while in the evening you want the sun in the back while you are on the deck or enjoying your back yard.  There is also some feng shui (chinese) and vastu shashtra (hindu) techniques described for how your house should face if it appeals to you.
 
 If your house will always be shaded, then you may find it cooler all year round.  If it snows in your area you may find it takes longer to evaporate away, and rain takes longer to dry up.  Conversely, too much sun may also mean high heat in the summer months when you are trying to grill in the backyard.  This is a problem I face in the Southern Heat with the back of my house facing west.
-
-
-
-
-
-
-
-
-
-

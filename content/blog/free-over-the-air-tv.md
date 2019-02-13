@@ -1,14 +1,14 @@
 +++
-title = "Watch TV for Free without cable"
-description = 'Watch TV for free without cable with an Apple TV, HDHomeRun, and over the air broadcasts. Why are you still paying cable?  We stopped paying them back in 2015 by combining free over the air TV with Netflix.  Learn how we did it.'
-date = "2018-12-19"
 categories = ["smart-home"]
+date = "2018-12-19"
+description = "Watch TV for free without cable with an Apple TV, HDHomeRun, and over the air broadcasts. Why are you still paying cable?  We stopped paying them back in 2015 by combining free over the air TV with Netflix.  Learn how we did it."
+title = "Watch TV for Free without cable"
 [images]
 is_pin_friendly = false
 name = "Watch TV for free with an HDHomeRun and an Apple TV"
 src = "/uploads/hdhomerun.jpg"
-+++
 
++++
 As I mentioned in my previous blog post on **[Part One - How to stop paying for your landline]({{<ref "/blog/how-to-cut-the-cord">}})**, most people pay between $100 and $250 each month to their cable providers.  They are paying for Internet, Phone, and TV.  My last post showed how you can save at least $20 per month by not paying your cable company for a phone line.  Now for the bigger savings.  Lets save some money by watching TV for free without cable.
 
 First, lets determine if this is for you.  The below table will list what you should get, and what you may have to give up (or find other alternatives that I wont cover).
