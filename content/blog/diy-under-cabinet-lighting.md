@@ -1,14 +1,14 @@
 +++
-title = "DIY Under Cabinet Lighting"
-description = 'How to install your own gorgeous under cabinet kitchen lighting for around $30.'
-date = "2018-12-20"
 categories = ["home-decor"]
+date = "2018-12-20"
+description = "How to install your own gorgeous under cabinet kitchen lighting for around $30."
+title = "DIY Under Cabinet Lighting"
 [images]
 is_pin_friendly = false
 name = "DIY Under Cabinet Lighting for less than $30"
 src = "/uploads/under_cabinet_lighting.png"
-+++
 
++++
 One of the things we wanted to do when we built our home was to have under cabinet lighting in our kitchen.  Getting this from our builder was going to be $200 per light, and with three sections in our kitchen this would have easily cost us $600 - $1000 depending on how much we got.
 
 After researching some ideas, we decided to install wired puck lights ourselves afterwards.  I had the builder install power outlets above the cabinets, connected to a wall switch. If you do this, have them install it horizontally so that the outlet is obstructed from view from the ground by the cabinets.
