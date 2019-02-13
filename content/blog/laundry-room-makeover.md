@@ -3,6 +3,7 @@ categories = ["home-decor"]
 date = "2019-01-15"
 description = "DIY Small Laundry Room Makeover Reveal with a Farmhouse Vibe and Wooden Countertop."
 social_media_images = ["/uploads/laundry_room.png", "/uploads/pinterest-laundry-room-makeover.png"]
+social_media_text = "DIY Small Laundry Room Makeover Reveal with a Farmhouse Vibe and a Wooden Countertop, Weathered Boards and Panelled Walls #farmhouse #laundry #roomdecor #laundryroom"
 title = "Laundry Room Makeover"
 [images]
 is_pin_friendly = false
