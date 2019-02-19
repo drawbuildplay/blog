@@ -2,6 +2,8 @@
 categories = ["home-building"]
 date = "2019-01-08"
 description = "Once you have found a location for your new home, the next step is to choose the floor plan that is best for you.  Read our free checklist on finding your perfect floor plan."
+social_media_images = ["/uploads/Choosing a Floor Plan.png"]
+social_media_text = "Floor Plan Designs, Open Plan Living, Bedroom on Main, Basement Layout, Elevation, Ceiling Height, Feng Shui, Vastu Shashtra, Designing your home, New Floor Plan"
 title = "Home Building Checklist - Choosing a Floor Plan"
 [images]
 is_pin_friendly = false
