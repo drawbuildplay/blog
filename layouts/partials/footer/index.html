@@ -10,6 +10,15 @@
     </section>
 
     <section class="split contact">
+
+         <section>
+            <div class="field">
+                <label>Follow Us on Pinterest</label>
+                <a data-pin-do="embedUser" data-pin-board-width="600" data-pin-scale-height="240" data-pin-scale-width="80" href="https://www.pinterest.com/drawbuildplay/"></a>
+            </div>
+        </section>
+
+
         {{ with $data.contactinfo.bio }}
         <section>
             <div class="field">
@@ -19,6 +28,7 @@
         </section>
         {{ end }}
 
+        <!--
         <section>
             <form action="https://drawbuildplay.us7.list-manage.com/subscribe/post?u=12399181fb539534b4cf8657c&amp;id=c386eb80b2" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
                 <div class="fields">
@@ -26,7 +36,7 @@
                         <label for="mce-EMAIL">Subscribe to our mailing list</label>
                         <input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
                     </div>
-                    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+                    !-- real people should not fill this in and expect good things - do not remove this or risk form bot signups--
                     <div style="position: absolute; left: -5000px;" aria-hidden="true">
                         <input type="text" name="b_12399181fb539534b4cf8657c_c386eb80b2" tabindex="-1" value="">
                     </div>
@@ -36,46 +46,9 @@
                 </ul>
             </form>
         </section>
+        -->
 
-        {{ with $data.social }}
-        <section>
-            <h3>{{ i18n "CONTACT_SOCIAL" . }}</h3>
-            <ul class="icons alt">
-                {{ with .twitter}}
-                <li><a href="{{ . }}" class="icon alt fa-twitter" target="_blank"><span class="label">Twitter</span></a></li>
-                {{ end }}
-                {{ with .facebook}}
-                <li><a href="{{ . }}" class="icon alt fa-facebook" target="_blank"><span class="label">Facebook</span></a></li>
-                {{ end }}
-                {{ with .instagram}}
-                <li><a href="{{ . }}" class="icon alt fa-instagram" target="_blank"><span class="label">Instagram</span></a></li>
-                {{ end }}
-                {{ with .linkedin}}
-                <li><a href="{{ . }}" class="icon alt fa-linkedin" target="_blank"><span class="label">LinkedIn</span></a></li>
-                {{ end }}
-                {{ with .github}}
-                <li><a href="{{ . }}" class="icon alt fa-github" target="_blank"><span class="label">GitHub</span></a></li>
-                {{ end }}
-                {{ with .youtube}}
-                <li><a href="{{ . }}" class="icon alt fa-youtube" target="_blank"><span class="label">Youtube</span></a></li>
-                {{ end }}
-                {{ with .googleplus}}
-                <li><a href="{{ . }}" class="icon alt fa-google-plus" target="_blank"><span class="label">Google Plus</span></a></li>
-                {{ end }}
-                {{ with .lastfm}}
-                <li><a href="{{ . }}" class="icon alt fa-lastfm" target="_blank"><span class="label">Last.fm</span></a></li>
-                {{ end }}
-                {{ with .flickr}}
-                <li><a href="{{ . }}" class="icon alt fa-flickr" target="_blank"><span class="label">Flickr</span></a></li>
-                {{ end }}
-                {{ with .pinterest}}
-                <li><a href="{{ . }}" class="icon alt fa-pinterest" target="_blank"><span class="label">Pinterest</span></a></li>
-                {{ end }}
-            </ul>
-        </section>
-        {{ end }}
-
-
+       
 
     </section>
 </footer>
