@@ -2,6 +2,7 @@
 categories = ["home decor"]
 date = "2019-02-22T00:00:00-05:00"
 description = "Installing DIY outdoor lighting around your home is simpler than you think.  My home setup cost less than $500 all up, compared to professional installers who charge about $2,000 - $3,000 for a similar installation. DIY your outdoor lighting today!"
+draft = true
 social_media_images = []
 social_media_text = ""
 title = "DIY Outdoor Lighting"
@@ -44,11 +45,11 @@ You may get lucky and have an exterior outlet exactly where you want to place yo
 
 When I installed my transformer, I put it in the front of the house right where the lights were going to be.  In hindsight, I think I would have preferred to install my transformer around the side of the house near my HVAC units so that I wouldn't have the power wire visible by my front door where an outlet is.  Oh well, eventually I will move it.
 
-I purchased this {{<affiliatelink URL "https://amzn.to/2H0aBrR" Title "Transformer">}} from Amazon.  You will need to look at the wattage output of the {{<affiliatelink URL "https://amzn.to/2H0aBrR" Title "Transformer">}}, and add the the total watts for all of the bulbs you will be installing.  If using halogen bulbs, then the watts add up quickly and you will be limited by what the transformer can handle.  {{<affiliatelink URL "[https://amzn.to/2U4shGG](https://amzn.to/2U4shGG "https://amzn.to/2U4shGG")" Title "LED Bulbs">}} on the other hand are very bright these days and have the warm colors you want.  Their power usage is also incredibly low, resulting in many more LED bulbs supported by your {{<affiliatelink URL "https://amzn.to/2H0aBrR" Title "Transformer">}}.  We use these {{<affiliatelink URL "https://amzn.to/2U4shGG" Title "LED Bulbs">}}  in our outdoor lighting.
+I purchased this {{<affiliatelink URL "https://amzn.to/2H0aBrR" Title "Transformer">}} from Amazon.  You will need to look at the wattage output of the {{<affiliatelink URL "https://amzn.to/2H0aBrR" Title "Transformer">}}, and add the the total watts for all of the bulbs you will be installing.  If using halogen bulbs, then the watts add up quickly and you will be limited by what the transformer can handle.  {{<affiliatelink URL "https://amzn.to/2U4shGG" Title "LED Bulbs">}} on the other hand are very bright these days and have the warm colors you want.  Their power usage is also incredibly low, resulting in many more LED bulbs supported by your {{<affiliatelink URL "https://amzn.to/2H0aBrR" Title "Transformer">}}.  We use these {{<affiliatelink URL "https://amzn.to/2U4shGG" Title "LED Bulbs">}}  in our outdoor lighting.
 
 ## Installing your Outdoor Lighting
 
-Okay, now you have a plan, you have your {{<affiliatelink URL "https://amzn.to/2GWThnK" Title "Landscape Lights">}} and your {{<affiliatelink URL "https://amzn.to/2H0aBrR" Title "Transformer">}} and {{<affiliatelink URL "https://amzn.to/2E9XC3I" Title "Low Voltage Outdoor Cable">}}.  To install, start by laying the outdoor cabling where it will be.  Put each {{<affiliatelink URL "[https://amzn.to/2GWThnK](https://amzn.to/2GWThnK "https://amzn.to/2GWThnK")" Title "Flood Light">}} where they will be.  And put the transformer where it will be.  Make sure you have enough wire for this installation, and I recommend keeping lag near each section so you have room to both maneuver the wire as well as to add more lights in the future in between where you are installing now.
+Okay, now you have a plan, you have your {{<affiliatelink URL "https://amzn.to/2GWThnK" Title "Landscape Lights">}} and your {{<affiliatelink URL "https://amzn.to/2H0aBrR" Title "Transformer">}} and {{<affiliatelink URL "https://amzn.to/2E9XC3I" Title "Low Voltage Outdoor Cable">}}.  To install, start by laying the outdoor cabling where it will be.  Put each {{<affiliatelink URL "https://amzn.to/2GWThnK" Title "Flood Light">}} where they will be.  And put the transformer where it will be.  Make sure you have enough wire for this installation, and I recommend keeping lag near each section so you have room to both maneuver the wire as well as to add more lights in the future in between where you are installing now.
 
 Start with the Transformer.  Get it plugged in and make sure it turns on.  Now disconnect it before connecting any lights.
 
