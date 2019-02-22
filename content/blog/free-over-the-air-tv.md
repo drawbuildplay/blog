@@ -42,27 +42,25 @@ SHOPPING LIST
 
 Before getting started, you will need to buy the following items:
 
-<div class="row">
-	<div class="col">
-		{{<affiliateImg Image "//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B077H1XKLX&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=drawbuildplay-20&language=en_US" URL "https://www.amazon.com/SiliconDust-HDHomeRun-HDHR5-2US-Splitter-Reusable/dp/B077H1XKLX/ref=as_li_ss_il?&linkCode=li2&tag=drawbuildplay-20&linkId=4357d5535d2230e6d9ec67c496322c4b&language=en_US" Title "HDHomeRun Connect Duo (Around $90)" >}}
+<div class="box alt">
+	<div class="row">
+		<div class="col-4">
+			{{<affiliateImg Image "//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B077H1XKLX&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=drawbuildplay-20&language=en_US" URL "https://www.amazon.com/SiliconDust-HDHomeRun-HDHR5-2US-Splitter-Reusable/dp/B077H1XKLX/ref=as_li_ss_il?&linkCode=li2&tag=drawbuildplay-20&linkId=4357d5535d2230e6d9ec67c496322c4b&language=en_US" Title "HDHomeRun Connect Duo (Around $90)" >}}
+		</div> <
+		<div class="col-4">
+			{{<affiliateImg Image "//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00HSMK59E&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=drawbuildplay-20&language=en_US" URL "https://www.amazon.com/Mohu-Paper-thin-Reversible-Performance-MH-110599/dp/B00HSMK59E/ref=as_li_ss_il?s=electronics&ie=UTF8&qid=1545250490&sr=1-7&keywords=mohu+leaf&linkCode=li2&tag=drawbuildplay-20&linkId=94f632b843e26904efc5b32a3f97b5cd&language=en_US" Title "TV Antenna (Around $25 - $50)" >}}
+		</div>
+		<div class="col-4">
+			{{<affiliateImg Image "/uploads/appletv.png" URL "https://www.amazon.com/dp/B075NCMLYL/ref=twister_B075Y1BZDP?_encoding=UTF8&psc=1" Title "Apple TV 4K (Around $179)" >}}
+		</div>
 	</div>
-</div>
-<div class="row">
-	<div class="col">
-		{{<affiliateImg Image "//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00HSMK59E&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=drawbuildplay-20&language=en_US" URL "https://www.amazon.com/Mohu-Paper-thin-Reversible-Performance-MH-110599/dp/B00HSMK59E/ref=as_li_ss_il?s=electronics&ie=UTF8&qid=1545250490&sr=1-7&keywords=mohu+leaf&linkCode=li2&tag=drawbuildplay-20&linkId=94f632b843e26904efc5b32a3f97b5cd&language=en_US" Title "TV Antenna (Around $25 - $50)" >}}
+	<div class="row">
+		<div class="col-4">
+			{{<imgproc "/uploads/channelsapp.png" Resize "360x" >}}Channels App for Apple TV (Around $25){{</imgproc>}}
+		</div>
 	</div>
-</div>
-<div class="row">
-	<div class="col">
-		{{<affiliateImg Image "/uploads/appletv.png" URL "https://www.amazon.com/dp/B075NCMLYL/ref=twister_B075Y1BZDP?_encoding=UTF8&psc=1" Title "Apple TV 4K (Around $179)" >}}
-	</div>
-</div>
-<div class="row">
-	<div class="col">
-		{{<imgproc "/uploads/channelsapp.png" Resize "360x" >}}Channels App for Apple TV (Around $25){{</imgproc>}}
-	</div>
-</div>
-
+<div>
+	
 ---
 
 HOW TO WATCH TV FOR FREE WITHOUT CABLE

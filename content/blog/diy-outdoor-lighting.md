@@ -70,7 +70,7 @@ I prefer to use the {{<affiliatelink URL "https://amzn.to/2BPsSEQ" Title "iDevic
 
 ## Products Recommended
 
-<div class="box">
+<div class="box alt">
 
 <div class="row">   
 <div class="col-4">
