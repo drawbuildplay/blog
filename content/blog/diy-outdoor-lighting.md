@@ -2,7 +2,6 @@
 categories = ["home decor"]
 date = "2019-02-22T00:00:00-05:00"
 description = "Installing DIY outdoor lighting around your home is simpler than you think.  My home setup cost less than $500 all up, compared to professional installers who charge about $2,000 - $3,000 for a similar installation. DIY your outdoor lighting today!"
-draft = true
 social_media_images = []
 social_media_text = ""
 title = "DIY Outdoor Lighting"
