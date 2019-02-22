@@ -32,7 +32,7 @@ Choosing where to install your flood lights will depend on the look of your home
 
 Here is the plan I designed for our home.
 
-{{<imgproc "uploads/Outdoor-Lighting-Plan.png" Resize "600x" >}}DIY Outdoor Lighting Plan{{</imgproc>}} 
+{{<imgproc "/uploads/Outdoor-Lighting-Plan.png" Resize "600x" >}}DIY Outdoor Lighting Plan{{</imgproc>}} 
 
 Once you have your design planned out, and know what products to use, you might need to get permission from your HOA architectural committee if you are bound by HOA rules.
 
