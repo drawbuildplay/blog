@@ -30,9 +30,15 @@ Start by planning out what you want your lighting design to entail.
 
 Choosing where to install your flood lights will depend on the look of your home or garden, and what features you want highlighted at night.  A good choice is to start with the various walls of your house.  Are there features that should be highlighted?  Pillars and wall corners are good places to start, and on longer walls you may want to put lights in the middle also.  If you have a garden, then pointing the light source at trees will usually look good.  If you do this, make sure the front of the tree is lit up (rather than putting the light behind the tree).  That way, people looking at your home as they drive past will be able to see the tree/shrub.
 
+Here is the plan I designed for our home.
+
+![DIY Outdoor Lighting Plan](/uploads/Outdoor-Lighting-Plan.png "DIY Outdoor Lighting Plan")
+
+Once you have your design planned out, and know what products to use, you might need to get permission from your HOA architectural committee if you are bound by HOA rules.
+
 ## How to lay wiring under a footpath
 
-Common obstacles you may face while laying down the wiring is footpaths or driveways.  Thankfully you won't have to dig up that concrete.  The trick here is to dig a small trench on either side of your footpath.  Then place a 1 - 2 inch PVC pipe on your trench as we are going to push it under the foot path.  Make sure the PVC pipe is cut down to size (usually the width of your foot path, plus 1-2 feet extra on either side. You should also cover up the hole that will be pushing into the dirt.  Using something solid like a bolt works best, and then tape it up using duct tape or painters tape, so it can't come loose.  Next, using a hammer (or other strong solid object), start pounding the other side of your PVC pipe.  Every time you hit the pipe, it should go through the dirt a little more.  Continue until the pipe emerges on the other side.
+Common obstacles you may face while laying down the wiring is footpaths or driveways.  Thankfully you won't have to dig up that concrete.  As you can see in my plan above, I needed to cross the footpath in two places.  The trick here is to dig a small trench on either side of your footpath.  Then place a 1 - 2 inch PVC pipe on your trench as we are going to push it under the foot path to act as our wire conduit.  Make sure the PVC pipe is cut down to size (usually the width of your foot path, plus 1-2 feet extra on either side. You should also cover up the hole that will be pushing into the dirt, so that dirt doesn't get inside the pipe.  Using something solid like a bolt works best, and then tape it up using duct tape or painters tape, so it can't come loose.  Next, using a hammer (or other strong solid object), start pounding the other side of your PVC pipe.  Every time you hit the pipe, it should go through the dirt a little more.  Continue until the pipe emerges on the other side.
 
 > Note - if you are like me, you will get to the point where it should be on the other side.  But for whatever reason, the pipe may not have gone in perfectly straight.  This means the pipe on the other end may have come out deeper into the ground, or angled itself more.  If this happens to you, dig around until you find it.
 
@@ -42,7 +48,7 @@ Once you have found the other side of the PVC pipe, remove the bolt covering the
 
 You may get lucky and have an exterior outlet exactly where you want to place your lights.  Otherwise, you may have to go to the side of your house where your HVAC units are.  There is usually an outdoor outlet there.  If you have no outdoor outlets, you may need to call an electrician to install one.
 
-When I installed my transformer, I put it in the front of the house right where the lights were going to be.  In hindsight, I think I would have preferred to install my transformer around the side of the house near my HVAC units so that I wouldn't have the power wire visible by my front door where an outlet is.  Oh well, eventually I will move it.
+When I installed my transformer, I put it in the front of the house right where the lights were going to be. There are bushes in front of it so the plan is for it to be hidden behind those bushes as they grow. In hindsight, I think I would have preferred to install my transformer around the side of the house near my HVAC units so that I wouldn't have the power wire visible by my front door where an outlet is.  Oh well, eventually I will move it.
 
 I purchased this {{<affiliatelink URL "https://amzn.to/2H0aBrR" Title "Transformer">}} from Amazon.  You will need to look at the wattage output of the {{<affiliatelink URL "https://amzn.to/2H0aBrR" Title "Transformer">}}, and add the the total watts for all of the bulbs you will be installing.  If using halogen bulbs, then the watts add up quickly and you will be limited by what the transformer can handle.  {{<affiliatelink URL "https://amzn.to/2U4shGG" Title "LED Bulbs">}} on the other hand are very bright these days and have the warm colors you want.  Their power usage is also incredibly low, resulting in many more LED bulbs supported by your {{<affiliatelink URL "https://amzn.to/2H0aBrR" Title "Transformer">}}.  We use these {{<affiliatelink URL "https://amzn.to/2U4shGG" Title "LED Bulbs">}}  in our outdoor lighting.
 
@@ -72,7 +78,7 @@ I prefer to use the {{<affiliatelink URL "https://amzn.to/2BPsSEQ" Title "iDevic
 
 <div class="box alt">
 
-<div class="row">   
+<div class="row">  
 <div class="col-4">
 
 {{<affiliateImg Image "//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B001CA47CO&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=drawbuildplay-20&language=en_US" URL "https://www.amazon.com/dp/B001CA47CO/ref=as_li_ss_il?ie=UTF8&linkCode=li2&tag=drawbuildplay-20&linkId=4e14e64c47d2cf5521e43e235606d664&language=en_US" Title "Landscape Lighting" >}}
