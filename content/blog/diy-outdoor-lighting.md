@@ -12,7 +12,6 @@ name = "Outdoor Lighting"
 src = "/uploads/outdoor_lighting.jpeg"
 
 +++
-
 ## Plan out your Outdoor Lighting Design
 
 So, how did I DIY install my Outdoor Lighting?
@@ -46,26 +45,38 @@ You may get lucky and have an exterior outlet exactly where you want to place yo
 
 When I installed my transformer, I put it in the front of the house right where the lights were going to be.  In hindsight, I think I would have preferred to install my transformer around the side of the house near my HVAC units so that I wouldn't have the power wire visible by my front door where an outlet is.  Oh well, eventually I will move it.
 
-I purchased this **Transformer** from Amazon.  You will need to look at the wattage output of the transformer, and add the the total watts for all of the lights you will be installing.  If using halogen bulbs, then the watts add up quickly and you will be limited by what the transformer can handle.  LED bulbs on the other hand are very bright these days and have the warm colors you want.  Their power usage is also incredibly low, resulting in many more LED bulbs supported by your Transformer.  We use these **LED bulbs** in our outdoor lighting.
+I purchased this {{<affiliatelink URL "https://amzn.to/2H0aBrR" Title "Transformer">}} from Amazon.  You will need to look at the wattage output of the {{<affiliatelink URL "https://amzn.to/2H0aBrR" Title "Transformer">}}, and add the the total watts for all of the bulbs you will be installing.  If using halogen bulbs, then the watts add up quickly and you will be limited by what the transformer can handle.  {{<affiliatelink URL "[https://amzn.to/2U4shGG](https://amzn.to/2U4shGG "https://amzn.to/2U4shGG")" Title "LED Bulbs">}} on the other hand are very bright these days and have the warm colors you want.  Their power usage is also incredibly low, resulting in many more LED bulbs supported by your {{<affiliatelink URL "https://amzn.to/2H0aBrR" Title "Transformer">}}.  We use these {{<affiliatelink URL "https://amzn.to/2U4shGG" Title "LED Bulbs">}}  in our outdoor lighting.
 
 ## Installing your Outdoor Lighting
 
-Okay, now you have a plan, you have our lights and your transformer and wires.  To install, start by laying the wire out where it will be.  Put each flood light where they will be.  And put the transformer where it will be.  Make sure you have enough wire for this installation, and I recommend keeping lag near each section so you have room to both maneuver the wire as well as to add more lights in the future in between where you are installing now.
+Okay, now you have a plan, you have your {{<affiliatelink URL "https://amzn.to/2GWThnK" Title "Landscape Lights">}} and your {{<affiliatelink URL "https://amzn.to/2H0aBrR" Title "Transformer">}} and {{<affiliatelink URL "https://amzn.to/2E9XC3I" Title "Low Voltage Outdoor Cable">}}.  To install, start by laying the outdoor cabling where it will be.  Put each {{<affiliatelink URL "[https://amzn.to/2GWThnK](https://amzn.to/2GWThnK "https://amzn.to/2GWThnK")" Title "Flood Light">}} where they will be.  And put the transformer where it will be.  Make sure you have enough wire for this installation, and I recommend keeping lag near each section so you have room to both maneuver the wire as well as to add more lights in the future in between where you are installing now.
 
 Start with the Transformer.  Get it plugged in and make sure it turns on.  Now disconnect it before connecting any lights.
 
 Install the first light by cutting the wire with wire cutters or a sharp knife.  You will need to expose the wiring by removing some of the rubber sheathing.  Connect the wire to the light, taking note of the + and - terminals.  Continue the wire to the next location, and repeat until all of your lights are connected.  Your wires will also likely come with a waterproof silicon gel and wire nuts which you will apply where you splice and connect the wires.  This keeps the setup safe from the water when it rains under the dirt.
 
-A good piece of advise is after each light is connected, test that it does turn on by reconnecting your transformer and turning it on.  This avoids trying to figure out what you did wrong at the end when you have no idea which one has a loose connection, or if the bulb was bad.
+A good piece of advise is after each light is connected and bulb installed, test that it does turn on by reconnecting your transformer and turning it on.  This avoids trying to figure out what you did wrong at the end when you have no idea which one has a loose connection, or if the bulb was bad.
 
-As you install each light, start burying the wire under about 1 - 2 inches of dirt.  Once complete, put any mulch or pine straw over the top also.  
+As you install each light, start burying the wire under about 1 - 2 inches of dirt.  Once complete, put any mulch or pine straw over the top also.
 
 Check out how the lights look at dusk or when it gets dark.  Take this time to reposition the angle of your lights so they are pointing to the preferred spots.  You may also need to move them around by a few inches so things like symmetrical etc.
 
 ## Smart Home Automation
 
-Now that your outdoor lights are set up and looking beautiful, next is to automate them.  You probably don't want to remember to turn them on in the evening, and off in the morning.  
+Now that your outdoor lights are set up and looking beautiful, next is to automate them.  You probably don't want to remember to turn them on in the evening, and off in the morning.
 
 Some transformers will come with a light sensor and/or timer that can be used for scheduling when your lights should be on or off.
 
-I prefer to use the iDevices Outdoor Plug.  This lets me control the power state to the transformer, using Apple HomeKit and Siri.  It also works with Google Assistant and Amazon Alexa.  As a result, I now have automation called "Evening Lights", which triggers 30 minutes after sunset.  It will turn on my porch and garage lights, along with my garden lights, all via automation.  All of the above will turn off later that night so that I'm not burning power into the long hours of the night.
+I prefer to use the {{<affiliatelink URL "https://amzn.to/2BPsSEQ" Title "iDevices Outdoor Switch">}}.  This lets me control the power state to the transformer, using Apple HomeKit and Siri.  It also works with Google Assistant and Amazon Alexa, and doesn't require a separate hub.  As a result, I now have automation called "Evening Lights", which triggers 30 minutes after sunset.  It will turn on my porch and garage lights, along with my garden lights, all via automation.  All of the above will turn off later that night so that I'm not burning power into the long hours of the night.
+
+## Products Recommended
+
+{{<affiliateImg Image "//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B001CA47CO&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=drawbuildplay-20&language=en_US" URL "https://www.amazon.com/dp/B001CA47CO/ref=as_li_ss_il?ie=UTF8&linkCode=li2&tag=drawbuildplay-20&linkId=4e14e64c47d2cf5521e43e235606d664&language=en_US" Title "Landscape Lighting" >}}
+
+{{<affiliateImg Image "//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B002PN4Z8S&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=drawbuildplay-20&language=en_US" URL "https://www.amazon.com/dp/B002PN4Z8S/ref=as_li_ss_il?ie=UTF8&linkCode=li2&tag=drawbuildplay-20&linkId=c5ab74ff9ea0bf683b86cc550c5cdc16&language=en_US" Title "Outdoor Lighting Transformer" >}}
+
+{{<affiliateImg Image "//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B002G9TND8&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=drawbuildplay-20&language=en_US" URL "https://www.amazon.com/dp/B002G9TND8/ref=as_li_ss_il?ie=UTF8&linkCode=li2&tag=drawbuildplay-20&linkId=114cb23d5af01cca856ff2aa4110b236&language=en_US" Title "Outdoor Low Voltage Cabling" >}}
+
+{{<affiliateImg Image "//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01N75RRDH&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=drawbuildplay-20&language=en_US" URL "https://www.amazon.com/gp/product/B01N75RRDH/ref=as_li_ss_il?ie=UTF8&psc=1&linkCode=li2&tag=drawbuildplay-20&linkId=87c3882f31f2e3bcc50751b6fb1be41f&language=en_US" Title "Outdoor LED Bulbs" >}}
+
+{{<affiliateImg Image "//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B019IJNKCS&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=drawbuildplay-20&language=en_US" URL "https://www.amazon.com/dp/B019IJNKCS/ref=as_li_ss_il?ie=UTF8&linkCode=li2&tag=drawbuildplay-20&linkId=35a9b740a9b9e96e8198b79d6c91118c&language=en_US" Title "iDevices Outdoor Switch" >}}
