@@ -70,12 +70,38 @@ I prefer to use the {{<affiliatelink URL "https://amzn.to/2BPsSEQ" Title "iDevic
 
 ## Products Recommended
 
+<div class="row">   
+<div class="col">
+
 {{<affiliateImg Image "//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B001CA47CO&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=drawbuildplay-20&language=en_US" URL "https://www.amazon.com/dp/B001CA47CO/ref=as_li_ss_il?ie=UTF8&linkCode=li2&tag=drawbuildplay-20&linkId=4e14e64c47d2cf5521e43e235606d664&language=en_US" Title "Landscape Lighting" >}}
+
+</div>
+
+<div class="col">
 
 {{<affiliateImg Image "//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B002PN4Z8S&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=drawbuildplay-20&language=en_US" URL "https://www.amazon.com/dp/B002PN4Z8S/ref=as_li_ss_il?ie=UTF8&linkCode=li2&tag=drawbuildplay-20&linkId=c5ab74ff9ea0bf683b86cc550c5cdc16&language=en_US" Title "Outdoor Lighting Transformer" >}}
 
+</div>  
+<div class="col">
+
 {{<affiliateImg Image "//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B002G9TND8&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=drawbuildplay-20&language=en_US" URL "https://www.amazon.com/dp/B002G9TND8/ref=as_li_ss_il?ie=UTF8&linkCode=li2&tag=drawbuildplay-20&linkId=114cb23d5af01cca856ff2aa4110b236&language=en_US" Title "Outdoor Low Voltage Cabling" >}}
+
+</div>
+
+</div>
+
+<div class="row">
+
+<div class="col">
 
 {{<affiliateImg Image "//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01N75RRDH&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=drawbuildplay-20&language=en_US" URL "https://www.amazon.com/gp/product/B01N75RRDH/ref=as_li_ss_il?ie=UTF8&psc=1&linkCode=li2&tag=drawbuildplay-20&linkId=87c3882f31f2e3bcc50751b6fb1be41f&language=en_US" Title "Outdoor LED Bulbs" >}}
 
+</div>
+
+<div class="col">
+
 {{<affiliateImg Image "//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B019IJNKCS&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=drawbuildplay-20&language=en_US" URL "https://www.amazon.com/dp/B019IJNKCS/ref=as_li_ss_il?ie=UTF8&linkCode=li2&tag=drawbuildplay-20&linkId=35a9b740a9b9e96e8198b79d6c91118c&language=en_US" Title "iDevices Outdoor Switch" >}}
+
+</div>
+
+</div>
