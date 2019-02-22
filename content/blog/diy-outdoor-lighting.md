@@ -8,8 +8,8 @@ social_media_text = ""
 title = "DIY Outdoor Lighting"
 [images]
 is_pin_friendly = false
-name = ""
-src = ""
+name = "Outdoor Lighting"
+src = "/uploads/outdoor_lighting.jpeg"
 
 +++
 
