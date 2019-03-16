@@ -1,11 +1,11 @@
 +++
 categories = []
 date = "2019-03-16T00:00:00-04:00"
-description = "Got a new car, but you don't want your kids to mess up the seats.  Try this amazing new find I found to keep your seats looking like new."
+description = "Got a new car, but you don't want your kids to mess up the seats with the little muddy feet.  Try this amazing easy new DIY find I found to keep your seats looking like new."
 draft = true
-social_media_images = []
-social_media_text = ""
-title = "How To Save your New Car From Kicking Feet"
+social_media_images = ["/uploads/Kick Mats.png"]
+social_media_text = "Kick Mats will save your car from those little muddy kicking feet"
+title = "DIY How To Save your New Car From Little Muddy Kicking Feet"
 [images]
 name = "Seat Protector from Kicking Feet"
 src = "/uploads/fullsizeoutput_1d24.jpeg"
@@ -15,7 +15,7 @@ So a few months ago I purchased a new Tesla Model 3.  It's my dream car and I am
 
 Anyone with kids in will know that for some reason they have to kick the seats in front of them.  It's all that energy they have I guess where they can't just sit still.
 
-I started to see scuff marks against the back of the seat from the shoes (not to mention the dirt and other stuff).  This was a nightmare.  I want to drive the car all the time, but how do I get the kids to keep it clean?!!  
+I started to see scuff marks against the back of the seat from the shoes (not to mention the dirt and mud and who knows what other stuff).  This was a nightmare.  I want to drive the car all the time, but how do I get the kids to keep it clean?!!  
 
 Well, after some searching on Amazon, and talking with other Tesla owners, I came across these Kick Mats ($19) that hook over the seat to protect the backs of the seats from kicking feet.
 
