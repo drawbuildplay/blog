@@ -1,5 +1,5 @@
 +++
-categories = []
+categories = ["smart home"]
 date = "2019-03-16T00:00:00-04:00"
 description = "Got a new car, but you don't want your kids to mess up the seats with the little muddy feet.  Try this amazing easy new DIY find I found to keep your seats looking like new."
 social_media_images = ["/uploads/Kick Mats.png"]
