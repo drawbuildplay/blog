@@ -13,13 +13,13 @@ src = "/uploads/fullsizeoutput_1d24.jpeg"
 +++
 So a few months ago I purchased a new Tesla Model 3.  It's my dream car and I am totally in love with it.  We made this our main car, which meant with two kids we have two car seats in the back.
 
-Anyone with kids will know that for some reason they have to kick the seats in from of them.  It's all that energy they have I guess where they can't just sit still.
+Anyone with kids in will know that for some reason they have to kick the seats in front of them.  It's all that energy they have I guess where they can't just sit still.
 
 I started to see scuff marks against the back of the seat from the shoes (not to mention the dirt and other stuff).  This was a nightmare.  I want to drive the car all the time, but how do I get the kids to keep it clean?!!  
 
-Well, after some searching on Amazon, and talking with other Tesla owners, I came across these Kick Mats that hook over the seat to protect the backs of the seats from kicking feet.
+Well, after some searching on Amazon, and talking with other Tesla owners, I came across these Kick Mats ($19) that hook over the seat to protect the backs of the seats from kicking feet.
 
-{{<affiliateImg Image "https://ir-na.amazon-adsystem.com/e/ir?t=drawbuildplay-20&language=en_US&l=li3&o=1&a=B00P9EJGR0" URL "https://www.amazon.com/Enovoe-Kick-Mats-waterproof-protection/dp/B00P9EJGR0/ref=as_li_ss_il?_encoding=UTF8&psc=1&refRID=NW7P42SZ10M4G46QB6TJ&linkCode=li3&tag=drawbuildplay-20&linkId=52eb482444081d9dcb4f990f1b537a0f&language=en_US" Title "Kick Mats" >}}
+{{<affiliateImg Image "//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00P9EJGR0&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=drawbuildplay-20&language=en_US" URL "https://www.amazon.com/Enovoe-Kick-Mats-waterproof-protection/dp/B00P9EJGR0/ref=as_li_ss_il?_encoding=UTF8&psc=1&refRID=NW7P42SZ10M4G46QB6TJ&linkCode=li3&tag=drawbuildplay-20&linkId=52eb482444081d9dcb4f990f1b537a0f&language=en_US" Title "Kick Mats" >}}
 
 I installed them this week, and omg these are a life saver.
 
