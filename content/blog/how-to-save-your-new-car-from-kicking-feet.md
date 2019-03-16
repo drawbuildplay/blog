@@ -2,7 +2,6 @@
 categories = []
 date = "2019-03-16T00:00:00-04:00"
 description = "Got a new car, but you don't want your kids to mess up the seats with the little muddy feet.  Try this amazing easy new DIY find I found to keep your seats looking like new."
-draft = true
 social_media_images = ["/uploads/Kick Mats.png"]
 social_media_text = "Kick Mats will save your car from those little muddy kicking feet"
 title = "DIY How To Save your New Car From Little Muddy Kicking Feet"
