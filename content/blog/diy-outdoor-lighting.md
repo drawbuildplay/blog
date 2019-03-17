@@ -1,9 +1,9 @@
 +++
 categories = ["home decor"]
 date = "2019-02-22T00:00:00-05:00"
-description = "Installing DIY outdoor landscape lighting around your home is simpler than you think.  My home setup cost less than $500 all up, compared to professional installers who charge about $2,000 - $3,000 for a similar installation. DIY your outdoor landscape lighting today!"
+description = "Installing DIY outdoor landscape lighting around your home is simpler than you think.  DIY your outdoor landscape lighting today in 6 simple steps.  My home setup cost less than $500 all up, compared to professional installers who charge about $2,000 - $3,000 for a similar installation. "
 social_media_images = ["/uploads/Landscape Lighting.png"]
-social_media_text = "DIY Outdoor Landscape Lighting is so easy and cheap to do. Landscape Lighting that will be the envy of your neighbors. #diy #landscapelighting #outdoorlighting #outdoorliving #lighting #frontyardappeal #curbappeal"
+social_media_text = "DIY Outdoor Landscape Lighting in 6 simple steps is so easy and cheap to do. Landscape Lighting that will be the envy of your neighbors. #diy #landscapelighting #outdoorlighting #outdoorliving #lighting #frontyardappeal #curbappeal"
 title = "DIY Outdoor Landscape Lighting"
 [images]
 is_pin_friendly = false
@@ -52,19 +52,17 @@ When I installed my transformer, I put it in the front of the house right where 
 
 I purchased this {{<affiliatelink URL "https://amzn.to/2H0aBrR" Title "Transformer">}} from Amazon.  You will need to look at the wattage output of the {{<affiliatelink URL "https://amzn.to/2H0aBrR" Title "Transformer">}}, and add the the total watts for all of the bulbs you will be installing.  If using halogen bulbs, then the watts add up quickly and you will be limited by what the transformer can handle.  {{<affiliatelink URL "https://amzn.to/2U4shGG" Title "LED Bulbs">}} on the other hand are very bright these days and have the warm colors you want.  Their power usage is also incredibly low, resulting in many more LED bulbs supported by your {{<affiliatelink URL "https://amzn.to/2H0aBrR" Title "Transformer">}}.  We use these {{<affiliatelink URL "https://amzn.to/2U4shGG" Title "LED Bulbs">}}  in our outdoor lighting.
 
-## Installing your Outdoor Landscape Lighting
+## How to install your outdoor landscape lighting in 6 simple steps
 
 Okay, now you have a plan, you have your {{<affiliatelink URL "https://amzn.to/2GWThnK" Title "Landscape Lights">}} and your {{<affiliatelink URL "https://amzn.to/2H0aBrR" Title "Transformer">}} and {{<affiliatelink URL "https://amzn.to/2E9XC3I" Title "Low Voltage Outdoor Cable">}}.  To install, start by laying the outdoor cabling where it will be.  Put each {{<affiliatelink URL "https://amzn.to/2GWThnK" Title "Flood Light">}} where they will be.  And put the transformer where it will be.  Make sure you have enough wire for this installation, and I recommend keeping lag near each section so you have room to both maneuver the wire as well as to add more lights in the future in between where you are installing now.
 
-Start with the Transformer.  Get it plugged in and make sure it turns on.  Now disconnect it before connecting any lights.
-
-Install the first light by cutting the wire with wire cutters or a sharp knife.  You will need to expose the wiring by removing some of the rubber sheathing.  Connect the wire to the light, taking note of the + and - terminals.  Continue the wire to the next location, and repeat until all of your lights are connected.  Your wires will also likely come with a waterproof silicon gel and wire nuts which you will apply where you splice and connect the wires.  This keeps the setup safe from the water when it rains under the dirt.
-
-A good piece of advise is after each light is connected and bulb installed, test that it does turn on by reconnecting your transformer and turning it on.  This avoids trying to figure out what you did wrong at the end when you have no idea which one has a loose connection, or if the bulb was bad.
-
-As you install each light, start burying the wire under about 1 - 2 inches of dirt.  Once complete, put any mulch or pine straw over the top also.
-
-Check out how the lights look at dusk or when it gets dark.  Take this time to reposition the angle of your lights so they are pointing to the preferred spots.  You may also need to move them around by a few inches so things like symmetrical etc.
+1. **Start with the Transformer.**    
+   Get it plugged in and make sure it turns on.  Now disconnect it before connecting any lights.
+2. **Install the first light** by cutting the wire with wire cutters or a sharp knife.  You will need to expose the wiring by removing some of the rubber sheathing.  Connect the wire to the light, taking note of the + and - terminals.  
+3. **Continue the wire to the next location**, and repeat until all of your lights are connected.  Your wires will also likely come with a waterproof silicon gel and wire nuts which you will apply where you splice and connect the wires.  This keeps the setup safe from the water when it rains under the dirt.
+4. **Test.**  A good piece of advise is after each light is connected and bulb installed, test that it does turn on by reconnecting your transformer and turning it on.  This avoids trying to figure out what you did wrong at the end when you have no idea which one has a loose connection, or if the bulb was bad.
+5. **Bury the wire under** about 1 - 2 inches of dirt as you install each light.  Once complete, put any mulch or pine straw over the top also.
+6. **Positioning.**  Check out how the lights look at dusk or when it gets dark.  Take this time to re position the angle of your lights so they are pointing to the preferred spots.  You may also need to move them around by a few inches so things like symmetrical etc.
 
 ## Smart Home Automation
 
