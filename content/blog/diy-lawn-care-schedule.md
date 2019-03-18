@@ -13,12 +13,11 @@ src = ""
 +++
 As the weather is warming up, and spring is in the air, its imperative you follow the appropriate lawn care schedule for your lawn.  I live in the south (Atlanta to be specific), so the below recommendations are for the South East region.  Many of our lawns have bermuda grass, so I will be focused on this type of grass.
 
-There are two critical areas to focus on if you want green grass.  
+There are two critical areas to focus on if you want green grass.
 
-1. **Mowing.  
-   **Mowing the lawn at regular intervals is so important it cannot be understated.  If you mow it too short too early, the frost may kill the roots.  Likewise, if you let it grow too long, you will choke the roots from much needed sunlight and nutrients.  
+1. **Mowing**  
+   Mowing the lawn at regular intervals is so important it cannot be understated.  If you mow it too short too early, the frost may kill the roots.  Likewise, if you let it grow too long, you will choke the roots from much needed sunlight and nutrients.
 
-     
    Follow the below schedule to keep you grass cut to healthy levels.
 2. **Weed Control and Fertilizer**
 
@@ -32,7 +31,7 @@ Get your lawn ready for the spring by giving your lawn its first cut of the year
 
 ###### **Mid - Late March**
 
-Your grass still will not have started greening, but 2 weeks after your first cut, give it another cut.  Remember, we are aiming to cut only 1/3 of the height at a time.  One of the best kept secrets to getting a greener lawn is **Scalping**.  
+Your grass still will not have started greening, but 2 weeks after your first cut, give it another cut.  Remember, we are aiming to cut only 1/3 of the height at a time.  One of the best kept secrets to getting a greener lawn is **Scalping**.
 
 > Scalping: Lawn Scalping is the process of cutting your grass to the lowest possible setting of your mower in order to promote healthy new spring growth.
 
@@ -52,15 +51,15 @@ Bermuda Grass will start to go dormant around October/November as the temperatur
 
 ## Fertilization and Weed Control
 
-Along with mowing regularly, it is critical to follow a well disciplined weed control and fertilization program.  Many home owners will pay others to do this (eg Scotts, TruGreen, etc).  If you want to DIY your own treatments, then you need to be consistent.  
+Along with mowing regularly, it is critical to follow a well disciplined weed control and fertilization program.  Many home owners will pay others to do this (eg Scotts, TruGreen, etc).  If you want to DIY your own treatments, then you need to be consistent.
 
-Whether you buy LESCO products recommended below, or go with a Scotts or a StaGreen brand, you will see a series of 3 numbers on the bags which indicate its content. 
+Whether you buy LESCO products recommended below, or go with a Scotts or a StaGreen brand, you will see a series of 3 numbers on the bags which indicate its content.
 
 Nitrogen - Phosphate - Potash
 
 **Nitrogen**: Promotes growth and greening of the grass.  
 **Phosphate**: Stimulates root growth, keeping the lawn lush and thick.  
-**Potash**: Promotes stronger roots and turf hardiness with thicker blades.  
+**Potash**: Promotes stronger roots and turf hardiness with thicker blades.
 
 Although some LESCO products are available at Home Depot, I recently learned a secret where the professionals shop.  There is a landscape company called [SiteOne](https://www.siteone.com/ "SiteOne") with locations across the US. I have started buying my landscape supplies from there since thats where the pro's shop.
 
@@ -68,7 +67,7 @@ Follow the below maintenance schedule to keep you on track.
 
 ###### **January/February - PreEmergent: LESCO 0-0-7**
 
-Apply your first pre-emergent in late January or early February to prevent grassy summer weeds and crabgrass from emerging.  My recommendation here is to use LESCO 0-0-7.  
+Apply your first pre-emergent in late January or early February to prevent grassy summer weeds and crabgrass from emerging.  My recommendation here is to use LESCO 0-0-7.
 
 Your local Home Depot or Lowes will start promoting products like Crabgrass Preventer with Fertilizer, but these often are mixed with fertilizer which just isn't needed at this time as the grass isnt ready to grow yet.
 
@@ -78,7 +77,7 @@ Apply a second round of pre-emergent about 4 weeks after your first application.
 
 ###### **May/June - Fertilizer: LESCO 24-2-11**
 
-Apply fertilizer during the late spring/summer months to promote growth and greening.  At this time, weed control shouldnt be needed if the pre-emergents have successfully worked.  Applying fertilizer helps feed the grass.  
+Apply fertilizer during the late spring/summer months to promote growth and greening.  At this time, weed control shouldnt be needed if the pre-emergents have successfully worked.  Applying fertilizer helps feed the grass.
 
 The best way to discourage weeds is have fuller thicker grass to crowd out the weeds.
 
@@ -102,7 +101,7 @@ I have successfully used Spectracide Weed Control (concentrate or hose attachmen
 
 ## Core Aeration
 
-Core Aeration is the process of pulling plugs of dirt from your soil so that sunlight, water, and nutrients get deeper to where the roots are.  It will help promote a strong and healthier root system, and is essential for greener turfs.  It will help loosen the dirt to allow the Bermuda to spread more easily.  
+Core Aeration is the process of pulling plugs of dirt from your soil so that sunlight, water, and nutrients get deeper to where the roots are.  It will help promote a strong and healthier root system, and is essential for greener turfs.  It will help loosen the dirt to allow the Bermuda to spread more easily.
 
 ###### **May**
 
