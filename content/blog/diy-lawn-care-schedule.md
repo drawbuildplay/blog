@@ -3,8 +3,8 @@ categories = ["home decor"]
 date = "2019-03-18T00:00:00-04:00"
 description = "Whether you mow and treat your own lawn, or pay someone else to do it, its important to follow a disciplined lawn care schedule. Read our lawn care tips below on what to do when to get a weed free greener lawn."
 draft = true
-social_media_images = []
-social_media_text = ""
+social_media_images = ["/uploads/LawnCareTips.png"]
+social_media_text = "How to get a green lawn this summer with our tips and tricks. Free Lawn Care Schedule for a weed free greener lawn. #lawncare #weeds #grass"
 title = "Lawn Care Tips"
 [images]
 name = "Lawn Care Tips and Schedule"
@@ -17,13 +17,13 @@ There are two critical areas to focus on if you want green grass.
 
 1. **Lawn Mowing**  
    Mowing the lawn at regular intervals is so important it cannot be understated.  If you mow it too short too early, the frost may kill the roots.  Likewise, if you let it grow too long, you will choke the roots from much needed sunlight and nutrients.
-
-   Follow the below schedule to keep you grass cut to healthy levels.
 2. **Lawn Weed Control and Fertilizer**
 
    Cutting the grass is only 25% of the battle.  A healthy lawn care regiment requires consistent applications of weed pre-emergent/post-emergent, and fertilizers.  Also, a healthy lawn starts in the winter.  So if you didn't do anything over the winter, chances are you will have a battle all year.  But hope is not lost.  You can still make improvements this year, and then be prepared going into next year with the best yard in the neighborhood.
 
 ## Lawn Mowing Schedule Tips
+
+Follow the below schedule to keep you grass cut to healthy levels.
 
 ###### **Early March**
 
