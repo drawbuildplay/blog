@@ -2,7 +2,6 @@
 categories = ["home decor"]
 date = "2019-03-18T00:00:00-04:00"
 description = "Whether you mow and treat your own lawn, or pay someone else to do it, its important to follow a disciplined lawn care schedule. Read our lawn care tips below on what to do when to get a weed free greener lawn."
-draft = true
 social_media_images = ["/uploads/lawncaresecrets.png", "/uploads/LawnCheatSheet.png", "/uploads/LawnCareTips.png"]
 social_media_text = "The secret to get a greener lawn this summer with our free tips and tricks. Free Lawn Care Schedule for a weed free greener lawn. #lawncare #weeds #grass"
 title = "Lawn Care Tips"
@@ -103,9 +102,9 @@ I have successfully used Spectracide Weed Control (concentrate or hose attachmen
 
 Core Aeration is the process of pulling plugs of dirt from your soil so that sunlight, water, and nutrients get deeper to where the roots are.  It will help promote a strong and healthier root system, and is essential for greener turfs.  It will help loosen the dirt to allow the Bermuda to spread more easily.
 
-###### **May**
+###### **April/May**
 
-May is the best month to perform Core Aeration.  Your landscaper may offer this, but I also find many students offer this service at a much cheaper price - look on NextDoor.com for students in your area offering to do this.
+Late April or May is the best month to perform Core Aeration.  Your landscaper may offer this, but I also find many students offer this service at a much cheaper price - look on NextDoor.com for students in your area offering to do this.
 
 ## Seeding
 
