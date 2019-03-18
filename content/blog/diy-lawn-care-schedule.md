@@ -14,11 +14,11 @@ As the weather is warming up, and spring is in the air, its imperative you follo
 
 There are two critical areas to focus on if you want green grass.
 
-###### **Lawn Mowing Schedule**
+##### Lawn Mowing Schedule
 
 Mowing the lawn at regular intervals is so important it cannot be understated.  If you mow it too short too early, the frost may kill the roots.  Likewise, if you let it grow too long, you will choke the roots from much needed sunlight and nutrients.
 
-###### **Weed Control and Fertilizer**
+##### Weed Control and Fertilizer
 
 Cutting the grass is only 25% of the battle.  A healthy lawn care regiment requires consistent applications of weed pre-emergent/post-emergent, and fertilizers.  Also, a healthy lawn starts in the winter.  So if you didn't do anything over the winter, chances are you will have a battle all year.  But hope is not lost.  You can still make improvements this year, and then be prepared going into next year with the best yard in the neighborhood.
 
@@ -26,11 +26,11 @@ Cutting the grass is only 25% of the battle.  A healthy lawn care regiment requi
 
 Follow the below schedule to keep you grass cut to healthy levels.
 
-###### **Early March**
+##### **Early March**
 
 Get your lawn ready for the spring by giving your lawn its first cut of the year.  Always only cut 1/3 of the height of the grass blades at a time to avoid shocking the grass.
 
-###### **Mid - Late March**
+##### **Mid - Late March**
 
 Your grass still will not have started greening, but 2 weeks after your first cut, give it another cut.  Remember, we are aiming to cut only 1/3 of the height at a time.  One of the best kept secrets to getting a greener lawn is **Scalping**.
 
@@ -42,11 +42,11 @@ If your lawn is still fairly long after 2 cuts, your third cut may be the cut th
 
 Its important to remember, only scalp your lawn only after the danger of freezing temperatures has passed.  In Georgia, usually after mid-March the last freeze snap will have passed.
 
-###### **April - October**
+##### **April - October**
 
 This is the growing period for Bermuda Grass.  As the temperatures get warmer, the grass will grow faster.  As a general rule, I recommend mowing your lawn every 2 - 3 weeks.  During the peak summer months, you will definitely need to mow every 2 weeks.  Remember to never cut more that 1/3 of the grass blade height.
 
-###### **October - March**
+##### **October - March**
 
 Bermuda Grass will start to go dormant around October/November as the temperatures get cooler.  Your final cut for the year will likely be around mid October.  When the grass goes dormant, it will turn this yellowish/brown color, and remain like that until the spring when it regrows.
 
@@ -66,35 +66,35 @@ Although some LESCO products are available at Home Depot, I recently learned a s
 
 Follow the below maintenance schedule to keep you on track.
 
-###### **January/February - PreEmergent: LESCO 0-0-7**
+##### **January/February - PreEmergent: LESCO 0-0-7**
 
 Apply your first pre-emergent in late January or early February to prevent grassy summer weeds and crabgrass from emerging.  My recommendation here is to use LESCO 0-0-7.
 
 Your local Home Depot or Lowes will start promoting products like Crabgrass Preventer with Fertilizer, but these often are mixed with fertilizer which just isn't needed at this time as the grass isnt ready to grow yet.
 
-###### **March/April - PreEmergent with Fertilizer: LESCO 25-0-10**
+##### **March/April - PreEmergent with Fertilizer: LESCO 25-0-10**
 
 Apply a second round of pre-emergent about 4 weeks after your first application.  This will reinforce what you have applied, and also help if it has rained often since your last application (typical March showers). This round will also want to have nitrogen mixed in to help promote the spring lawn growth.
 
-###### **May/June - Fertilizer: LESCO 24-2-11**
+##### **May/June - Fertilizer: LESCO 24-2-11**
 
 Apply fertilizer during the late spring/summer months to promote growth and greening.  At this time, weed control shouldnt be needed if the pre-emergents have successfully worked.  Applying fertilizer helps feed the grass.
 
 The best way to discourage weeds is have fuller thicker grass to crowd out the weeds.
 
-###### **July/August - Fertilizer: LESCO 24-2-11**
+##### **July/August - Fertilizer: LESCO 24-2-11**
 
 Repeat another round of fertilizer 6 weeks after your last application.  Another advantage of fertilizing is it helps promote better absorption of water.  As a result, you wont need to water your lawn as much and it wont dry out as quickly.  If you do have drought periods (2 weeks of no rain), then you should still make sure the lawn is getting water.
 
-###### **August/September - PreEmergent with Fertilizer: LESCO 25-0-7**
+##### **August/September - PreEmergent with Fertilizer: LESCO 25-0-7**
 
 As we enter the Fall months, and temperatures start to cool, you should apply a Fall WinterGuard to strengthen the roots with potassium to keep the lawn safe during the winter.  This will also help keep the Fall and Winter weeds at bay.
 
-###### **October/November - PreEmergent: LESCO 0-0-7**
+##### **October/November - PreEmergent: LESCO 0-0-7**
 
 As the lawn is going dormant, apply a pre-emergent to prevent winter weeds from appearing, and any crabgrass seeds from germination while the grass is dormant.
 
-###### **Post Emergent Weed Control**
+##### **Post Emergent Weed Control**
 
 With all these treatments, annoyingly you might still get the occasional weeds.  If you apply the winter pre-emergents at the right times, you may also find yourself frustrated with spring weeds popping up.  When this happens, you will need to apply a post emergent herbicide to kill those weeds.  Make sure if you do spray that you do it a few days before you mow the lawn.  Mowing will spread the seeds from the weeds so you will want to kill those weeds before you do that.
 
@@ -104,7 +104,7 @@ I have successfully used Spectracide Weed Control (concentrate or hose attachmen
 
 Core Aeration is the process of pulling plugs of dirt from your soil so that sunlight, water, and nutrients get deeper to where the roots are.  It will help promote a strong and healthier root system, and is essential for greener turfs.  It will help loosen the dirt to allow the Bermuda to spread more easily.
 
-###### **April/May**
+##### **April/May**
 
 Late April or May is the best month to perform Core Aeration.  Your landscaper may offer this, but I also find many students offer this service at a much cheaper price - look on NextDoor.com for students in your area offering to do this.
 
@@ -118,4 +118,4 @@ Calendar
 
 For you convenience, here is a free printable lawn maintenance calendar based on the above recommendations.
 
-{{<imgproc "/uploads/lawn maintenance calendar.png" Resize "600x" >}}Free Lawn Care Maintenance Calendar{{</imgproc>}} 
+{{<imgproc "/uploads/lawn maintenance calendar.png" Resize "600x" >}}Free Lawn Care Maintenance Calendar{{</imgproc>}}
