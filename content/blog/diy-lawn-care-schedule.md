@@ -116,4 +116,4 @@ Calendar
 
 For you convenience, here is a free printable lawn maintenance calendar based on the above recommendations.
 
-![](/uploads/lawn maintenance calendar-1.png)
+{{<imgproc "/uploads/lawn maintenance calendar.png" Resize "600x" >}}Free Lawn Care Maintenance Calendar{{</imgproc>}} 
