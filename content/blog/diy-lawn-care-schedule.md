@@ -3,7 +3,7 @@ categories = ["home decor"]
 date = "2019-03-18T00:00:00-04:00"
 description = "Whether you mow and treat your own lawn, or pay someone else to do it, its important to follow a disciplined lawn care schedule. Read our lawn care tips below on what to do when to get a weed free greener lawn."
 draft = true
-social_media_images = ["/uploads/LawnCareTips.png"]
+social_media_images = ["/uploads/lawn maintenance calendar.png", "/uploads/LawnCheatSheet.png", "/uploads/LawnCareTips.png"]
 social_media_text = "How to get a green lawn this summer with our tips and tricks. Free Lawn Care Schedule for a weed free greener lawn. #lawncare #weeds #grass"
 title = "Lawn Care Tips"
 [images]
@@ -112,3 +112,9 @@ May is the best month to perform Core Aeration.  Your landscaper may offer this,
 You may have thin patches in certain areas of your lawn.  This may have been due to damage from high traffic, heavy concentration of weeds that damaged the Bermuda, or any number of other reasons.  Following the above fertilization schedule should help thicken up areas, but if you feel you need to reseed then the best time to lay down new seed is late April or May.  The warmer temperatures allow the seeds to germinate and actively grow.
 
 If you do decide to seed, then apply it 3-4 weeks after your last weed control treatment, and do not apply weed control for 4 weeks after you have seeded.  The weed control treatments will interfere with the growth of the seedlings.
+
+Calendar
+
+For you convenience, here is a free printable lawn maintenance calendar based on the above recommendations.
+
+![](/uploads/lawn maintenance calendar-1.png)
