@@ -14,11 +14,13 @@ As the weather is warming up, and spring is in the air, its imperative you follo
 
 There are two critical areas to focus on if you want green grass.
 
-1. **Lawn Mowing**  
-   Mowing the lawn at regular intervals is so important it cannot be understated.  If you mow it too short too early, the frost may kill the roots.  Likewise, if you let it grow too long, you will choke the roots from much needed sunlight and nutrients.
-2. **Lawn Weed Control and Fertilizer**
+###### **Lawn Mowing Schedule**
 
-   Cutting the grass is only 25% of the battle.  A healthy lawn care regiment requires consistent applications of weed pre-emergent/post-emergent, and fertilizers.  Also, a healthy lawn starts in the winter.  So if you didn't do anything over the winter, chances are you will have a battle all year.  But hope is not lost.  You can still make improvements this year, and then be prepared going into next year with the best yard in the neighborhood.
+Mowing the lawn at regular intervals is so important it cannot be understated.  If you mow it too short too early, the frost may kill the roots.  Likewise, if you let it grow too long, you will choke the roots from much needed sunlight and nutrients.
+
+###### **Weed Control and Fertilizer**
+
+Cutting the grass is only 25% of the battle.  A healthy lawn care regiment requires consistent applications of weed pre-emergent/post-emergent, and fertilizers.  Also, a healthy lawn starts in the winter.  So if you didn't do anything over the winter, chances are you will have a battle all year.  But hope is not lost.  You can still make improvements this year, and then be prepared going into next year with the best yard in the neighborhood.
 
 ## Lawn Mowing Schedule Tips
 
