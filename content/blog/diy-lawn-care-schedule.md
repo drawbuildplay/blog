@@ -3,8 +3,8 @@ categories = ["home decor"]
 date = "2019-03-18T00:00:00-04:00"
 description = "Whether you mow and treat your own lawn, or pay someone else to do it, its important to follow a disciplined lawn care schedule. Read our lawn care tips below on what to do when to get a weed free greener lawn."
 draft = true
-social_media_images = ["/uploads/LawnCheatSheet.png", "/uploads/LawnCareTips.png"]
-social_media_text = "How to get a green lawn this summer with our tips and tricks. Free Lawn Care Schedule for a weed free greener lawn. #lawncare #weeds #grass"
+social_media_images = ["/uploads/lawncaresecrets.png", "/uploads/LawnCheatSheet.png", "/uploads/LawnCareTips.png"]
+social_media_text = "The secret to get a greener lawn this summer with our free tips and tricks. Free Lawn Care Schedule for a weed free greener lawn. #lawncare #weeds #grass"
 title = "Lawn Care Tips"
 [images]
 name = "Lawn Care Tips and Schedule"
