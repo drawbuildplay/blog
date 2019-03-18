@@ -27,7 +27,7 @@ Follow the below schedule to keep you grass cut to healthy levels.
 
 ###### **Early March**
 
-Get your lawn ready for the spring by giving your lawn its first cut of the year.  Always only cut 1/3 height of the grass blades at a time to avoid shocking the grass.
+Get your lawn ready for the spring by giving your lawn its first cut of the year.  Always only cut 1/3 of the height of the grass blades at a time to avoid shocking the grass.
 
 ###### **Mid - Late March**
 
