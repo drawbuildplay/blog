@@ -1,29 +1,29 @@
 +++
 categories = ["home decor"]
 date = "2019-03-18T00:00:00-04:00"
-description = "Whether you mow and treat your own lawn, or pay someone else to do it, its important to follow a disciplined lawn care schedule. Read our recommendations below on what to do when to get a weed free greener lawn."
+description = "Whether you mow and treat your own lawn, or pay someone else to do it, its important to follow a disciplined lawn care schedule. Read our lawn care tips below on what to do when to get a weed free greener lawn."
 draft = true
 social_media_images = []
 social_media_text = ""
-title = "DIY Lawn Care Schedule"
+title = "Lawn Care Tips"
 [images]
-name = ""
-src = ""
+name = "Lawn Care Tips and Schedule"
+src = "/uploads/lawn.jpg"
 
 +++
-As the weather is warming up, and spring is in the air, its imperative you follow the appropriate lawn care schedule for your lawn.  I live in the south (Atlanta to be specific), so the below recommendations are for the South East region.  Many of our lawns have bermuda grass, so I will be focused on this type of grass.
+As the weather is warming up, and spring is in the air, its imperative you follow the appropriate lawn care schedule for your lawn.  I live in the south (Atlanta to be specific), so the below tips are for the South East region.  Many of our lawns have Bermuda grass, so I will be focused on this type of grass.
 
 There are two critical areas to focus on if you want green grass.
 
-1. **Mowing**  
+1. **Lawn Mowing**  
    Mowing the lawn at regular intervals is so important it cannot be understated.  If you mow it too short too early, the frost may kill the roots.  Likewise, if you let it grow too long, you will choke the roots from much needed sunlight and nutrients.
 
    Follow the below schedule to keep you grass cut to healthy levels.
-2. **Weed Control and Fertilizer**
+2. **Lawn Weed Control and Fertilizer**
 
    Cutting the grass is only 25% of the battle.  A healthy lawn care regiment requires consistent applications of weed pre-emergent/post-emergent, and fertilizers.  Also, a healthy lawn starts in the winter.  So if you didn't do anything over the winter, chances are you will have a battle all year.  But hope is not lost.  You can still make improvements this year, and then be prepared going into next year with the best yard in the neighborhood.
 
-## Mowing Schedule
+## Lawn Mowing Schedule Tips
 
 ###### **Early March**
 
@@ -49,7 +49,7 @@ This is the growing period for Bermuda Grass.  As the temperatures get warmer, t
 
 Bermuda Grass will start to go dormant around October/November as the temperatures get cooler.  Your final cut for the year will likely be around mid October.  When the grass goes dormant, it will turn this yellowish/brown color, and remain like that until the spring when it regrows.
 
-## Fertilization and Weed Control
+## Fertilization and Weed Control Tips
 
 Along with mowing regularly, it is critical to follow a well disciplined weed control and fertilization program.  Many home owners will pay others to do this (eg Scotts, TruGreen, etc).  If you want to DIY your own treatments, then you need to be consistent.
 
