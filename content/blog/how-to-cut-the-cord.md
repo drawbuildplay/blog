@@ -1,9 +1,9 @@
 +++
 categories = ["home-building", "smart-home"]
 date = "2018-12-14"
-description = "Its almost 2019, and there are so many online services out there you may wonder what the point is still paying for cable.  Here is a step by step guide to stop paying for the phone line from the cable companies. My family has not paid for a landline since 2011."
-social_media_images = ["/uploads/pinterest-cut-the-phoneline.png"]
-social_media_text = "Cut the Cord - Stop paying for your landline - Its 2019, and there are so many online services out there you may wonder what the point is still paying for cable. Here is a step by step guide to stop paying for the phone line from the cable companies. My family has not paid for a landline since 2011. #cutthecord #voip #googlevoice #freephone #freelandline #stoppayingforlandline #obi "
+description = "Its 2019, and there are so many online services out there you may wonder what the point is still paying for cable.  Here is a step by step guide on how to stop wasting your money paying for your phone line to the cable companies. My family has not paid for a landline since 2011."
+social_media_images = ["/uploads/CutYourLandline.png", "/uploads/StopWastingMoneyOnLandline.png", "/uploads/pinterest-cut-the-phoneline.png"]
+social_media_text = "How to stop wasting money paying for your landline. Here is your how to DIY guide to cut the cord and stop paying for your phone line to the cable companies. #cutthecord #voip #googlevoice #freephone #freelandline #stoppayingforlandline #obi "
 title = "How to Cut the Cord - Stop paying for your landline"
 [images]
 is_pin_friendly = false
