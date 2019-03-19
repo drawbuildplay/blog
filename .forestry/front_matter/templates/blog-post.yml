@@ -53,6 +53,7 @@ fields:
   config:
     required: false
 pages:
+- content/blog/home-building-checklist.md
 - content/blog/diy-lawn-care-schedule.md
 - content/blog/home-building-checklist-floorplan.md
 - content/blog/diy-outdoor-lighting.md
@@ -62,4 +63,3 @@ pages:
 - content/blog/laundry-room-makeover.md
 - content/blog/how-to-cut-the-cord.md
 - content/blog/diy-under-cabinet-lighting.md
-- content/blog/home-building-checklist.md
