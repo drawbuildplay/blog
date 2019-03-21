@@ -17,7 +17,7 @@ There are a bunch of guides on Pinterest covering how to do this, but I really w
 
 Our library is also the first room visitors see when they enter our home through the front door.  It helps make a beautiful statement entry as their eyes are immediately drawn to the shelves and the various decor items sitting in each space.
 
-We opted to go with a farmhouse look once the shelves were up.  This required finding good deals at a variety of different stores - many of the items from places like At Home, Marshalls/Ross, and Hobby Lobby.  
+We opted to go with a farmhouse look once the shelves were up.  This required finding good deals at a variety of different stores - many of the items from places like At Home, Marshalls/Ross, and Hobby Lobby.
 
 For the desk, we purchased this beautiful picnic table from World Market.  It even has a hole for the umbrella which can be used to drop the computer wires down.  However, I prefer a clean look (no wires), and I mainly use a laptop, so I instead thread the power cable between the gaps in the wood.
 
@@ -27,4 +27,18 @@ So, back to the shelving.  How did I build these?
 
 Well, this is what the library looked like originally.
 
-{{<imgproc "/uploads/library_before.png" Resize "1200x" >}}Library (Before){{</imgproc>}} 
+{{<imgproc "/uploads/library_before.png" Resize "1200x" >}}Library (Before){{</imgproc>}}
+
+As you can see, the room was fairly bland.  
+
+I started by removing the base boards and crown moldings that were against the back wall.  I also removed them from each side, as they will need to be trimmed down later to give that built in look.
+
+Once the trim was removed, also remove the outlet covers that will be in the way of the shelving.  I had one power outlet on the back wall, and an ethernet outlet on the side which would be covered up by the shelves.  (Note for later, when you put the shelves up over these locations, you will want to jigsaw cut holes so that you dont lose access to these outlets.)
+
+Next, you may need a base for the shelves to sit on.  This step may be optional for you.   I have really large 12" baseboards.  The Billy Bookcases have a groove already cutout to go around baseboards, but that was a lot smaller than mine.  Hence the need for me to have the shelves sit a little higher so that it could when the base boards are remounted in front, it wont cover up the actual shelves.
+
+{{<imgproc "/uploads/shelving_base.png" Resize "1200x" >}}Shelving Base{{</imgproc>}} 
+
+I built the base framing using 1x3 wood.  I then wrapped the outside of the base with primed wood as this part will be exposed.  I used some cheap plywood on the top of the base for the shelves to sit on.  Make sure this is level otherwise you will have shelves that will want to rock, or will be slanted.  Also, in retrospect, i wouldn't have used such flimsy plywood here as I actually ended up with some minor dips in places that i had to shim later.
+
+ 
