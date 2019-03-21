@@ -3,8 +3,8 @@ categories = ["home-decor"]
 date = "2019-03-21T00:00:00-04:00"
 description = "Enhance your Library Room (Home Office) with our easy to do DIY using the Billy BookCase Hack from Ikea."
 draft = true
-social_media_images = []
-social_media_text = "Check out our beautiful DIY Library Office Shelving using the IKEA Billy Bookcase Hack #shelving #library #office #workfromhome #ikea #billy "
+social_media_images = ["/uploads/easy_bookcase_diy.png", "/uploads/Ikea Bookcase Hack.png", "/uploads/diy_shelving.png"]
+social_media_text = "How to build a beautiful DIY Library Office Shelving using the IKEA Billy Bookcase Hack #shelving #library #office #workfromhome #ikea #billy "
 title = "DIY Built-In Shelves using Ikea Billy Bookcase Hack"
 [images]
 name = "Office Shelving"
@@ -29,7 +29,7 @@ Well, this is what the library looked like originally.
 
 {{<imgproc "/uploads/library_before.png" Resize "1200x" >}}Library (Before){{</imgproc>}}
 
-As you can see, the room was fairly bland.
+As you can see, the room was fairly bland before.
 
 I started by removing the base boards and crown moldings that were against the back wall.  I also removed them from each side, as they will need to be trimmed down later to give that built in look.
 
@@ -68,3 +68,11 @@ Finally, once your new book shelf is dry, go decorate.  Family pictures, books, 
 {{<imgproc "/uploads/GV4A7575.jpg" Resize "1200x" >}}DIY Built-In Shelves using the Ikea Billy Bookcase Hack{{</imgproc>}}
 
 Let me know in the comments what you think, and dont forget to pin this to your Pinterest Boards.
+
+I still have a couple of things I want to do to finish off this room. 
+
+First, the remaining walls need to be painted Repose Gray from Sherwin Williams.  This will really make the shelves pop against the gray.  
+
+Second, the wood at the top needs something.  I am thinking of building a farmhouse wooden sign, maybe stenciled with "Office", or something along those lines.
+
+Stay tuned, and I'll update the blog when I get that done.
