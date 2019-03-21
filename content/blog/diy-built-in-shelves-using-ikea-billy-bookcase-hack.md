@@ -33,7 +33,7 @@ As you can see, the room was fairly bland before.
 
 I started by removing the base boards and crown moldings that were against the back wall.  I also removed them from each side, as they will need to be trimmed down later to give that built in look.
 
-Once the trim was removed, also remove the outlet covers that will be in the way of the shelving.  I had one power outlet on the back wall, and an ethernet outlet on the side which would be covered up by the shelves.  (Note for later, when you put the shelves up over these locations, you will want to jigsaw cut holes so that you dont lose access to these outlets.)
+Once the trim was removed, also remove the outlet covers that will be in the way of the shelving.  I had one power outlet on the back wall, and an ethernet outlet on the side which would be covered up by the shelves.  (Note for later, when you put the shelves up over these locations, you will want to jigsaw cut holes so that you don't lose access to these outlets.)
 
 Next, you may need a base for the shelves to sit on.  This step may be optional for you.   I have really large 12" baseboards.  The Billy Bookcases have a groove already cutout to go around baseboards, but that was a lot smaller than mine.  Hence the need for me to have the shelves sit a little higher so that it could when the base boards are remounted in front, it wont cover up the actual shelves.
 
@@ -55,19 +55,19 @@ If you have space between the top of your shelves and the ceiling, then you may 
 
 Once the shelves are ready, trim is in place, and moldings are back in, then its on to the finishing touches.
 
-Ikea furniture tends to come with a coating which doesnt play all that friendly with paint.  You will need to sand every shelf, and every corner down to create a slightly rougher surface for the paint to grip to.  Then use the BIN primer to prime each surface.
+Ikea furniture tends to come with a coating which doesn't play all that friendly with paint.  You will need to sand every shelf, and every corner down to create a slightly rougher surface for the paint to grip to.  Then use the BIN primer to prime each surface.
 
 Caulking also goes a long way in giving these shelves a professional built in appearance.  Caulk each shelf , the holes on the sides, and any gaps you see.  You may also have a small gap between the side walls and the trim.  If the gap is too big, Caulk will not hold.  You can get rubber filler tubes from your local hardware store that you can squeeze into those gaps, and then caulk over that.
 
 Once all the gaps have been caulked, surfaces primed, then use your favorite color (i went with a high gloss white trim paint) and paint everything.
 
-Also, dont forget to put the side trim back on.  At this point, measure how much you need to cut it, and cut with a Mitre Saw so that you can reconnect it to the back molding you already put back in place.  Again, if you accidentally cut a little too much, then either just fill that space with Caulk, or if you cut too much like I did, then cut another sliver from the extra molding cut, and glue it in place and caulk.  Yes, Caulk is magic and will hide all of your mistakes.
+Also, don't forget to put the side trim back on.  At this point, measure how much you need to cut it, and cut with a Mitre Saw so that you can reconnect it to the back molding you already put back in place.  Again, if you accidentally cut a little too much, then either just fill that space with Caulk, or if you cut too much like I did, then cut another sliver from the extra molding cut, and glue it in place and caulk.  Yes, Caulk is magic and will hide all of your mistakes.
 
 Finally, once your new book shelf is dry, go decorate.  Family pictures, books, ornaments.  Anything you put here is going to look great.  Make it personal.  Show off what makes you, you!
 
 {{<imgproc "/uploads/GV4A7575.jpg" Resize "1200x" >}}DIY Built-In Shelves using the Ikea Billy Bookcase Hack{{</imgproc>}}
 
-Let me know in the comments what you think, and dont forget to pin this to your Pinterest Boards.
+Let me know in the comments what you think, and don't forget to pin this to your Pinterest Boards.
 
 I still have a couple of things I want to do to finish off this room. 
 
