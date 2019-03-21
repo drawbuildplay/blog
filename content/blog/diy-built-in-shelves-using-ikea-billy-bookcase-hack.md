@@ -22,3 +22,9 @@ We opted to go with a farmhouse look once the shelves were up.  This required fi
 For the desk, we purchased this beautiful picnic table from World Market.  It even has a hole for the umbrella which can be used to drop the computer wires down.  However, I prefer a clean look (no wires), and I mainly use a laptop, so I instead thread the power cable between the gaps in the wood.
 
 The globe light was also purchased from World Market.  It truly helped round out the library.
+
+So, back to the shelving.  How did I build these?
+
+Well, this is what the library looked like originally.
+
+{{<imgproc "/uploads/library_before.png" Resize "600x" >}}Library (Before){{</imgproc>}} 
