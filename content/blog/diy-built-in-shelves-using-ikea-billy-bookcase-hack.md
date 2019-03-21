@@ -27,4 +27,4 @@ So, back to the shelving.  How did I build these?
 
 Well, this is what the library looked like originally.
 
-{{<imgproc "/uploads/library_before.png" Resize "600x" >}}Library (Before){{</imgproc>}} 
+{{<imgproc "/uploads/library_before.png" Resize "1200x" >}}Library (Before){{</imgproc>}} 
