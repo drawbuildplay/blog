@@ -2,7 +2,6 @@
 categories = ["home-decor"]
 date = "2019-03-21T00:00:00-04:00"
 description = "Enhance your Library Room (Home Office) with our easy to do DIY using the Billy BookCase Hack from Ikea."
-draft = true
 social_media_images = ["/uploads/easy_bookcase_diy.png", "/uploads/Ikea Bookcase Hack.png", "/uploads/diy_shelving.png"]
 social_media_text = "How to build a beautiful DIY Library Office Shelving using the IKEA Billy Bookcase Hack #shelving #library #office #workfromhome #ikea #billy "
 title = "DIY Built-In Shelves using Ikea Billy Bookcase Hack"
