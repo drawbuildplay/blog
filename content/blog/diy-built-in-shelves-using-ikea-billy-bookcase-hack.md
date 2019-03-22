@@ -49,9 +49,9 @@ I built the base framing using 1x3 wood.  I then wrapped the outside of the base
 
 {{<imgproc "/uploads/ikea_bookshelf_hack.png" Resize "1200x" >}}Ikea Billy Bookshelf Hack{{</imgproc>}}
 
-Once your base is in, build your Billy's per Ikea's instructions.  As each shelf is built, lift it up and place it on your base.  Don't mount it to the wall yet, as you will likely need to adjust the spacing between each shelf to make them evenly spaced once all of them are up.
+Once your base is in, build your Billy's per IKEA's instructions.  As each shelf is built, lift it up and place it on your base.  Don't mount it to the wall yet, as you will likely need to adjust the spacing between each shelf to make them evenly spaced once all of them are up.
 
-Once all shelves are up and equally distributed, use the Ikea mounts provided to secure them to the studs behind the wall. Also try to keep the distance between each shelf a standard width as it will be covered by trim (so something like 2.5" is good, but go with what is available and looks good to you).
+Once all of your IKEA Billy Bookcase shelves are up and equally distributed, use the IKEA mounts provided to secure them to the studs behind the wall. Also try to keep the distance between each shelf a standard width as it will be covered by trim (so something like 2.5" is good, but go with what is available and looks good to you).
 
 {{<imgproc "/uploads/moldings.png" Resize "1200x" >}}Book Shelf Molding / Trim{{</imgproc>}}
 
@@ -61,7 +61,7 @@ If you have space between the top of your shelves and the ceiling, then you may 
 
 Once the shelves are ready, trim is in place, and moldings are back in, then its on to the finishing touches.
 
-Ikea furniture tends to come with a coating which doesn't play all that friendly with paint.  You will need to sand every shelf, and every corner down to create a slightly rougher surface for the paint to grip to.  Then use the BIN primer to prime each surface.
+IKEA furniture tends to come with a coating which doesn't play all that friendly with paint.  You will need to sand every shelf, and every corner down to create a slightly rougher surface for the paint to grip to.  Then use the BIN primer to prime each surface.
 
 Caulking also goes a long way in giving these shelves a professional built in appearance.  Caulk each shelf , the holes on the sides, and any gaps you see.  You may also have a small gap between the side walls and the trim.  If the gap is too big, Caulk will not hold.  You can get rubber filler tubes from your local hardware store that you can squeeze into those gaps, and then caulk over that.
 
@@ -71,7 +71,7 @@ Also, don't forget to put the side trim back on.  At this point, measure how muc
 
 Finally, once your new book shelf is dry, go decorate.  Family pictures, books, ornaments.  Anything you put here is going to look great.  Make it personal.  Show off what makes you, you!
 
-{{<imgproc "/uploads/GV4A7575.jpg" Resize "1200x" >}}DIY Built-In Shelves using the Ikea Billy Bookcase Hack{{</imgproc>}}
+{{<imgproc "/uploads/GV4A7575.jpg" Resize "1200x" >}}DIY Built-In Shelves using the IKEA Billy Bookcase Hack{{</imgproc>}}
 
 Let me know in the comments what you think, and don't forget to pin this to your Pinterest Boards.
 
