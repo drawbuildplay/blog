@@ -61,7 +61,7 @@ fields:
       label: Pin Description
       description: Pin Description (SEO targeted keywords for this Pin Image)
       config:
-        required: true
+        required: false
 - type: image_gallery
   name: social_media_images
   label: "(Obsolete) Social Media Images"
