@@ -42,21 +42,26 @@ fields:
   hidden: false
   default: ''
   description: Cover Image for the Post
-- type: field_group
+- type: field_group_list
   name: pins
   label: Pins
-  description: Pinterest Images and Descriptions
+  description: Pinterest Images and Descriptions (Aim for 5)
   fields:
-  - type: file
-    name: pin_image
-    label: Pin Image
-    description: Pin Image
-  - type: textarea
-    name: pin_description
-    label: Pin Description
-    description: Pinterest SEO targeted description for this Pin
-    config:
-      required: true
+  - type: field_group
+    name: pin
+    label: Pin
+    description: Pinterest Pin
+    fields:
+    - type: file
+      name: pin_image
+      label: Pin Image
+      description: Pin Image
+    - type: textarea
+      name: pin_description
+      label: Pin Description
+      description: Pin Description (SEO targeted keywords for this Pin Image)
+      config:
+        required: true
 - type: image_gallery
   name: social_media_images
   label: "(Obsolete) Social Media Images"
