@@ -26,4 +26,4 @@ Its always a good idea to round out an entry way table with some sort of art beh
 
 Here is the view of our entryway console table from the living room looking out to the front door entrance.
 
-{{<imgproc "/uploads/fullsizeoutput_1d64.jpeg" Resize "600x" >}}Entryway View{{</imgproc>}}
+{{<imgproc "/uploads/fullsizeoutput_1d64.jpeg" Resize "1200x" >}}Entryway View{{</imgproc>}}
