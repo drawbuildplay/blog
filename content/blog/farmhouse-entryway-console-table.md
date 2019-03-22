@@ -5,7 +5,7 @@ description = "I love this farmhouse entryway console table as the first thing y
 title = "Farmhouse Entryway Console Table"
 [images]
 name = "Beautiful Entry Console Table"
-src = "/uploads/fullsizeoutput_1d59.jpeg"
+src = "/uploads/consoletable.png"
 [[pins]]
 pin_description = "Really cute entry way console table with a gray whitewash and gold decor accents. This beautiful table will compliment your entryway, or work in any hallway you want to liven up."
 pin_image = "/uploads/cute entryway console table.png"
@@ -27,6 +27,8 @@ What I love most about it is the gray whitewash on it.  If you have a console ta
 ## The Decor
 
 The decor we used on top of the table was from a combination of places.  The big gold vase was from HomeGoods.  We complimented the vase with twigs from Michaels.  The gold flowers were from Hobby Lobby (although you can get something similar from Michaels too).  The picture frames were from HomeGoods.
+
+{{<imgproc "/uploads/fullsizeoutput_1d59.jpeg" Resize "1200x" >}}Farmhouse Entry Way Console Table{{</imgproc>}}
 
 ## The Wall Art
 
