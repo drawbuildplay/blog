@@ -6,7 +6,7 @@ title = "Watch TV for Free without cable"
 [images]
 name = "Watch TV for free with an HDHomeRun and an Apple TV"
 src = "/uploads/hdhomerun.jpg"
-[[[pins]]
+[[pins]]
 pin_description = "Watch TV for free with an Apple TV, HDHomeRun, and over the air broadcasts. STOP paying hundreds for cable! Learn how to do this easily.  #appletv #freetv #cutthecord #nomorecable #watchtvforfree #getridofcomcast #getridofcable"
 pin_image = "/uploads/watchfreetv.png"
 [[pins]]
