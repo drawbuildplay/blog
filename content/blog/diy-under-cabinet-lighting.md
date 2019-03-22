@@ -2,13 +2,15 @@
 categories = ["home-decor"]
 date = "2018-12-20"
 description = "How to install your own gorgeous DIY Under Cabinet Lighting in the kitchen for less than $30."
-social_media_images = ["/uploads/under_cabinet_lighting_pin.png"]
-social_media_text = "DIY Under Cabinet Lighting, its so simple to do it this way and costs less than $30. Its cheap, and easy to do it yourself, saving on installation costs. The under cabinet lighting looks super awesome and I still can't believe how easy it was to do. #cabinetlighting #lighting #cabinets #undercabinet #undercabinetlighting #diycabinetlighting"
 title = "DIY Under Cabinet Lighting"
 [images]
-is_pin_friendly = false
 name = "DIY Under Cabinet Lighting for less than $30"
 src = "/uploads/under_cabinet_lighting.png"
+[[pins]]
+pin_description = "DIY Under Cabinet Lighting, its so simple to do it this way and costs less than $30. Its cheap, and easy to do it yourself, saving on installation costs. The under cabinet lighting looks super awesome and I still can't believe how easy it was to do. #cabinetlighting #lighting #cabinets #undercabinet #undercabinetlighting #diycabinetlighting"
+pin_image = "/uploads/under_cabinet_lighting_pin.png"
+
+
 
 +++
 One of the things we wanted to do when we built our home was to have under cabinet lighting in our kitchen.  Getting this from our builder was going to be $200 per light, and with three sections in our kitchen this would have easily cost us $600 - $1000 depending on how much we got.

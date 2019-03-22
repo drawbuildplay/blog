@@ -2,13 +2,17 @@
 categories = ["home-building"]
 date = "2019-01-08"
 description = "Once you have found a location for your new home, the next step is to choose the floor plan that is best for you.  Read our free checklist on finding your perfect floor plan."
-social_media_images = ["/uploads/avoid mistakes floorplan.png", "/uploads/Choosing a Floor Plan.png"]
-social_media_text = "How to choose the right Floor Plan Designs, Open Plan Living, Bedroom on Main, Basement Layout, Elevation, Ceiling Height, Feng Shui, Vastu Shashtra, when designing your home with a new floor plan. Avoid these 7 mistakes when designing your floor plan."
 title = "Home Building Checklist - Choosing a Floor Plan"
 [images]
 is_pin_friendly = false
 name = "Free Home Building Checklist - Choosing a Floor Plan Checklist"
 src = "/uploads/choosing_a_floorplan.png"
+[[pins]]
+pin_description = "How to choose the right Floor Plan Designs, Open Plan Living, Bedroom on Main, Basement Layout, Elevation, Ceiling Height, Feng Shui, Vastu Shashtra, when designing your home with a new floor plan. Avoid these 7 mistakes when designing your floor plan."
+pin_image = "/uploads/avoid mistakes floorplan.png"
+[[pins]]
+pin_description = "How to choose the right Floor Plan Designs, Open Plan Living, Bedroom on Main, Basement Layout, Elevation, Ceiling Height, Feng Shui, Vastu Shashtra, when designing your home with a new floor plan. Avoid these 7 mistakes when designing your floor plan."
+pin_image = "/uploads/Choosing a Floor Plan.png"
 
 +++
 ---

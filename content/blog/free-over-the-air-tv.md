@@ -2,13 +2,19 @@
 categories = ["smart-home"]
 date = "2018-12-19"
 description = "Watch TV for free without cable with an Apple TV, HDHomeRun, and over the air broadcasts. Stop spending hundreds of $$$ on cable. We stopped paying them back in 2015 by combining free over the air live TV with Netflix.  Learn how you can do this too."
-social_media_images = ["/uploads/ditchcable.png", "/uploads/watchfreetv.png", "/uploads/watch_live_tv.png"]
-social_media_text = "Watch TV for free with an Apple TV, HDHomeRun, and over the air broadcasts. STOP paying hundreds for cable! Learn how to do this easily.  #appletv #freetv #cutthecord #nomorecable #watchtvforfree #getridofcomcast #getridofcable"
 title = "Watch TV for Free without cable"
 [images]
-is_pin_friendly = false
 name = "Watch TV for free with an HDHomeRun and an Apple TV"
 src = "/uploads/hdhomerun.jpg"
+[[[pins]]
+pin_description = "Watch TV for free with an Apple TV, HDHomeRun, and over the air broadcasts. STOP paying hundreds for cable! Learn how to do this easily.  #appletv #freetv #cutthecord #nomorecable #watchtvforfree #getridofcomcast #getridofcable"
+pin_image = "/uploads/watchfreetv.png"
+[[pins]]
+pin_description = "Watch TV for free with an Apple TV, HDHomeRun, and over the air broadcasts. STOP paying hundreds for cable! Learn how to do this easily.  #appletv #freetv #cutthecord #nomorecable #watchtvforfree #getridofcomcast #getridofcable"
+pin_image = "/uploads/watch_live_tv.png"
+[[pins]]
+pin_description = "Watch TV for free with an Apple TV, HDHomeRun, and over the air broadcasts. STOP paying hundreds for cable! Learn how to do this easily.  #appletv #freetv #cutthecord #nomorecable #watchtvforfree #getridofcomcast #getridofcable"
+pin_image = "/uploads/ditchcable.png"
 
 +++
 As I mentioned in my previous blog post on **[Part One - How to stop paying for your landline]({{<ref "/blog/how-to-cut-the-cord">}})**, most people pay between $100 and $250 each month to their cable providers.  They are paying for Internet, Phone, and TV.  My last post showed how you can save at least $20 per month by not paying your cable company for a phone line.  Now for the bigger savings.  Lets save some money by watching TV for free without cable.

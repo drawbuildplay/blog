@@ -2,13 +2,22 @@
 categories = ["home decor"]
 date = "2019-02-22T00:00:00-05:00"
 description = "Installing DIY outdoor landscape lighting around your home is simpler than you think.  DIY your outdoor landscape lighting today in 6 simple steps.  My home setup cost less than $500 all up, compared to professional installers who charge about $2,000 - $3,000 for a similar installation. "
-social_media_images = ["/uploads/savemoneyonoutdoorlighting.png", "/uploads/DIYLighting.png", "/uploads/DIY Landscape Lighting in 6 Simple Steps.png", "/uploads/Landscape Lighting.png"]
-social_media_text = "DIY Outdoor Landscape Lighting in 6 simple steps is so easy and cheap to do. Landscape Lighting that will be the envy of your neighbors. #diy #landscapelighting #outdoorlighting #outdoorliving #lighting #frontyardappeal #curbappeal"
 title = "DIY Outdoor Landscape Lighting"
 [images]
-is_pin_friendly = false
 name = "DIY Outdoor Landscape Lighting"
 src = "/uploads/outdoor_lighting.jpeg"
+[[pins]]
+pin_description = "DIY Outdoor Landscape Lighting in 6 simple steps is so easy and cheap to do. Landscape Lighting that will be the envy of your neighbors. #diy #landscapelighting #outdoorlighting #outdoorliving #lighting #frontyardappeal #curbappeal"
+pin_image = "/uploads/savemoneyonoutdoorlighting.png"
+[[pins]]
+pin_description = "DIY Outdoor Landscape Lighting in 6 simple steps is so easy and cheap to do. Landscape Lighting that will be the envy of your neighbors. #diy #landscapelighting #outdoorlighting #outdoorliving #lighting #frontyardappeal #curbappeal"
+pin_image = "/uploads/DIYLighting.png"
+[[pins]]
+pin_description = "DIY Outdoor Landscape Lighting in 6 simple steps is so easy and cheap to do. Landscape Lighting that will be the envy of your neighbors. #diy #landscapelighting #outdoorlighting #outdoorliving #lighting #frontyardappeal #curbappeal"
+pin_image = "/uploads/DIY Landscape Lighting in 6 Simple Steps.png"
+[[pins]]
+pin_description = "DIY Outdoor Landscape Lighting in 6 simple steps is so easy and cheap to do. Landscape Lighting that will be the envy of your neighbors. #diy #landscapelighting #outdoorlighting #outdoorliving #lighting #frontyardappeal #curbappeal"
+pin_image = "/uploads/Landscape Lighting.png"
 
 +++
 ## Plan out your Outdoor Landscape Lighting Design

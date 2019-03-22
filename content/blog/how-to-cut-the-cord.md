@@ -2,13 +2,19 @@
 categories = ["home-building", "smart-home"]
 date = "2018-12-14"
 description = "Its 2019, and there are so many online services out there you may wonder what the point is still paying for cable.  Here is a step by step guide on how to stop wasting your money paying for your phone line to the cable companies. My family has not paid for a landline since 2011."
-social_media_images = ["/uploads/CutYourLandline.png", "/uploads/StopWastingMoneyOnLandline.png", "/uploads/pinterest-cut-the-phoneline.png"]
-social_media_text = "How to stop wasting money paying for your landline. Here is your how to DIY guide to cut the cord and stop paying for your phone line to the cable companies. #cutthecord #voip #googlevoice #freephone #freelandline #stoppayingforlandline #obi "
 title = "How to Cut the Cord - Stop paying for your landline"
 [images]
-is_pin_friendly = false
 name = "Under Cabinet Lighting"
 src = "/uploads/landline.jpg"
+[[pins]]
+pin_description = "How to stop wasting money paying for your landline. Here is your how to DIY guide to cut the cord and stop paying for your phone line to the cable companies. #cutthecord #voip #googlevoice #freephone #freelandline #stoppayingforlandline #obi "
+pin_image = "/uploads/CutYourLandline.png"
+[[pins]]
+pin_description = "How to stop wasting money paying for your landline. Here is your how to DIY guide to cut the cord and stop paying for your phone line to the cable companies. #cutthecord #voip #googlevoice #freephone #freelandline #stoppayingforlandline #obi "
+pin_image = "/uploads/StopWastingMoneyOnLandline.png"
+[[pins]]
+pin_description = "How to stop wasting money paying for your landline. Here is your how to DIY guide to cut the cord and stop paying for your phone line to the cable companies. #cutthecord #voip #googlevoice #freephone #freelandline #stoppayingforlandline #obi "
+pin_image = "/uploads/pinterest-cut-the-phoneline.png"
 
 +++
 Many homes are still subscribed to cable.  Many are still paying for bundled services like Phone, Internet, and TV.  Often, these nasty cable bills are around $200 per month.

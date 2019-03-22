@@ -2,12 +2,13 @@
 categories = ["smart home"]
 date = "2019-03-16T00:00:00-04:00"
 description = "Got a new car, but you don't want your kids to mess up the seats with the little muddy feet.  Try this amazing easy new DIY find I found to keep your seats looking like new."
-social_media_images = ["/uploads/Kick Mats.png"]
-social_media_text = "DIY How To Save your new car from those little muddy kicking feet with Kick Mats."
 title = "DIY How To Save your New Car From Little Muddy Kicking Feet"
 [images]
 name = "Seat Protector from Kicking Feet"
 src = "/uploads/fullsizeoutput_1d24.jpeg"
+[[pins]]
+pin_description = "DIY How To Save your new car from those little muddy kicking feet with Kick Mats."
+pin_image = "/uploads/Kick Mats.png"
 
 +++
 So a few months ago I purchased a new Tesla Model 3.  It's my dream car and I am totally in love with it.  We made this our main car, which meant with two kids we have two car seats in the back.
