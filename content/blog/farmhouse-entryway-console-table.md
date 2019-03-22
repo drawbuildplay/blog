@@ -22,6 +22,8 @@ The decor we used on top of the table was from a combination of places.  The big
 
 ## The Wall Art
 
-Its always a good idea to round out an entry way table with some sort of art behind it.  Something big to make a statement always works well, but dont make it wider than the table itself so that things look proportionate.  We found this gorgeous circle frame that really complimented the grey console table.
+Its always a good idea to round out an entry way table with some sort of art behind it.  Something big to make a statement always works well, but don't make it wider than the table itself so that things look proportionate.  We found this gorgeous circle frame art that really complimented the grey console table.
 
-{{<imgproc "/uploads/filename.png" Resize "600x" >}}Caption{{</imgproc>}}
+Here is the view of our entryway console table from the living room looking out to the front door entrance.
+
+{{<imgproc "/uploads/fullsizeoutput_1d64.jpeg" Resize "600x" >}}Entryway View{{</imgproc>}}
