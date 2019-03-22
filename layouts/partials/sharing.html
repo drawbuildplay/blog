@@ -4,8 +4,9 @@
 {{ $body := print .Title " - " .Params.description }}
 {{ $socialImages := .Params.social_media_images }}
 {{ $socialDesc := .Params.social_media_text }}
+{{ $pins := .Params.pins }}
 
-{{ if $socialImages }}
+
     {{ with $data.social }}
     <section id="sharing" class="panelShare">
         <div class="box">
@@ -27,9 +28,17 @@
                     
             <div class="accordion" id="pinView">
                 <div class="row gtr-50 gtr-uniform">
-                    {{ range $socialImages }}
-                    <div class="col-4"><span class="image fit"><img src="{{ . }}" data-pin-description="{{ $socialDesc }}" title="{{ $socialDesc }}"></span></div>
+                    {{ if $pins }}
+                        {{ range $pins }}
+                        <div class="col-4"><span class="image fit"><img src="{{ .pin_image }}" data-pin-description="{{ .pin_description }}"></span></div>
+                        {{ end }}
+                    {{ else }}
+                        {{ range $socialImages }}
+                        <div class="col-4"><span class="image fit"><img src="{{ . }}" data-pin-description="{{ $socialDesc }}"></span></div>
+                        {{ end }}
                     {{ end }}
+
+                    
                 </div>
             </div>
 
@@ -37,4 +46,6 @@
 
     </section>
     {{ end }}
-{{ end }}
+
+
+
