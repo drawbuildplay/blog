@@ -2,15 +2,23 @@
 categories = ["home-decor"]
 date = "2019-03-22T00:00:00-04:00"
 description = "I love this farmhouse entryway console table as the first thing you see when you enter our home.  Get this look and more below."
-draft = true
-pins = []
 title = "Farmhouse Entryway Console Table"
 [images]
 name = "Beautiful Entry Console Table"
 src = "/uploads/fullsizeoutput_1d59.jpeg"
+[[pins]]
+pin_description = "Really cute entry way console table with a gray whitewash and gold decor accents. This beautiful table will compliment your entryway, or work in any hallway you want to liven up."
+pin_image = "/uploads/cute entryway console table.png"
+[[pins]]
+pin_description = "Farmhouse Console Table for your home entry way or hallway. We put this gorgeous console table in our entry way and it provides a beautiful visual for guests as they enter our home.  Its thin so doesnt get in the way, and the colors are so elegant."
+pin_image = "/uploads/farmhouse console table.png"
 
 +++
 This table was not one of my own DIY projects since it was so cheap to just go out and buy.  We purchased this entry way console table from our local HomeGoods store for only $60.  I probably could have DIY built it myself, but my wife saw this and wanted to get it on the spot.
+
+This entryway console table provides a beautiful visual when our friends visit as it's the first thing they see.  The table is thin so it doesn't get in the way - which is especially important as we have two young kids that are constantly running past this table.
+
+The console table also keeps with the farmhouse vibe we are going for in our home with its washed out wooden look.
 
 ## White washing furniture
 
@@ -27,3 +35,5 @@ Its always a good idea to round out an entry way table with some sort of art beh
 Here is the view of our entryway console table from the living room looking out to the front door entrance.
 
 {{<imgproc "/uploads/fullsizeoutput_1d64.jpeg" Resize "1200x" >}}Entryway View{{</imgproc>}}
+
+So, let me know what you think about what we did here, and let me know if you try something similar in your home.
