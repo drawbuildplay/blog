@@ -58,6 +58,7 @@ fields:
   config:
     labelField: pin_description
 pages:
+- content/blog/farmhouse-entryway-console-table.md
 - content/blog/diy-built-in-shelves-using-ikea-billy-bookcase-hack.md
 - content/blog/home-building-checklist.md
 - content/blog/how-to-cut-the-cord.md
