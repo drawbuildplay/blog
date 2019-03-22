@@ -47,21 +47,14 @@ fields:
   label: Pins
   description: Pinterest Images and Descriptions (Aim for 5)
   fields:
-  - type: field_group
-    name: pin
-    label: Pin
-    description: Pinterest Pin
-    fields:
-    - type: file
-      name: pin_image
-      label: Pin Image
-      description: Pin Image
-    - type: textarea
-      name: pin_description
-      label: Pin Description
-      description: Pin Description (SEO targeted keywords for this Pin Image)
-      config:
-        required: false
+  - type: file
+    name: pin_image
+    label: Pin Image
+    description: Pin Image
+  - type: textarea
+    name: pin_description
+    label: Pin Description
+    description: Pin Description
 - type: image_gallery
   name: social_media_images
   label: "(Obsolete) Social Media Images"
