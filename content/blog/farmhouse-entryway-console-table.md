@@ -14,7 +14,7 @@ This table was not one of my own DIY projects since it was so cheap to just go o
 
 ## White washing furniture
 
-What I love most about it is the whitewash on it.  If you have a console table similar to this, and want that white washed look, its so stupid simple to do.  Just grab a small container of your favorite white paint.  Dilute that white paint with some water (I usually do  equal parts paint and water).  Then using a rag, just wipe it over your surface.  If you want more opaqueness (ie have the paint more visible), then just apply more layers of it.  I also like to add a splash of gray into the mixture so its not just a pure white wash.  You can also make the color streak through (for a more aged look), by applying a white wash of a color such as blue or gray (or even pink/red), and then going over that with the white wash so that only partial streaks of color show through.
+What I love most about it is the gray whitewash on it.  If you have a console table similar to this, and want that white washed look, it's so stupid simple to do.  Just grab a small container of your favorite white paint.  Dilute that white paint with some water (I usually do  equal parts paint and water).  Then using a rag, just wipe it over your surface.  If you want more opaqueness (ie have the paint more visible), then just apply more layers of it.  I also like to add a splash of gray into the mixture so its not just a pure white wash.  You can also make the color streak through (for a more aged look), by applying a white wash of a color such as blue or gray (or even pink/red), and then going over that with the white wash so that only partial streaks of color show through.
 
 ## The Decor
 
