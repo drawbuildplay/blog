@@ -8,6 +8,15 @@ title = "DIY Built-In Shelves using Ikea Billy Bookcase Hack"
 [images]
 name = "Office Shelving"
 src = "/uploads/GV4A7575.jpg"
+[[pins]]
+pin_description = "How to build a beautiful DIY Shelving for the library or office, using the IKEA Billy Bookcase Hack #shelving #library #office #workfromhome #ikea #billy "
+pin_image = "/uploads/diy_shelving.png"
+[[pins]]
+pin_description = "Ikea Billy Bookcase Hack - Shelving for your library or home office #shelving #library #office #workfromhome #ikea #billy "
+pin_image = "/uploads/Ikea Bookcase Hack.png"
+[[pins]]
+pin_description = "Easy DIY Built In Bookcases using the IKEA Billy Bookcase Hack #shelving #library #office #workfromhome #ikea #billy "
+pin_image = "/uploads/easy_bookcase_diy.png"
 
 +++
 This is probably my favorite DIY to date at home.  I love how gorgeous these shelves turned out, and it only cost me a few hundred dollars.
@@ -42,7 +51,7 @@ I built the base framing using 1x3 wood.  I then wrapped the outside of the base
 
 {{<imgproc "/uploads/ikea_bookshelf_hack.png" Resize "1200x" >}}Ikea Billy Bookshelf Hack{{</imgproc>}}
 
-Once you base is in, build your Billy's per Ikea's instructions.  As each shelf is built, lift it up and place it on your base.  Don't mount it to the wall yet, as you will likely need to adjust the spacing between each shelf to make them evenly spaced once all of them are up.
+Once your base is in, build your Billy's per Ikea's instructions.  As each shelf is built, lift it up and place it on your base.  Don't mount it to the wall yet, as you will likely need to adjust the spacing between each shelf to make them evenly spaced once all of them are up.
 
 Once all shelves are up and equally distributed, use the Ikea mounts provided to secure them to the studs behind the wall. Also try to keep the distance between each shelf a standard width as it will be covered by trim (so something like 2.5" is good, but go with what is available and looks good to you).
 
@@ -68,9 +77,9 @@ Finally, once your new book shelf is dry, go decorate.  Family pictures, books, 
 
 Let me know in the comments what you think, and don't forget to pin this to your Pinterest Boards.
 
-I still have a couple of things I want to do to finish off this room. 
+I still have a couple of things I want to do to finish off this room.
 
-First, the remaining walls need to be painted Repose Gray from Sherwin Williams.  This will really make the shelves pop against the gray.  
+First, the remaining walls need to be painted Repose Gray from Sherwin Williams.  This will really make the shelves pop against the gray.
 
 Second, the wood at the top needs something.  I am thinking of building a farmhouse wooden sign, maybe stenciled with "Office", or something along those lines.
 
