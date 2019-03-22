@@ -57,16 +57,6 @@ fields:
     description: Pin Description
   config:
     labelField: pin_description
-- type: image_gallery
-  name: social_media_images
-  label: "(Obsolete) Social Media Images"
-  description: Images for Pinterest and Facebook
-- type: textarea
-  name: social_media_text
-  label: "(Obsolete) Social Media Text"
-  description: Text to be posted alongside Social Media Images (Use Keywords)
-  config:
-    required: false
 pages:
 - content/blog/home-building-checklist.md
 - content/blog/how-to-cut-the-cord.md
