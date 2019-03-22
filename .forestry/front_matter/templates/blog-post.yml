@@ -57,25 +57,15 @@ fields:
     description: Pin Description
   config:
     labelField: pin_description
-- type: image_gallery
-  name: social_media_images
-  label: "(Obsolete) Social Media Images"
-  description: Images for Pinterest and Facebook
-- type: textarea
-  name: social_media_text
-  label: "(Obsolete) Social Media Text"
-  description: Text to be posted alongside Social Media Images (Use Keywords)
-  config:
-    required: false
 pages:
+- content/blog/home-building-checklist.md
+- content/blog/how-to-cut-the-cord.md
+- content/blog/diy-under-cabinet-lighting.md
+- content/blog/diy-outdoor-lighting.md
 - content/blog/diy-built-in-shelves-using-ikea-billy-bookcase-hack.md
 - content/blog/free-over-the-air-tv.md
-- content/blog/home-building-checklist.md
 - content/blog/diy-lawn-care-schedule.md
 - content/blog/home-building-checklist-floorplan.md
-- content/blog/diy-outdoor-lighting.md
 - content/blog/how-to-save-your-new-car-from-kicking-feet.md
 - content/blog/home-building-checklist-location.md
 - content/blog/laundry-room-makeover.md
-- content/blog/how-to-cut-the-cord.md
-- content/blog/diy-under-cabinet-lighting.md
