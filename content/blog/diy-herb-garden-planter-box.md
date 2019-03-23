@@ -30,7 +30,7 @@ In a well ventilated area, now apply your stain.  Do as many layers as you feel 
 
 Once dry, its time to mount the planter box at your location.  I found this excellent bracket on Amazon which holds this box, and stays relatively hidden.
 
-{{<affiliateImg Image "//ws-na.amazon-adsystem.com/widgets/q?_encoding=UT_Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=drawbuildplay-20&language=en_US" URL "https://www.amazon.com/gp/product/B0042U8NWQ/ref=as_li_ss_il?ie=UTF8&psc=1&linkCode=li3&tag=drawbuildplay-20&linkId=0da2608e9ad78bb0a90042eeea765bd5&language=en_US" Title "_" >}}
+{{<affiliateImg Image "//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0042U8NWQ&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=drawbuildplay-20&language=en_US" URL "https://www.amazon.com/gp/product/B0042U8NWQ/ref=as_li_ss_il?ie=UTF8&psc=1&linkCode=li3&tag=drawbuildplay-20&linkId=5f58cbd60877684dbc35fe634ed6fdc5&language=en_US" Title _"_Amazon Window Flower Box Wall Brackets, 10 inch" >}}
 
 {{<imgproc "/uploads/Planter Box Bracket.png" Resize "1200x" >}}Planter Box Bracket{{</imgproc>}}
 
@@ -38,4 +38,4 @@ Once you have mounted the brackets on your deck railing, hang your planter box o
 
 Now for the best part.  Plant your herbs and water well.
 
-{{<imgproc "/uploads/PlanterHerbs.png" Resize "600x" >}}DIY Herb Garden Planter Box{{</imgproc>}} 
+{{<imgproc "/uploads/PlanterHerbs.png" Resize "1200x" >}}DIY Herb Garden Planter Box{{</imgproc>}} 
