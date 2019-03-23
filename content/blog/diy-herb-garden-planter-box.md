@@ -38,4 +38,4 @@ Once you have mounted the brackets on your deck railing, hang your planter box o
 
 Now for the best part.  Plant your herbs and water well.
 
-{{<imgproc "/uploads/filename.png" Resize "600x" >}}Caption{{</imgproc>}}
+{{<imgproc "/uploads/PlanterHerbs.png" Resize "600x" >}}DIY Herb Garden Planter Box{{</imgproc>}} 
