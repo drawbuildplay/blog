@@ -2,19 +2,26 @@
 categories = ["home-decor"]
 date = "2019-03-23T00:00:00-04:00"
 description = "Its finally Spring, and that means it's time to get planting outside.  This DIY Herb Garden Planter Box is perfect for hanging over your Deck rails to grow your herbs, or even some spring flowers. "
-draft = true
-pins = []
 title = "DIY Herb Garden Planter Box"
 [images]
 name = "DIY Herb Garden Planter Box"
 src = "/uploads/DIY Herb Garden Planter Box-1.png"
+[[pins]]
+pin_description = "Grow herbs in our easy DIY Cedar Planter Box for your herb garden.  This is great to hang over your deck or by your kitchen windows.  Pin this easy DIY now so you can enjoy fresh herbs all summer long. #herbs #planter #planterbox #diy #herbgarden"
+pin_image = "/uploads/Build your own Planter Box (1).png"
+[[pins]]
+pin_description = "Easy DIY Planter Box for your herb garden using cedar wood.  This is great to hang over your deck or by your kitchen windows.  Pin this easy DIY now so you can enjoy fresh herbs all summer long. #herbs #planter #planterbox #diy #herbgarden"
+pin_image = "/uploads/Build your own Planter Box.png"
+[[pins]]
+pin_description = "DIY Planter Box for your herb garden or spring flowers.  This is great to hang over your deck or by your kitchen windows.  Pin this easy DIY now so you can enjoy fresh herbs all summer long. #herbs #planter #planterbox #diy #herbgarden"
+pin_image = "/uploads/DIY Herb Garden Planter Box-2.png"
 
 +++
 As the temperatures start to warm up, it's time to start thinking about the growing season.  We love to cook at our home, and a fresh batch of herbs on hand is always a life saver.  Not to mention we love the smell of fresh herbs around us.
 
 We wanted to have something close to the kitchen so that we could walk out and grab a handful of Thyme or Rosemary whenever we needed.  Ideally ours would have been against a window sill, but our kitchen isn't ideally situated for that.  So instead, we decided to hang a long planter box over our deck railing.
 
-This planter box was super easy to build.  I used cedar for the box since my research showed it was one of the best options for outside weather conditions.  Plus I love the look and smell of cedar (yeah I may be weird).
+This cedar planter box was super easy to build.  I used cedar for the box since my research showed it was one of the best options for outside weather conditions.  Plus I love the look and smell of cedar (yeah I may be weird).
 
 I also stained my planter box using Sherwin Williams SW3518 Hawthorne, which is the same color as our deck stain.  
 
@@ -46,4 +53,4 @@ Pictured above, last year we planted (starting from the left):
 * Rosemary
 * Thyme
 
-This year (2019), I think we will drop the Chili Plant, and maybe add Parsley instead.  I want to do mint but that will need to be in its own container since it spreads and takes over so much.
+This year (2019), I think we will drop the Chili Plant, and maybe add Parsley instead.  I want to do mint but that will need to be in its own container since it spreads and takes over so much.  It is currently late March and I think the last frost of the year has passed, so that makes now a perfect time to get that herb garden prepared for spring and summer.
