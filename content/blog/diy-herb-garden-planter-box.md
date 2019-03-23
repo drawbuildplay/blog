@@ -37,3 +37,13 @@ Once you have mounted the brackets on your deck railing, hang your planter box o
 Now for the best part.  Plant your herbs and water well.
 
 {{<imgproc "/uploads/PlanterHerbs.png" Resize "1200x" >}}DIY Herb Garden Planter Box{{</imgproc>}} 
+
+Pictured above, last year we planted (starting from the left):
+
+* Chili Plant
+* Basil
+* Oregano
+* Rosemary
+* Thyme
+
+This year (2019), I think we will drop the Chili Plant, and maybe add Parsley instead.  I want to do mint but that will need to be in its own container since it spreads and takes over so much.
