@@ -17,8 +17,14 @@
                                 <p>{{ .Description }}</p>
                             </header>
                             
+                            {{ $imageResources := .Site.GetPage "/uploads" }}
+                           
                             {{ with .Params.images }}
-                                <div class="image main"><img src="{{ .src }}" alt="{{ .name }}" /></div>
+                                <div class="image main">
+                                    {{ $original := $imageResources.Resources.GetMatch (strings.TrimPrefix "/uploads/" (.src)) }}
+                                    {{ $cover := $original.Resize "1200x" }} 
+                                    <img alt="{{ .name }}" src="{{ $cover.RelPermalink }}">
+                                </div>
                             {{ end }}
 
                             {{ .Content }}
