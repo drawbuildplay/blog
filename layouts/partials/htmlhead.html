@@ -53,7 +53,8 @@
             {{ $imageName := .name }}
             {{ $imgToFind := strings.TrimPrefix "/uploads/" .src }}
             {{ $imageResource := $imageResources.Resources.GetMatch (strings.TrimPrefix "/uploads/" .src ) }}
-	    <meta property="og:image" content="{{ $imageResource.Permalink }}">
+            {{ $cover := $imageResource.Resize "1200x" }} 
+	    <meta property="og:image" content="{{ $cover.Permalink }}">
 	    {{ end }}
 
 
