@@ -1,7 +1,7 @@
 +++
 categories = ["home-decor"]
 date = "2019-03-25T00:00:00-04:00"
-description = "Get the farmhouse look in your living room with a beautifully decorated farmhouse ladder that incorporates hygge warmth."
+description = "Get farmhouse decor in your living room with a beautifully decorated farmhouse ladder shelf that incorporates hygge warmth."
 draft = true
 title = "Farmhouse Ladder Shelf Decor"
 [images]
@@ -12,14 +12,14 @@ pin_description = "Get the farmhouse look in your living room with a beautifully
 [[pins]]
 pin_description = "This Ladder Decor Leaning Shelf incorporates elements of Hygge for warmth. #farmhouse #ladder-decor #hygge #leaning-shelf"
 [[pins]]
-pin_description = "Get this Farmhouse Ladder Decor Style that incorporates elements of Hygge. #farmhouse #ladder-decor #hygge #leaning-shelf"
+pin_description = "Get this Farmhouse Ladder Decor Style that incorporates elements of Hygge for your living room. #farmhouse #ladder-decor #hygge #leaning-shelf #livingroom"
 
 +++
 Ever since I started using Pinterest and started discovering images of other peoples homes incorporating Farmhouse elements, I have been in love.  And I have sought to replicate many of these ideas in my own home.
 
 Our latest addition to our living room has been this beautiful farmhouse ladder shelf that we purchased from Kohls.
 
-I've had many iterations trying to decorate this ladder shelf just right.  It has ranged from being full of our kids photos, to having a bunch of books to fill up some of the shelves.  But none of the layouts really felt perfect to me.
+I've had many iterations trying to decorate this ladder shelf just right for our living room.  It has ranged from being full of our kids photos, to having a bunch of books to fill up some of the shelves.  But none of the layouts really felt perfect to me.
 
 Then, recently I came across the concept of Hygge.
 
