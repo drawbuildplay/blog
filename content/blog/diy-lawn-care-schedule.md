@@ -1,25 +1,25 @@
 +++
 categories = ["home decor"]
 date = "2019-03-18T00:00:00-04:00"
-description = "Whether you mow and treat your own lawn, or pay someone else to do it, its important to follow a disciplined lawn care schedule. Read our lawn care tips below on what to do when to get a weed free greener lawn."
+description = "Whether you mow and treat your own lawn, or pay someone else to do it, it's important to follow a disciplined lawn care schedule. Read our healthy lawn care tips below on what to do when to get a perfect lawn that is weed free and green."
 title = "Secret DIY Tips to get a Greener Lawn"
 [images]
 name = "Lawn Care Tips and Schedule"
 src = "/uploads/lawn.jpg"
 [[pins]]
-pin_description = "The secret to get a greener lawn this summer with our free tips and tricks. Free Lawn Care Schedule for a weed free greener lawn. #lawncare #weeds #grass"
+pin_description = "The secret to get a perfect lawn this summer with our free lawn tips and tricks. Free Lawn Care Schedule for a weed free perfect green lawn. #lawncare #weeds #grass"
 pin_image = "/uploads/lawncaresecrets.png"
 [[pins]]
-pin_description = "The secret to get a greener lawn this summer with our free tips and tricks. Free Lawn Care Schedule for a weed free greener lawn. #lawncare #weeds #grass"
+pin_description = "The secret to get a perfect lawn this summer with our free tips and tricks. Free Lawn Maintenance Schedule for a weed free perfect lawn. #lawncare #weeds #grass"
 pin_image = "/uploads/LawnCheatSheet.png"
 [[pins]]
 pin_description = "The secret to get a greener lawn this summer with our free tips and tricks. Free Lawn Care Schedule for a weed free greener lawn. #lawncare #weeds #grass"
 pin_image = "/uploads/LawnCareTips.png"
 
 +++
-As the weather is warming up, and spring is in the air, its imperative you follow the appropriate lawn care schedule for your lawn.  I live in the south (Atlanta to be specific), so the below tips are for the South East region.  Many of our lawns have Bermuda grass, so I will be focused on this type of grass.
+As the weather is warming up, and spring is in the air, its imperative you follow the appropriate lawn maintenance schedule for your lawn.  I live in the south (Atlanta to be specific), so the below tips are for the South East region.  Many of our lawns have Bermuda grass, so I will be focused on this type of Bermuda grass maintenance.
 
-There are two critical areas to focus on if you want green grass.
+There are two critical areas to focus on if you want a perfect lawn.
 
 ##### Lawn Mowing Schedule
 
