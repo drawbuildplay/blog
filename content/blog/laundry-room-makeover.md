@@ -1,18 +1,17 @@
 +++
 categories = ["home-decor"]
 date = "2019-01-15"
-description = "DIY Small Laundry Room Makeover Reveal with a Farmhouse Vibe and Wooden Countertop."
+description = "DIY Farmhouse Laundry Room with Wooden Countertop and Beadboard."
 title = "Laundry Room Makeover"
 [images]
 name = "Laundry Room Makeover"
 src = "/uploads/laundry_room_makeover_cover.png"
 [[pins]]
-pin_description = "DIY Small Laundry Room Makeover Reveal with a Farmhouse Vibe and a Wooden Countertop, Weathered Boards and Panelled Walls #farmhouse #laundry #roomdecor #laundryroom"
+pin_description = "DIY Farmhouse Laundry Room with a Wooden Countertop and Beadboard walls, Distressed Countertop and Panelled Walls #farmhouse #laundry #roomdecor #laundryroom"
 pin_image = "/uploads/laundry_room.png"
 [[pins]]
-pin_description = "DIY Small Laundry Room Makeover Reveal with a Farmhouse Vibe and a Wooden Countertop, Weathered Boards and Panelled Walls #farmhouse #laundry #roomdecor #laundryroom"
+pin_description = "DIY Laundry Room with a Farmhouse Style and a Distressed Wooden Countertop, and Panelled Beadboard Walls #farmhouse #laundry #roomdecor #laundryroom"
 pin_image = "/uploads/pinterest-laundry-room-makeover.png"
-
 
 +++
 Hi DIYers.  Welcome to my latest post on DIY projects.  This is one of the first projects I ever completed at home and inspired me to do many more since then.  Our home came equipped with two locations for the laundry room.  The standard one was downstairs behind the kitchen in what I consider to be a massively oversized room for a laundry.  But, we also asked the builder to equip one of the closets upstairs to be a laundry room, which he happily obliged.  We wanted our laundry to be upstairs, and the smaller closet location really made a lot of sense to us, since we dont really get the need for having oversized laundry rooms.  _I'll post later on what we did in what was supposed to be the downstairs laundry._  
