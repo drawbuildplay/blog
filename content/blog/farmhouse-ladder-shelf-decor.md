@@ -6,8 +6,8 @@ draft = true
 pins = []
 title = "Farmhouse Ladder Shelf Decor"
 [images]
-name = ""
-src = ""
+name = "Farmhouse Ladder Shelf Decor"
+src = "/uploads/bg.jpg"
 
 +++
 Ever since I started using Pinterest and started discovering images of other peoples homes incorporating Farmhouse elements, I have been in love.  And I have sought to replicate many of these ideas in my own home.
