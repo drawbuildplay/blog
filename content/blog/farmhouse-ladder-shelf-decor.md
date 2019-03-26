@@ -2,17 +2,19 @@
 categories = ["home-decor"]
 date = "2019-03-25T00:00:00-04:00"
 description = "Get farmhouse decor in your living room with a beautifully decorated farmhouse ladder shelf that incorporates hygge warmth."
-draft = true
 title = "Farmhouse Ladder Shelf Decor"
 [images]
 name = "Farmhouse Ladder Shelf Decor"
 src = "/uploads/farmhouse-ladder-decor.JPG"
 [[pins]]
 pin_description = "Get the farmhouse look in your living room with a beautifully decorated farmhouse ladder shelf that incorporates hygge warmth. #farmhouse #ladder-decor #hygge #leaning-shelf"
+pin_image = "/uploads/Ladder Shelf Decor.png"
 [[pins]]
-pin_description = "This Ladder Decor Leaning Shelf incorporates elements of Hygge for warmth. #farmhouse #ladder-decor #hygge #leaning-shelf"
+pin_description = "This Ladder Shelf Decor (Leaning Shelf) incorporates elements of Hygge for warmth. #farmhouse #ladder-decor #hygge #leaning-shelf"
+pin_image = "/uploads/Farmhouse Ladder Shelf.png"
 [[pins]]
 pin_description = "Get this Farmhouse Ladder Decor Style that incorporates elements of Hygge for your living room. #farmhouse #ladder-decor #hygge #leaning-shelf #livingroom"
+pin_image = "/uploads/Ladder Shelf Decor (1).png"
 
 +++
 Ever since I started using Pinterest and started discovering images of other peoples homes incorporating Farmhouse elements, I have been in love.  And I have sought to replicate many of these ideas in my own home.
