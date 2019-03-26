@@ -40,6 +40,6 @@ Another thing that helps with getting joints glued nice and tight is to put a he
 
 And....here is the final product.
 
-{{<imgproc "/uploads/DIY Drawer Organizer.JPG Resize "1200x" >}}Utensil Drawer Organization DIY{{</imgproc>}} 
+{{<imgproc "/uploads/DIY Drawer Organizer.JPG" Resize"1200x" >}}Utensil Drawer Organization DIY{{</imgproc>}} 
 
 We love how our DIY silverware drawer organizer turned out.
