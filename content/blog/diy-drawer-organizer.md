@@ -2,12 +2,19 @@
 categories = ["home-decor"]
 date = "2019-03-26T00:00:00-04:00"
 description = "Do this easy DIY Drawer Organizer for your kitchen utensils, or really any drawer organization you want. Total cost of materials was less than $11."
-draft = true
-pins = []
 title = "DIY Drawer Organizer"
 [images]
 name = "DIY Drawer Organizer"
 src = "/uploads/DIY Drawer Organizer.JPG"
+[[pins]]
+pin_description = "Utensil Drawer Organization DIY for your kitchen utensils and silverware. Pin this right now and make it in your next free afternoon and enjoy your organized drawer. #diy-drawer-organizer #diy #kitchen #drawer #organizer"
+pin_image = "/uploads/DIY Drawer Organizer.png"
+[[pins]]
+pin_description = "Easy DIY Drawer Organizer for your kitchen drawer or bathroom drawer. Pin this right now and build it in your next lunch break. #diy-drawer-organizer #diy #kitchen #drawer #organizer"
+pin_image = "/uploads/DIY Drawer Organizer (1).png"
+[[pins]]
+pin_description = "DIY Custom Drawer Organizer for your kitchen utensils and silverware. Pin this right now and make it in your next free afternoon. #diy-drawer-organizer #diy #kitchen #drawer #organizer"
+pin_image = "/uploads/DIY Custom Drawer Organizers-1.png"
 
 +++
 This DIY Drawer Organizer was a spur of the moment DIY I came up with.  We used to have a store bought wooden organizer a while ago which looked nice, but it wasn't sized appropriately for the drawer, and the slats had gaps below them where the silverware would sneak under (this was really annoying).  Then recently, my wife went out and replaced it with a new organizer, but it was even smaller and just didn't look good.
