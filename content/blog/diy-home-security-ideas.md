@@ -13,7 +13,7 @@ pin_image = "/uploads/Home Security Ideas.png"
 pin_description = "DIY Home Security Ideas to modernize your home security with a Nest Camera, Smart Door bells, and other smart home automation tools. #nest #nest-camera #home-security #home-security-ideas"
 pin_image = "/uploads/Home Security Ideas (1).png"
 [[pins]]
-pin_description = "Home Security Ideas to improve your home security with security camera's, Video Door bells, and other home security gadgets. #nest #nest-camera #home-security #home-security-ideas"
+pin_description = "Home Security Ideas to improve your home security with home security camera's, Video Door bells, and other home security gadgets. #nest #nest-camera #home-security #home-security-ideas"
 pin_image = "/uploads/Home Security Ideas Nest Camera.png"
 
 +++
@@ -46,9 +46,9 @@ Traditional monitoring plans tend to solve for #2 only.  But there are also so m
 
 So, how can a smarter home help us with the latest affordable smart home technology?
 
-## Security Camera's for Home
+## Home Security Camera's for the home
 
-Let's start with security camera's.
+Let's start with home security camera's.
 
 First, they act as a deterrent if a potential intruder see's a camera.  Very few want to risk being recorded, so if they know camera's are operating, they will likely move on to a less risky target.  A sign saying camera's are recording might not cut it.  I have installed a {{<affiliatelink URL "https://amzn.to/2utDqpa" Title "Nest Camera (IQ Outdoor)">}} in both my front and back yards.  This will record anyone entering my yard, and alert me on my phone when people or motion is detected in certain zones.
 
