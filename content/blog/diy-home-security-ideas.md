@@ -46,7 +46,7 @@ Traditional monitoring plans tend to solve for #2 only.  But there are also so m
 
 So, how can a smarter home help us with the latest affordable smart home technology?
 
-## Security Camera's for Home 
+## Security Camera's for Home
 
 Let's start with security camera's.
 
@@ -86,7 +86,7 @@ But, alarm.com is so cool.  Via the alarm.com app on your phone, you can arm and
 
 ## DIY Home Security Costs
 
-This estimate is based on my recommendations above.
+This estimate is based on my recommendations above. 
 
 Small Home ($1724):
 
