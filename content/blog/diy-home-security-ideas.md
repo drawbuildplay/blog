@@ -12,7 +12,7 @@ src = "/uploads/bg.jpg"
 +++
 It's 2019 and many of you may still be paying traditional alarm providers for alarm monitoring. But did you know there are many easy DIY options that are in many ways better and cheaper than what you are paying them?
 
-First, let's break down the typical cost.  
+First, let's break down the typical cost.
 
 ## Basic Monitoring Plans
 
@@ -43,13 +43,13 @@ So, how can a smarter home help us with the latest affordable smart home technol
 
 Let's start with security camera's.
 
-First, they act as a deterrent if a potential intruder see's a camera.  Very few want to risk being recorded, so if they know camera's are operating, they will likely move on to a less risky target.  A sign saying camera's are recording might not cut it.  I have installed a Nest Camera (IQ Outdoor) in both my front and back yards.  This will record anyone entering my yard, and alert me on my phone when people or motion is detected in certain zones.
+First, they act as a deterrent if a potential intruder see's a camera.  Very few want to risk being recorded, so if they know camera's are operating, they will likely move on to a less risky target.  A sign saying camera's are recording might not cut it.  I have installed a {{<affiliatelink URL "https://amzn.to/2utDqpa" Title "Nest Camera (IQ Outdoor)">}} in both my front and back yards.  This will record anyone entering my yard, and alert me on my phone when people or motion is detected in certain zones.
 
-{{<imgproc "/uploads/NestOutdoorIQ.png" Resize "600x" >}}Nest Camera - Outdoor IQ {{</imgproc>}} 
+{{<imgproc "/uploads/NestcamOutdoorIQ.png" Resize "600x" >}}Nest Camera - Outdoor IQ {{</imgproc>}}
 
-I also have a Ring Doorbell by my front door.  So if anyone approaches the front door, I am alerted along with an image and recording of who it is.  
+I also have a {{<affiliatelink URL "https://amzn.to/2uvoWVR" Title "Ring Doorbell Pro">}}  by my front door.  So if anyone approaches the front door, I am alerted along with an image and recording of who it is.
 
-{{<imgproc "/uploads/RingDoorbell.png" Resize "600x" >}}Ring Doorbell Pro{{</imgproc>}} 
+{{<imgproc "/uploads/RingDoorbell.jpg" Resize "600x" >}}Ring Doorbell Pro{{</imgproc>}}
 
 With both the Nest Outdoor Camera's and the Ring Doorbell, I also have the option to speak directly to the person through a speaker mounted on those devices.  Nest recently came out with their own doorbell (Nest Doorbell) which is better than the Ring Doorbell in my opinion (does things like facial recognition and integrates with Google Home).
 
@@ -57,7 +57,7 @@ These devices solve the first goal.  It acts as a secure deterrent to anyone com
 
 If the potential intruder gets into the home, then having Nest Camera's inside the home is also a significant advantage.  You can cover the main area's with the camera's, and be alerted when people are detected (or voices heard) while you are away from your home.
 
-Everything is recorded for 5 days (or more depending on what plan you subscribe to), so you can always review and save any important footage.  
+Everything is recorded for 5 days (or more depending on what plan you subscribe to), so you can always review and save any important footage.
 
 Security Camera's will essentially help you with goals #1, #2, and #3.  Police can often use the footage to help identify the suspects and making it more likely of finding them, thus also helping with goal #4.
 
@@ -67,7 +67,7 @@ The next layer of security I recommend is smart door locks.  They typically act 
 
 Also, if you accidentally leave your door unlocked at night or when away, you can remotely lock it as well as have them notify you that the door was left unlocked.
 
-A simple way to get started with this is with the MyQ garage opener.  It takes a MyQ compatible garage opener, and connects it to the internet.  You then can start to receive notifications on whenever the garage is opened/closed, as well as remotely trigger those actions.  You can also tie it into scenes in your smart home (Google/Apple) to automatically close the garage as part of your good night scene, avoiding the possibility of the garage being left open all night.
+A simple way to get started with this is with the {{<affiliatelink URL "https://amzn.to/2HJ2YY4" Title "MyQ Homebridge">}} garage opener.  It takes a MyQ compatible garage opener, and connects it to the internet, and adds Apple Homekit compatibility.  You then can start to receive notifications on whenever the garage is opened/closed, as well as remotely trigger those actions.  You can also tie it into scenes in your smart home (Google/Apple) to automatically close the garage as part of your good night scene, avoiding the possibility of the garage being left open all night.
 
 Smart Door Locks and notifications will help you with goal #2 of being notified whenever someone enters your property.
 
@@ -101,6 +101,12 @@ Large Home ($2320):
 
 The DIY is better than what most premium alarm monitoring packages come with ($1800 over 3 years) and you will have a good coverage of Nest Camera's recording and smart home notifications.  Also, after that 3 years, the cost starts to get even cheaper (i'm just choosing 3 years so we can compare pricing).
 
-Of course, you can choose what you want to install from the above based on your own needs in order to reduce the price even further.  But I do highly recommend the Nest products as they really are the best and most secure.  The last thing you want is to buy a cheap camera that doesn't get regular software updates and then someone hacks in and invades your privacy.
+Of course, you can choose what you want to install from the above based on your own needs in order to reduce the price even further.  But I do highly recommend the Nest products as they really are the best and most secure.  The last thing you want is to buy a cheap camera that doesn't get regular software updates and then someone hacks in and invades your privacy. The Nestcam IQ range is the latest version which has facial recognition. If thats not wanted, then you can still by the previous version for much cheaper without the facial recognition (it's almost half the price!).
 
 Nest also supports 2-Factor authentication to help ensure if your password was compromised that a malicious user wouldn't be able to get in.
+
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=drawbuildplay-20&language=en_US&marketplace=amazon&region=US&placement=B01DM6BDA4&asins=B01DM6BDA4&linkId=8a997d4c2ed6790be7e2ed02d1e98338&show_border=true&link_opens_in_new_window=true"></iframe>
+
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=drawbuildplay-20&language=en_US&marketplace=amazon&region=US&placement=B019EEBFRY&asins=B019EEBFRY&linkId=4227797f6a898fe5d6efb10f2541ece3&show_border=true&link_opens_in_new_window=true"></iframe>
+
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=drawbuildplay-20&language=en_US&marketplace=amazon&region=US&placement=B073CBBCK2&asins=B073CBBCK2&linkId=22dc304c2da502721641290a0863db70&show_border=true&link_opens_in_new_window=true"></iframe>
