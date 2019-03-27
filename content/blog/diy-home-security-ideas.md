@@ -1,7 +1,7 @@
 +++
 categories = ["smart-home"]
 date = "2019-03-27T00:00:00-04:00"
-description = "Check out our 20 best home security ideas you can DIY yourself in 2019."
+description = "Check out our 6 best home security ideas you can DIY yourself in 2019."
 draft = true
 pins = []
 title = "DIY Home Security Ideas"
@@ -45,7 +45,7 @@ Let's start with security camera's.
 
 First, they act as a deterrent if a potential intruder see's a camera.  Very few want to risk being recorded, so if they know camera's are operating, they will likely move on to a less risky target.  A sign saying camera's are recording might not cut it.  I have installed a {{<affiliatelink URL "https://amzn.to/2utDqpa" Title "Nest Camera (IQ Outdoor)">}} in both my front and back yards.  This will record anyone entering my yard, and alert me on my phone when people or motion is detected in certain zones.
 
-{{<imgproc "/uploads/NestcamOutdoorIQ.png" Resize "600x" >}}Nest Camera - Outdoor IQ {{</imgproc>}}
+{{<imgproc "/uploads/NestcamOutdoorIQ.jpg" Resize "600x" >}}Nest Camera - Outdoor IQ {{</imgproc>}}
 
 I also have a {{<affiliatelink URL "https://amzn.to/2uvoWVR" Title "Ring Doorbell Pro">}}  by my front door.  So if anyone approaches the front door, I am alerted along with an image and recording of who it is.
 
