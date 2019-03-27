@@ -2,7 +2,6 @@
 categories = ["smart-home"]
 date = "2019-03-27T00:00:00-04:00"
 description = "Check out our 6 best home security ideas you can DIY yourself in 2019."
-draft = true
 title = "DIY Home Security Ideas"
 [images]
 name = "DIY Home Security Ideas"
@@ -15,7 +14,7 @@ pin_description = "DIY Home Security Ideas to modernize your home security with 
 pin_image = "/uploads/Home Security Ideas (1).png"
 [[pins]]
 pin_description = "Home Security Ideas to improve your home security with security camera's, Video Door bells, and other home security gadgets. #nest #nest-camera #home-security #home-security-ideas"
-pin_image = "/uploads/Home Security Ideas (2).png"
+pin_image = "/uploads/Home Security Ideas Nest Camera.png"
 
 +++
 It's 2019 and many of you may still be paying traditional alarm providers for alarm monitoring. But did you know there are many easy DIY options that are in many ways better and cheaper than what you are paying them?
@@ -47,7 +46,7 @@ Traditional monitoring plans tend to solve for #2 only.  But there are also so m
 
 So, how can a smarter home help us with the latest affordable smart home technology?
 
-## Security Camera's for Home
+## Security Camera's for Home 
 
 Let's start with security camera's.
 
