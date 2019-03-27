@@ -86,7 +86,7 @@ Small Home ($1724):
 * 1x Nest Outdoor Camera ($300)
 * 1x Nest Indoor Camera ($184)
 * 1x Nest Doorbell ($250)
-* MyQ Internet Gateway ($90)
+* MyQ Homebridge ($90)
 * Alarm.com subscription over 3 years ($540)
 * Nest 5-day plan over 3 years  ($360)
 
@@ -95,7 +95,7 @@ Large Home ($2320):
 * 2x Nest Camera Outdoor IQ ($600)
 * 2x Nest Camera Indoor ($300)
 * 1x Nest Doorbell ($250)
-* MyQ Internet Gateway ($90)
+* MyQ Homebridge ($90)
 * Alarm.com subscription over 3 years ($540)
 * Nest 5-day plan over 3 years  ($540)
 
@@ -110,3 +110,5 @@ Nest also supports 2-Factor authentication to help ensure if your password was c
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=drawbuildplay-20&language=en_US&marketplace=amazon&region=US&placement=B019EEBFRY&asins=B019EEBFRY&linkId=4227797f6a898fe5d6efb10f2541ece3&show_border=true&link_opens_in_new_window=true"></iframe>
 
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=drawbuildplay-20&language=en_US&marketplace=amazon&region=US&placement=B073CBBCK2&asins=B073CBBCK2&linkId=22dc304c2da502721641290a0863db70&show_border=true&link_opens_in_new_window=true"></iframe>
+
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=drawbuildplay-20&language=en_US&marketplace=amazon&region=US&placement=B075RQVSY7&asins=B075RQVSY7&linkId=cb41c996727c84321933bd04e8781c1a&show_border=true&link_opens_in_new_window=true"></iframe>
