@@ -7,7 +7,7 @@ pins = []
 title = "DIY Home Security Ideas"
 [images]
 name = "DIY Home Security Ideas"
-src = "/uploads/bg.jpg"
+src = "/uploads/NestcamOutdoorIQ.JPG"
 
 +++
 It's 2019 and many of you may still be paying traditional alarm providers for alarm monitoring. But did you know there are many easy DIY options that are in many ways better and cheaper than what you are paying them?
