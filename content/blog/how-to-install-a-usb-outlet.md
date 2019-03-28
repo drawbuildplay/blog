@@ -40,19 +40,22 @@ The second decision you need to make is what kind of charging cable your device 
 
 ## How to install a USB Outlet
 
-In this post, I am going to focus on installing a traditional USB outlet.  A USB-C outlet can be installed the same way.
+In this post, I am going to focus on installing a traditional USB outlet.  A USB-C outlet can be installed the same way, but honestly hasn't hit the mainstream yet.
 
 {{<imgproc "/uploads/USB-Outlet.jpg" Resize "600x" >}}How to install a USB Outlet{{</imgproc>}}
 
 1. Start by locating the existing outlet you want to replace.  This should be a location where you can rest your iPhone or iPad while it charges, and is convenient to get to.  We installed ours in the kitchen next to one of the counter tops where we usually keep our phones.
 2. Turn off the power at the fuse box so that you don't get electrocuted.  Check the power is off by plugging something in to the outlet to make sure it is actually off.
 3. Unscrew the outlet cover plate from the wall with a screwdriver.
-4. Carefully pull the outlet away from the wall.  You will see it is connected by 3 wires.  One will be the GROUND wire (this is often copper).  There will be another two wires RED and BLACK which carry the power.  Its a good idea to take a photo of this arrangement.
-5. Using a screwdriver, loosen the screws at the back of the outlet where the wires are inserted.  If your outlet doesn't use screws, there might be a latch you need to shove your screwdriver into to let the wires release.
-6. Follow the instructions your new USB outlet to connect these wires.  It should be similar to what you just disconnected, and is probably labelled with which color wires go where.
-7. Push the outlet back into the wall, and install the outlet faceplate that came with your new USB outlet.
-8. Flip the power back on at the fuse box, and test your outlet is now working.  If all looks good, then try to charge your phone using your new USB outlet.
+4. The outlet will be screwed into the wall box.  Unscrew those.
+5. Carefully pull the outlet away from the wall.  You will see it is connected by 3 wires.  One will be the GROUND wire (this is often copper).  There will be another two wires RED and BLACK which carry the power.  Its a good idea to take a photo of this arrangement.
+6. Using a screwdriver, loosen the screws at the back of the outlet where the wires are inserted.  If your outlet doesn't use screws, there might be a latch you need to shove your screwdriver into to let the wires release.
+7. Follow the instructions your new USB outlet to connect these wires.  It should be similar to what you just disconnected, and is probably labelled with which color wires go where.
+8. Push the new USB outlet back into the wall, and screw it into the wall box. Install the outlet faceplate that for your new USB outlet.
+9. Flip the power back on at the fuse box, and test your outlet is now working.  If all looks good, then try to charge your phone using your new USB outlet.
 
-The outlet I have installed above is was the Leviton 15A USB Outlet.  I liked this one since it had 2 USB ports, supported the fast 15A charging, and comes at a great price.
+The outlet I have installed above is the Leviton 15A USB Wall Outlet.  I like this one since it has 2 USB ports, supports the faster 15A charging, and comes at a great price. It also blends nicely into the decor without looking all weird and stuff like some of the other USB outlets do.
 
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=drawbuildplay-20&language=en_US&marketplace=amazon&region=US&placement=B00J3PMU4C&asins=B00J3PMU4C&linkId=c92366999e339f4178042579c7df442d&show_border=true&link_opens_in_new_window=true"></iframe>
+
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=drawbuildplay-20&language=en_US&marketplace=amazon&region=US&placement=B000HEHCE6&asins=B000HEHCE6&linkId=d32e3ff76fbff38310cd73e715050550&show_border=true&link_opens_in_new_window=true"></iframe>
