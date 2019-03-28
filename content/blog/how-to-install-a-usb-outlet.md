@@ -2,8 +2,7 @@
 categories = ["smart-home"]
 date = "2019-03-28T00:00:00-04:00"
 description = "USB Outlets are great for keeping your outlets free while you are charging your phones and tablets.  Read our easy how to guide on how to install a USB outlet yourself in less than 10 minutes."
-draft = true
-title = "How to install a USB outlet"
+title = "How to DIY install a USB outlet"
 [images]
 name = "How to install a USB Outlet"
 src = "/uploads/USB-Outlet-With-Wire.jpg"
