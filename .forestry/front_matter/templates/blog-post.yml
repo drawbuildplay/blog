@@ -58,6 +58,7 @@ fields:
   config:
     labelField: pin_description
 pages:
+- content/blog/how-to-install-a-usb-outlet.md
 - content/blog/diy-home-security-ideas.md
 - content/blog/diy-drawer-organizer.md
 - content/blog/farmhouse-ladder-shelf-decor.md
