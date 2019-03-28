@@ -3,11 +3,16 @@ categories = ["smart-home"]
 date = "2019-03-28T00:00:00-04:00"
 description = "USB Outlets are great for keeping your outlets free while you are charging your phones and tablets.  Read our easy how to guide on how to install a USB outlet yourself in less than 10 minutes."
 draft = true
-pins = []
 title = "How to install a USB outlet"
 [images]
 name = "How to install a USB Outlet"
 src = "/uploads/USB-Outlet-With-Wire.jpg"
+[[pins]]
+pin_description = "Easy DIY Install for a USB Outlet to make charging your devices easier #usb #usb-outlet"
+pin_image = "/uploads/DIY USB Outlet.png"
+[[pins]]
+pin_description = "How to DIY Install a USB Outlet to make charging your devices easier #usb #usb-outlet"
+pin_image = "/uploads/USB Outlets.png"
 
 +++
 USB Outlets is really a must have in any home these days.  With all of our devices - from iPhones and Androids, to iPads and other tablets, it seems like we are always charging something.
