@@ -22,14 +22,19 @@ USB outlets work just like a normal outlet, except they will have one or two por
 
 Now, before you go out and buy your USB outlet, there are a couple of important things to note.
 
-1. Not all USB outlets are the same.  You may recall from charging your iPhone that the smaller iPhone power adapter charges much slower than the bigger iPad power adapter.
+#### Not all USB outlets are the same.  
+
+You may recall from charging your iPhone that the smaller iPhone power adapter charges much slower than the bigger iPad power adapter.
 
 {{<affiliateImg Image "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/image/AppleInc/aos/published/images/M/D8/MD810/MD810?wid=1144&hei=1144&fmt=jpeg&qlt=80&op_usm=0.5%2C0.5&.v=1532627474032" URL "https://www.apple.com/shop/product/MD810LL/A/apple-5w-usb-power-adapter" Title "Apple 5W USB Power Adapter" >}}
 
 {{<affiliateImg Image "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/image/AppleInc/aos/published/images/M/D8/MD836/MD836?wid=1144&hei=1144&fmt=jpeg&qlt=80&op_usm=0.5%2C0.5&.v=1534288793357" URL "https://www.apple.com/shop/product/MD836LL/A/apple-12w-usb-power-adapter" Title "Apple 12W USB Power Adapter" >}}
 
 The important difference to note between the two power adapters is the 5W and 12W charging rates.  The 12W is what makes your device charge faster than the 5W adapter.  The same goes for when you buy your USB Outlet.  Check the wattage output on the USB ports.  You will want to get the fast charger if you are installing the USB outlet in your kitchen or living areas so you can get that quick charge.  If you are installing the USB outlet in your bedroom for overnight charging, then the slower charger is okay.
-2\. The second decision you need to make is what kind of charging cable your device uses.  Today, most devices still use USB chargers.  But, devices are starting to move towards a new standard called "USB-C" which is similar to the lightning cable port on your iPhone or iPad.  It allows for faster charging rates.  Many of the new Wireless Charging Pads also support USB-C for faster charge rates.
+
+#### USB vs USB-C
+
+The second decision you need to make is what kind of charging cable your device uses.  Today, most devices still use USB chargers.  But, devices are starting to move towards a new standard called "USB-C" which is similar to the lightning cable port on your iPhone or iPad.  It allows for faster charging rates.  Many of the new Wireless Charging Pads also support USB-C for faster charge rates.
 
 {{<affiliateImg Image "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/image/AppleInc/aos/published/images/M/U7/MU7T2/MU7T2_AV2_GEO_US?wid=1144&hei=1144&fmt=jpeg&qlt=80&op_usm=0.5%2C0.5&.v=1542406392461" URL "https://www.apple.com/shop/product/MU7T2LL/A/18w-usb-c-power-adapter" Title "USB-C Power Adapter" >}}
 
