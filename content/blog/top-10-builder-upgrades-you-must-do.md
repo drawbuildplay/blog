@@ -98,6 +98,8 @@ Our builder provided a variety of options for the kitchen backsplash.  However, 
 
 An option provided by our builder was to have a covered deck which would have run us about $8,000.  Although it is something I want to have, it was an area we decided to not get done by the builder, mainly because its something that is relatively easy to do later, and a price not too much higher than what they were offering us.  Our long term plan is to cover our existing deck, and then extend the deck some more, but we want to wait and incorporate the design with our whole outdoor living concept.  Unless you plan to spend a lot of time outdoors and use the deck, it is probably one of those major items you can push to later when your budget better allows for it.
 
-Rocker Switches
+#### Rocker Switches
 
-I highly recommend Rocker Switches if you can afford it.  They look a lot better than the standard flip switches, but builders will often charge significantly more per switch for this upgrade.  If you are mildly capable, its not that hard to install rocker switches yourself.
+I highly recommend Rocker Switches if you can afford it.  They look a lot better than the standard flip switches, but builders will often charge significantly more per switch for this upgrade.  If you are mildly capable, it's not that hard to install rocker switches yourself.  It will just take a bunch of time if you have over 100 switches like we do in our house.
+
+If however, you are planning to switch some of the switches to smart switches like the [iDevices wall switch](https://amzn.to/2HSpldL "iDevices Wall Switch") then you may want to save you money to spend on those rather than paying the builder for rocker switches you plan to replace anyway.
