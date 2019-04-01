@@ -3,11 +3,19 @@ categories = ["home-building"]
 date = "2019-04-01T00:00:00-04:00"
 description = "When building a new home, there are many builder upgrades available. Some cost more than others and your budget will likely require to choose. Read below for my top 10 builder upgrades you should do, and a few builder upgrades to avoid when building your dream home."
 draft = true
-pins = []
 title = "Top 10 Builder Upgrades You Should Do"
 [images]
 name = "Top 10 Must Have Builder Upgrades when building a new home"
-src = "/uploads/bg.jpg"
+src = "/uploads/BuilderUpgrades.png"
+[[pins]]
+pin_description = "10 Builder Upgrades you should do when building your dream home #home-building #building-a-home #upgrades #builder-upgrades"
+pin_image = "/uploads/10 Builder Upgrades.png"
+[[pins]]
+pin_description = "Builder Upgrades to Avoid when building a new home #builder-upgrades #dream-home #new-home #avoid-builder-upgrades "
+pin_image = "/uploads/Builder Upgrades to Avoid.png"
+[[pins]]
+pin_description = "10 essential builder upgrades when building a dream home on a budget #home-building #building-a-home #building-a-home-budget #builder-upgrades-budget"
+pin_image = "/uploads/Builder Upgrades on a budget.png"
 
 +++
 When choosing which builder upgrades you should apply when building your dream home, the most important thing to consider is your budget.  You will likely have limitations on what you can afford, and that should be the most important factor which choosing which upgrades to go for.
