@@ -85,3 +85,19 @@ We also added power outlets on the floor in the living room where we will eventu
 If you want to install a DIY drawer outlet in your bathroom drawer, then a good idea is to have the builder install an outlet behind where the cabinets are going.  Then once your home is built, you can drill your own hole into the back of the cabinets to expose the outlet and plug your hairdryer/straighteners into while keeping them in the drawer.
 
 Lastly, if you are considering getting an electric car such as a [Tesla](https://www.tesla.com/referral/hemal68628 "Tesla Electric Car") at some point, then you will want to install a 240V outlet in your garage to be able to charge quickly.
+
+## Bonus Upgrades
+
+Well, that was my top 10 builder upgrades you must do, but really who can stop at 10. Here are a few more upgrades you should do, but probably not by the builder.
+
+#### Backsplash Options
+
+Our builder provided a variety of options for the kitchen backsplash.  However, none of them were really to our liking.  An option you have here is to ask the builder to not install one if you don't like what they have to offer.  They probably will not discount you anything, but at least you don't need to upgrade to something you still don't really like.  We then purchased our own backsplash tiles from Home and Decor and had it installed by a tiler.  The total cost was actually on par with what an upgraded backsplash would have cost, so definitely do your research on this.
+
+#### Covered Decks
+
+An option provided by our builder was to have a covered deck which would have run us about $8,000.  Although it is something I want to have, it was an area we decided to not get done by the builder, mainly because its something that is relatively easy to do later, and a price not too much higher than what they were offering us.  Our long term plan is to cover our existing deck, and then extend the deck some more, but we want to wait and incorporate the design with our whole outdoor living concept.  Unless you plan to spend a lot of time outdoors and use the deck, it is probably one of those major items you can push to later when your budget better allows for it.
+
+Rocker Switches
+
+I highly recommend Rocker Switches if you can afford it.  They look a lot better than the standard flip switches, but builders will often charge significantly more per switch for this upgrade.  If you are mildly capable, its not that hard to install rocker switches yourself.
