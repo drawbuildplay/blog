@@ -7,10 +7,14 @@ title = "DIY Under Cabinet Lighting"
 name = "DIY Under Cabinet Lighting for less than $30"
 src = "/uploads/under_cabinet_lighting.png"
 [[pins]]
-pin_description = "DIY Under Cabinet Lighting, its so simple to do it this way and costs less than $30. Its cheap, and easy to do it yourself, saving on installation costs. The under cabinet lighting looks super awesome and I still can't believe how easy it was to do. #cabinetlighting #lighting #cabinets #undercabinet #undercabinetlighting #diycabinetlighting"
+pin_description = "DIY Counter Lighting is so simple to do and costs less than $30. The counter lighting hardware is cheap, and easy to install yourself in just a few minutes, saving on installation costs. This under cabinet lighting looks great in your bar or your kitchen and can be installed both under the cabinets or inside the cabinets. #cabinetlighting #lighting #cabinets #undercabinet #undercabinetlighting #diycabinetlighting #counterlighting"
+pin_image = "/uploads/Bar Cabinet Lighting (1).png"
+[[pins]]
+pin_description = "DIY Cabinet Lighting is so simple to do and takes just 15 minutes or less to install. The under cabinet lighting hardware is affordable, saving on installation costs. This DIY under cabinet lighting looks great in your bar or your kitchen or floating shelf, and can be installed both under the cabinets or inside the cabinets to show off your backsplash or wall. #cabinetlighting #lighting #cabinets #undercabinet #undercabinetlighting #diycabinetlighting #counterlighting"
+pin_image = "/uploads/Cabinet Lighting.png"
+[[pins]]
+pin_description = "DIY Under Cabinet Lighting, it is so simple to do it this way and costs less than $30. It's affordable, and easy to do it yourself, saving on installation costs. The under cabinet lighting looks awesome and I still can't believe how easy it was to do. #cabinetlighting #lighting #cabinets #undercabinet #undercabinetlighting #diycabinetlighting"
 pin_image = "/uploads/under_cabinet_lighting_pin.png"
-
-
 
 +++
 One of the things we wanted to do when we built our home was to have under cabinet lighting in our kitchen.  Getting this from our builder was going to be $200 per light, and with three sections in our kitchen this would have easily cost us $600 - $1000 depending on how much we got.
@@ -21,7 +25,7 @@ After researching some ideas, we decided to install wired puck lights ourselves 
 
 > If you can't install outlets, look around as you may already have one inside one of your cabinets to power your rangehood or microwave. Alternatively, you can install battery powered puck lights, and not worry about wiring.  I didnt want the hassle of replacing batteries and wanted to control them together easily, so went with wired.
 
-## SHOPPING LIST
+## PRODUCTS USED
 
 {{<affiliateImg Image "//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01NAUZNL1&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=drawbuildplay-20&language=en_US" URL "https://www.amazon.com/dp/B01NAUZNL1/ref=as_li_ss_il?ie=UTF8&linkCode=li2&tag=drawbuildplay-20&linkId=7bd6e213497577842e2436987d866716&language=en_US" Title "LED Puck Lights - $30" >}}
 
