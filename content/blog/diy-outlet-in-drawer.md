@@ -7,7 +7,7 @@ title = "DIY Outlet In Drawer"
 name = "DIY Outlet In Drawer"
 src = "/uploads/OutletInDrawer.png"
 [[pins]]
-pin_description = "Hiar Dryer Outlet in Drawer for your bathroom drawer is a genius home hack. This DIY creates you a hidden outlet to hide your hair dryer or hair iron out of view while not in use. #outlet #hiddenoutlet #outletindrawer #bathroom #kitchen #usb #usboutlet #drawer"
+pin_description = "Hair Dryer Outlet in Drawer for your bathroom drawer is a genius home hack. This DIY creates you a hidden outlet to hide your hair dryer or hair iron out of view while not in use. #outlet #hiddenoutlet #outletindrawer #bathroom #kitchen #usb #usboutlet #drawer"
 pin_image = "/uploads/hair dryer outlet in drawer.png"
 [[pins]]
 pin_description = "Hidden outlet in drawer for your bathroom drawer or kitchen drawer. This Outlet in drawer DIY creates you a hidden outlet to hide your devices or hair dryer out of view while plugged in. #outlet #hiddenoutlet #outletindrawer #bathroom #kitchen #usb #usboutlet #drawer"
