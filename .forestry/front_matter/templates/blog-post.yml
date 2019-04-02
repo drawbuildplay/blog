@@ -58,6 +58,7 @@ fields:
   config:
     labelField: pin_description
 pages:
+- content/blog/diy-outlet-in-drawer.md
 - content/blog/diy-under-cabinet-lighting.md
 - content/blog/top-10-builder-upgrades-you-must-do.md
 - content/blog/how-to-install-a-usb-outlet.md
