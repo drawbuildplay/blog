@@ -16,7 +16,7 @@ If you don't already have a programmable thermostat, then this is a no brainer f
 
 If you already have a programmable thermostat, then upgrading to an internet connected one is a great smart home choice.  It will let you control your temperature and home/away settings with your smart phone (iPhone/Android), as well as integrate with any voice assistants you have.
 
-The two programmable thermostats I recommend are the Nest Thermostats, and the Ecobee thermostat.  
+The two programmable thermostats I recommend are the Nest Thermostats, and the Ecobee thermostat.
 
 Nest is the leader in this category and redefined the idea of a thermostat - making it cool.  Nest is also better integrated with Google Home.  Ecobee came a few years later, and while in my opinion doesn't look as cool, they have innovated faster than Nest.  Ecobee also integrates with Apple HomeKit, so if you are in the Apple ecosystem and use HomeKit, then Ecobee may be a better fit.
 
@@ -36,9 +36,21 @@ If your primary access to your home is through your front door, then rather than
 
 ## Smart Doorbell
 
-## Sonos Speakers
+Smart Doorbells such as the Ring Doorbell Pro, and Nest Hello are great tech gadgets when it comes to security.  About a third of break-ins happen through the front door.  Homes with Ring or Nest Doorbells have shown a significant decrease in burglaries.  Thieves don't want to be caught on camera, so a smart doorbell acts as both a deterrent and a great security device.
+
+My recommendation here is to go with the Nest Hello.  It has had better feature enhancements compared to the Ring Doorbell.  Also, it has facial recognition and can announce via a Google Home speaker who is at the door when it recognizes the face.  Ring has been around longer with their doorbells, and was recently acquired by Amazon.  They have long promised HomeKit integration with Apple, but that feature has been missing for 3 years now.
 
 ## Voice Assistants
+
+No smart home will be complete without a voice assistant.  There are a myriad of assistants to choose from now, primary Google's Assistant, Apple's Siri, or Amazon's Alexa.
+
+Google Assistant is by far the smartest assistant when it comes to voice recognition and quality of answers.  However, for privacy concerns, giving Google so much information about us can be concerning.  
+
+Apple is strongly privacy focused, and your searches and history are not tied to you or stored.  The Apple HomePod Speaker is a great speaker, competing with Sonos in many ways.  Siri is getting stronger by the day and can cover most questions.  If you are tied to the Apple ecosystem, the HomePod is the way to go.  
+
+Amazon Alexa is fairly basic, and their speakers aren't really all that good.  But it is relatively affordable so might be a good entry point to a voice assistant.
+
+## Sonos Speakers
 
 ## Indoor/Outdoor Cameras
 
