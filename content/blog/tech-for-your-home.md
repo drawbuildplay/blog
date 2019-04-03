@@ -2,24 +2,24 @@
 categories = ["smart-home"]
 date = "2019-04-03T00:00:00-04:00"
 description = "10 Awesome and Affordable Smart Home Tech Gadgets for your home"
-title = "Tech for your home"
+title = "10 Best Smart Home Tech for your home"
 [images]
 name = "10 Awesome and Affordable Tech Gadgets for your home"
 src = "/uploads/smart home guide.png"
 [[pins]]
-pin_description = "Smart Home Tech Gadgets for 2019 for your home. DIY Smart Home ideas to help automate your home.  #smarthome #smarthomegadgets #automation #homekit #google #alexa #siri #smarthomeautomation #tech #hometech #techgadgets #sonos #idevices #apple #amazon #nestcam #nest #irobot #roomba"
+pin_description = "Smart Home Tech Gadgets for 2019 for your home. DIY Smart Home ideas to help automate your home.  #smarthome #smarthomegadgets #automation #homekit #google #alexa #siri #smarthomeautomation #tech #hometech #techhome #techgadgets #sonos #idevices #apple #amazon #nestcam #nest #irobot #roomba"
 pin_image = "/uploads/smart home tech gadgets.png"
 [[pins]]
-pin_description = "10 Best Smart Home Gadgets for 2019 to help you automate your home.  #smarthome #smarthomegadgets #automation #homekit #google #alexa #siri #smarthomeautomation #tech #hometech #techgadgets #sonos #idevices #apple #amazon #nestcam #nest #irobot #roomba"
+pin_description = "10 Best Smart Home Gadgets for 2019 to help you automate your home.  #smarthome #techhome #smarthomegadgets #automation #homekit #google #alexa #siri #smarthomeautomation #tech #hometech #techgadgets #sonos #idevices #apple #amazon #nestcam #nest #irobot #roomba"
 pin_image = "/uploads/10 best smart home gadgets.png"
 [[pins]]
-pin_description = "10 Smart Home Gadgets to Get Started With to help automate your home.  #smarthome #smarthomegadgets #automation #homekit #google #alexa #siri #smarthomeautomation #tech #hometech #techgadgets #sonos #idevices #apple #amazon #nestcam #nest #irobot #roomba"
+pin_description = "10 Smart Home Gadgets to Get Started With to help automate your home.  #smarthome #smarthomegadgets #automation #homekit #google #alexa #siri #smarthomeautomation #tech #hometech #techhome #techgadgets #sonos #idevices #apple #amazon #nestcam #nest #irobot #roomba"
 pin_image = "/uploads/smart home gadgets to start with.png"
 
 +++
-As we start to jump into tech gadgets for the home, one of the first decisions we need to make is if we want to take advantage of a specific ecosystem (Apple vs Google vs Amazon), or try to keep our options open as the major tech companies fight it over.  My preference has been to try to stay as universal as possible, while choosing the best tech out there for its purpose.
+As we start to jump into tech gadgets for the home, one of the first decisions we need to make is if we want to take advantage of a specific ecosystem (Apple vs Google vs Amazon), or try to keep our options open as the major tech companies fight it over.  My preference has been to try to stay as universal as possible, while choosing the best tech out there for its purpose.  I do lean towards Apple devices and HomeKit, but I also use Google Assistant a lot via my Google Home.  We don't know who will win the war between HomeKit and Google Assistant, and I doubt there will be a winner, so I try to use the best gadgets that work for everyone.  I also focus on smart home gadgets that my kids, wife, and parents can use without a degree in Computer Science.
 
-Here are my recommendations (in prioritized order) for how to build up the tech in your home and decisions to be made.
+Here are my recommendations (in prioritized order) for how to build up the tech in your home and what decisions are to be made.
 
 ## 1. Programmable Thermostats
 
@@ -45,11 +45,11 @@ Although technically not what is considered a smart internet connected gadget, U
 
 ## 3. Garage Opener or Smart Locks
 
-Our garage is our main entry/exit point for 95% of the times we leave or return home.  Although we have homelink enabled openers in our car, there are often times we leave the home to go on walks or runs.  An internet connected garage is extremely convenient for this purpose, as it will allow you to open/close the garage from your iPhone or Apple Watch using the MyQ app.  Just purchase the MyQ Homebridge and it will convert your MyQ compatible Liftmaster/Chamberlain garage opener into a connected garage.  You can also set up notifications to your phone every time the garage is opened/closed.  This is helpful to get alerted when a family member returns/leaves home while you are somewhere else.  You can also close the garage from a remote location using your phone/watch if you realize you forgot to close it.  Really cool.
+Our garage is our main entry/exit point for 95% of the times we leave or return home.  Although we have HomeLink enabled openers in our car, there are often times we leave the home to go on walks or runs.  An internet connected garage is extremely convenient for this purpose, as it will allow you to open/close the garage from your iPhone or Apple Watch using the MyQ app.  Just purchase the MyQ HomeBridge and it will convert your MyQ compatible LiftMaster/Chamberlain garage opener into a connected garage.  You can also set up notifications to your phone every time the garage is opened/closed.  This is helpful to get alerted when a family member returns/leaves home while you are somewhere else.  You can also close the garage from a remote location using your phone/watch if you realize you forgot to close it.  Really cool.
 
-The MyQ Homebridge is also HomeKit enabled, giving you integration into Apple's Homekit.  Integration with Google Home is also available, but unfortunately they charge a monthly subscription for Google.
+The MyQ HomeBridge is also HomeKit enabled, giving you integration into Apple's HomeKit.  Integration with Google Home is also available, but unfortunately they charge a monthly subscription for Google.
 
-If your primary access to your home is through your front door, then rather than getting a connected garage opener, a smart lock on your door might be a better investment.  Similar to the MyQ Homebridge, a Smart Lock will allow you to remotely lock/unlock your door, as well as send you alerts. The Yale Smart Lock is a great choice, and also ties into the Apple HomeKit ecosystem.
+If your primary access to your home is through your front door, then rather than getting a connected garage opener, a smart lock on your door might be a better investment.  Similar to the MyQ HomeBridge, a Smart Lock will allow you to remotely lock/unlock your door, as well as send you alerts. The Yale Smart Lock is a great choice, and also ties into the Apple HomeKit ecosystem.
 
 Also, read my post on [how to DIY Home Security](https://www.drawbuildplay.com/blog/diy-home-security-ideas/ "DIY Home Security Ideas") for building a great home security system, making use of smart garage openers and smart locks.
 
@@ -79,7 +79,7 @@ Amazon Alexa is fairly basic, and their speakers aren't really all as good as Ap
 
 Each of the assistants work well with home automation, and various music services.  
 
-For most people, Google Home and Google Home Mini are great starting points for an assistant.  Apple Homepod also only works with Apple Music and HomeKit.  Google will work with Apple Music as well as Spotify, Google Play, and many others.  But the Apple HomePod sound is outstanding.  But there is another option if sound quality is a critical factor - Sonos One Speakers (see next).
+For most people, Google Home and Google Home Mini are great starting points for an assistant.  Apple HomePod also only works with Apple Music and HomeKit.  Google will work with Apple Music as well as Spotify, Google Play, and many others.  But the Apple HomePod sound is outstanding.  But there is another option if sound quality is a critical factor - Sonos One Speakers (see next).
 
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=drawbuildplay-20&language=en_US&marketplace=amazon&region=US&placement=B0792KTHKJ&asins=B0792KTHKJ&linkId=8ec21af2eeefff9b576c65a76fcd441a&show_border=true&link_opens_in_new_window=true"></iframe>
 
@@ -159,9 +159,9 @@ You can also start to setup party scenes which will turn on various lights.
 
 The last recommendation I have for tech gadgets for your home is an automated robot vacuum cleaner.  Roomba is best in class here, but others are hot on their tails.
 
-The Roomba will navigate around your home, sucking up all that dirt on your carpet or hardwood floors.  When its battery is drained, it will return to its home station, recharge, and then make its way out again, until its job is finished.
+The Roomba will navigate around your home, sucking up all that dirt on your carpet or hardwood floors.  When its battery is drained, it will return to its home station, recharge, and then make its way out again, until its job is finished.  I have the Roomba 980 which covers my entire downstairs floor.
 
-The latest Roomba i7 released in 2018 now has a cool feature where it will empty its own bin at the home station, meaning you want have to clean it for a month depending on how much dirt has collected.
+The latest Roomba i7, released in 2018, now has a cool feature where it will empty its own bin at the home station, meaning you won't have to clean it for about a month, depending on how much dirt has collected.
 
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=drawbuildplay-20&language=en_US&marketplace=amazon&region=US&placement=B07GNPDMRP&asins=B07GNPDMRP&linkId=9e6a3de1917d7939f6167ce71872e055&show_border=true&link_opens_in_new_window=true"></iframe>
 
