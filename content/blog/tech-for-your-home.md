@@ -3,11 +3,19 @@ categories = ["smart-home"]
 date = "2019-04-03T00:00:00-04:00"
 description = "10 Awesome and Affordable Tech Gadgets for your home"
 draft = true
-pins = []
 title = "Tech for your home"
 [images]
 name = "10 Awesome and Affordable Tech Gadgets for your home"
-src = "/uploads/bg.jpg"
+src = "/uploads/smart home guide.png"
+[[pins]]
+pin_description = "Smart Home Tech Gadgets for 2019 for your home. DIY Smart Home ideas to help automate your home.  #smarthome #smarthomegadgets #automation #homekit #google #alexa #siri #smarthomeautomation #tech #hometech #techgadgets #sonos #idevices #apple #amazon #nestcam #nest #irobot #roomba"
+pin_image = "/uploads/smart home tech gadgets.png"
+[[pins]]
+pin_description = "10 Best Smart Home Gadgets for 2019 to help you automate your home.  #smarthome #smarthomegadgets #automation #homekit #google #alexa #siri #smarthomeautomation #tech #hometech #techgadgets #sonos #idevices #apple #amazon #nestcam #nest #irobot #roomba"
+pin_image = "/uploads/10 best smart home gadgets.png"
+[[pins]]
+pin_description = "10 Smart Home Gadgets to Get Started With to help automate your home.  #smarthome #smarthomegadgets #automation #homekit #google #alexa #siri #smarthomeautomation #tech #hometech #techgadgets #sonos #idevices #apple #amazon #nestcam #nest #irobot #roomba"
+pin_image = "/uploads/smart home gadgets to start with.png"
 
 +++
 As we start to jump into tech gadgets for the home, one of the first decisions we need to make is if we want to take advantage of a specific ecosystem (Apple vs Google vs Amazon), or try to keep our options open as the major tech companies fight it over.  My preference has been to try to stay as universal as possible, while choosing the best tech out there for its purpose.
@@ -43,6 +51,8 @@ Our garage is our main entry/exit point for 95% of the times we leave or return 
 The MyQ Homebridge is also HomeKit enabled, giving you integration into Apple's Homekit.  Integration with Google Home is also available, but unfortunately they charge a monthly subscription for Google.
 
 If your primary access to your home is through your front door, then rather than getting a connected garage opener, a smart lock on your door might be a better investment.  Similar to the MyQ Homebridge, a Smart Lock will allow you to remotely lock/unlock your door, as well as send you alerts. The Yale Smart Lock is a great choice, and also ties into the Apple HomeKit ecosystem.
+
+Also, read my post on [how to DIY Home Security](https://www.drawbuildplay.com/blog/diy-home-security-ideas/ "DIY Home Security Ideas") for building a great home security system, making use of smart garage openers and smart locks.
 
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=drawbuildplay-20&language=en_US&marketplace=amazon&region=US&placement=B075RQVSY7&asins=B075RQVSY7&linkId=93f5578b0e0ed0df188c3a5e56596e2d&show_border=true&link_opens_in_new_window=true"></iframe>
 
@@ -160,4 +170,4 @@ The latest Roomba i7 released in 2018 now has a cool feature where it will empty
 
 I hope this list helps you prioritize your tech dreams for your home.  I have all of the recommended items above and strongly stand by them.  I have put the items in order of where I think the most benefit is.  Let me know in the comments what other tech gadgets you have.  
 
-Smart Home Tech has become more and more affordable and free's us up to do more interesting things.
+Smart Home Tech has become more and more affordable and free's us up to do more interesting things like spending time with the kids, and worrying less about the little tedious things in life.
