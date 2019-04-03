@@ -5,7 +5,7 @@ description = "10 Awesome and Affordable Smart Home Tech Gadgets for your home"
 title = "10 Best Smart Home Tech for your home"
 [images]
 name = "10 Awesome and Affordable Tech Gadgets for your home"
-src = "/uploads/smart home guide.png"
+src = "/uploads/smart home guide (1).png"
 [[pins]]
 pin_description = "Smart Home Tech Gadgets for 2019 for your home. DIY Smart Home ideas to help automate your home.  #smarthome #smarthomegadgets #automation #homekit #google #alexa #siri #smarthomeautomation #tech #hometech #techhome #techgadgets #sonos #idevices #apple #amazon #nestcam #nest #irobot #roomba"
 pin_image = "/uploads/smart home tech gadgets.png"
