@@ -1,8 +1,7 @@
 +++
 categories = ["smart-home"]
 date = "2019-04-03T00:00:00-04:00"
-description = "10 Awesome and Affordable Tech Gadgets for your home"
-draft = true
+description = "10 Awesome and Affordable Smart Home Tech Gadgets for your home"
 title = "Tech for your home"
 [images]
 name = "10 Awesome and Affordable Tech Gadgets for your home"
