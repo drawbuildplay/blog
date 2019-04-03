@@ -22,9 +22,15 @@ Nest is the leader in this category and redefined the idea of a thermostat - mak
 
 Both thermostats are great in my opinion.
 
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=drawbuildplay-20&language=en_US&marketplace=amazon&region=US&placement=B0131RG6VK&asins=B0131RG6VK&linkId=fe46e4b05958d4041f888a551b5fe3e8&show_border=true&link_opens_in_new_window=true"></iframe>
+
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=drawbuildplay-20&language=en_US&marketplace=amazon&region=US&placement=B06W2LQY6L&asins=B06W2LQY6L&linkId=e2a13331723b4637f08716c1e691567e&show_border=true&link_opens_in_new_window=true"></iframe>
+
 ## USB Outlets
 
 Although technically not what is considered a smart internet connected gadget, USB outlets are an incredibly convenient piece of tech to install.  Replace a power outlet in your kitchen, office, or living room where you often find yourself charging gadgets.  A USB outlet makes it incredibly more convenient to charge those USB devices.  Read more about USB Outlets on my post about [DIY Installing a USB Outlet](https://www.drawbuildplay.com/blog/how-to-diy-install-a-usb-outlet/ "DIY Install a USB Outlet").
+
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=drawbuildplay-20&language=en_US&marketplace=amazon&region=US&placement=B076PKVPHQ&asins=B076PKVPHQ&linkId=646c7d25359f7b14c47c61adaa15dbbd&show_border=true&link_opens_in_new_window=true"></iframe>
 
 ## Garage Opener or Smart Locks
 
@@ -32,7 +38,11 @@ Our garage is our main entry/exit point for 95% of the times we leave or return 
 
 The MyQ Homebridge is also HomeKit enabled, giving you integration into Apple's Homekit.  Integration with Google Home is also available, but unfortunately they charge a monthly subscription for Google.
 
-If your primary access to your home is through your front door, then rather than getting a connected garage opener, a smart lock on your door might be a better investment.  Similar to the MyQ Homebridge, a Smart Lock will allow you to remotely lock/unlock your door, as well as send you alerts.
+If your primary access to your home is through your front door, then rather than getting a connected garage opener, a smart lock on your door might be a better investment.  Similar to the MyQ Homebridge, a Smart Lock will allow you to remotely lock/unlock your door, as well as send you alerts. The Yale Smart Lock is a great choice, and also ties into the Apple HomeKit ecosystem.
+
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=drawbuildplay-20&language=en_US&marketplace=amazon&region=US&placement=B075RQVSY7&asins=B075RQVSY7&linkId=93f5578b0e0ed0df188c3a5e56596e2d&show_border=true&link_opens_in_new_window=true"></iframe>
+
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=drawbuildplay-20&language=en_US&marketplace=amazon&region=US&placement=B075RX6FVP&asins=B075RX6FVP&linkId=3d72266c49cf06002a6e99e261072cd0&show_border=true&link_opens_in_new_window=true"></iframe>
 
 ## Smart Doorbell
 
@@ -40,22 +50,110 @@ Smart Doorbells such as the Ring Doorbell Pro, and Nest Hello are great tech gad
 
 My recommendation here is to go with the Nest Hello.  It has had better feature enhancements compared to the Ring Doorbell.  Also, it has facial recognition and can announce via a Google Home speaker who is at the door when it recognizes the face.  Ring has been around longer with their doorbells, and was recently acquired by Amazon.  They have long promised HomeKit integration with Apple, but that feature has been missing for 3 years now.
 
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=drawbuildplay-20&language=en_US&marketplace=amazon&region=US&placement=B01DM6BDA4&asins=B01DM6BDA4&linkId=6e123c9215e658a66c0a07ee18c1fabc&show_border=true&link_opens_in_new_window=true"></iframe>
+
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=drawbuildplay-20&language=en_US&marketplace=amazon&region=US&placement=B07NQN4MDQ&asins=B07NQN4MDQ&linkId=bfb094630cee67db1d0dd16628b02274&show_border=true&link_opens_in_new_window=true"></iframe>
+
 ## Voice Assistants
 
-No smart home will be complete without a voice assistant.  There are a myriad of assistants to choose from now, primary Google's Assistant, Apple's Siri, or Amazon's Alexa.
+No smart home will be complete without a voice assistant.  There are a myriad of assistants to choose from now, primarily Google's Assistant, Apple's Siri, or Amazon's Alexa.
 
-Google Assistant is by far the smartest assistant when it comes to voice recognition and quality of answers.  However, for privacy concerns, giving Google so much information about us can be concerning.  
+Google Assistant is by far the smartest assistant when it comes to voice recognition and quality of answers, covering a wide range of topics.  However, for privacy concerns, giving Google so much information about us can be concerning.  
 
 Apple is strongly privacy focused, and your searches and history are not tied to you or stored.  The Apple HomePod Speaker is a great speaker, competing with Sonos in many ways.  Siri is getting stronger by the day and can cover most questions.  If you are tied to the Apple ecosystem, the HomePod is the way to go.  
 
-Amazon Alexa is fairly basic, and their speakers aren't really all that good.  But it is relatively affordable so might be a good entry point to a voice assistant.
+Amazon Alexa is fairly basic, and their speakers aren't really all as good as Apple's or Google's.  But it is relatively affordable so might be a good entry point to a voice assistant.  Alexa is also mostly geared towards shopping on Amazon, but are also starting to focus on home automation commands.
+
+Each of the assistants work well with home automation, and various music services.  
+
+For most people, Google Home and Google Home Mini are great starting points for an assistant.  Apple Homepod also only works with Apple Music and HomeKit.  Google will work with Apple Music as well as Spotify, Google Play, and many others.  But the Apple HomePod sound is outstanding.  But there is another option if sound quality is a critical factor - Sonos One Speakers (see next).
+
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=drawbuildplay-20&language=en_US&marketplace=amazon&region=US&placement=B0792KTHKJ&asins=B0792KTHKJ&linkId=8ec21af2eeefff9b576c65a76fcd441a&show_border=true&link_opens_in_new_window=true"></iframe>
+
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=drawbuildplay-20&language=en_US&marketplace=amazon&region=US&placement=B06XCM9LJ4&asins=B06XCM9LJ4&linkId=226ed84af6ddc4657dfa9a668b1ec3c2&show_border=true&link_opens_in_new_window=true"></iframe>
 
 ## Sonos Speakers
 
+If you are an audiophile, and are looking for a great set of speakers for your home, then look no further than the Sonos range of smart speakers.
+
+Starting with the Sonos One speakers.  This is a bookshelf speaker that looks gorgeous and sounds even better.  You can compare a Sonos One speaker to an Apple HomePod in terms of sound quality.  Pairing two Sonos One speakers gives you Left/Right audio to truly fill the room with amazon sound.  You can do that also with the HomePod, but Sonos One speakers come in at half the price.  Even a single one on its own sounds better than most speakers I have heard.
+
+Sonos One also comes with Alexa Assistant built in, and Sonos is about to launch Google Assistant as another option which makes it even better.  Sonos One also integrates with the usual music services like Spotify, Pandora, Apple Music, and Google Play, and others. 
+
+Sonos also recently released Apple Airplay 2 support, meaning it comes up as a speaker option from your phone to stream to.  With Google Assistant integration, you can tell your Google Assistant to "Lower the volume in the office" to control the Office Sonos speaker.
+
+If you are also looking to replace your Home Theatre speakers, Sonos offers the Sonos PlayBar (or Sonos Beam if you have a smaller room).  These sound bars are excellent on their own (3.1 surround), but can be further enhanced with the Sonos Sub and Sonos Speakers to give you a full 5.1 Surround Sound setup. With Google Assistant, you will be able to control the volume of your TV Sonos PlayBar/Beam setup with your voice if you have a Google Home/Mini nearby.
+
+I am a big fan of installing technology that isn't tied to just one provider, and Sonos perfectly fits that goal by working with multiple voice assistants and music streamers, while providing best in class sound, all in a beautiful package.
+
+Note - Sonos is pricier than most, but it is definitely worth it if you want great sound and the smarts that come with it.
+
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=drawbuildplay-20&language=en_US&marketplace=amazon&region=US&placement=B07NJQFL4X&asins=B07NJQFL4X&linkId=88048ed7dbd0989cdb0a21c5c43b854d&show_border=true&link_opens_in_new_window=true"></iframe>
+
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=drawbuildplay-20&language=en_US&marketplace=amazon&region=US&placement=B074XLMYY5&asins=B074XLMYY5&linkId=5e735b20455cf45d3a7934cf1ec00326&show_border=true&link_opens_in_new_window=true"></iframe>
+
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=drawbuildplay-20&language=en_US&marketplace=amazon&region=US&placement=B00AEMGGU2&asins=B00AEMGGU2&linkId=64113f8e5eb533ca121df8fb69f4b1a6&show_border=true&link_opens_in_new_window=true"></iframe>
+
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=drawbuildplay-20&language=en_US&marketplace=amazon&region=US&placement=B07D4734HR&asins=B07D4734HR&linkId=d14e0af63396d5f8ebe4edef416a4cf4&show_border=true&link_opens_in_new_window=true"></iframe>
+
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=drawbuildplay-20&language=en_US&marketplace=amazon&region=US&placement=B01HL8LXQ8&asins=B01HL8LXQ8&linkId=de0b41f4d6e8daeebbd01ec3cb04943f&show_border=true&link_opens_in_new_window=true"></iframe>
+
 ## Indoor/Outdoor Cameras
+
+Part of living in our home is to ensure we feel secure in it.  This is where indoor and outdoor camera's become a critical part of our security.  Read my post on [how to DIY Home Security](https://www.drawbuildplay.com/blog/diy-home-security-ideas/ "DIY Home Security Ideas") for building a great home security system.
+
+Although there are a number of smart camera's in the market, my recommendation is always to go with Nest Camera's.  I bought my first one back when they were known as DropCam (later to be acquired by Nest, and then Google).  
+
+Although slightly pricier than other cheaper options available, don't be fooled by those cheaper ones (often made in China).  Security is critical, and many of the sub $100 camera's don't get critical software updates, exposing them to hackers.  You don't want a hacker watching you in your own house right!.  I fully trust Nest with their end to end encryption, two-factor authentication on log in's, etc.  
+
+The newer Nest Camera's contain IQ technology, which basically means they can do facial recognition to identify familiar faces, tell you the difference between a person and a dog when movement and sounds are detected, etc.  All nest cam's will send you alerts when it detects motion or sound in certain area's.
+
+All of this is useful in a smart home to make you more secure, but also to alert you of movement. 
+
+I also use these as a monitor for my young children so I can make sure they are safe and comfortable when they sleep at night. 
+
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=drawbuildplay-20&language=en_US&marketplace=amazon&region=US&placement=B00WBJGUA2&asins=B00WBJGUA2&linkId=d11ff0a48260efcb5ba6620eb9983635&show_border=true&link_opens_in_new_window=true"></iframe>
+
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=drawbuildplay-20&language=en_US&marketplace=amazon&region=US&placement=B01I3I9L8M&asins=B01I3I9L8M&linkId=0414c387bfe5570456006644e80c9b8f&show_border=true&link_opens_in_new_window=true"></iframe>
+
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=drawbuildplay-20&language=en_US&marketplace=amazon&region=US&placement=B07L37RXBK&asins=B07L37RXBK&linkId=113999ba3b3993a93eba11997085e46f&show_border=true&link_opens_in_new_window=true"></iframe>
 
 ## Smart Outlets
 
+Once you have the above home tech gadgets, the next on my list is to control your other non smart gadgets.  A smart outlet does just that.
+
+Examples of what to use a smart outlet for is you coffee machine - have it turn on automatically in the morning.  I don't drink coffee, but I use my smart outlets to control lamps in a room ("Hey Google, turn on the sunroom light"), as well as the humidifiers in my kids room (create scenes to automatically turn on the Humidifier in the bedroom at bedtime, and then turn it off in the morning).
+
+Smart Outlets have dropped in price significantly over the past couple of years.  My favorite recommendation here is the iDevices Switch.  Why?  Because it fits my goal of not being tied to just one provider.  iDevices works with Apple HomeKit, Google Home, and Amazon Alexa.  They also look normal, and are affordable.
+
+They also offer the iDevices Outdoor Switch, which can be plugged in outside to control any [outdoor landscape lights](https://www.drawbuildplay.com/blog/diy-outdoor-landscape-lighting/ "Outdoor Landscape Lighting") you have.  I have a scene setup to turn on the landscape lights around sunset, and turn them off later at night.
+
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=drawbuildplay-20&language=en_US&marketplace=amazon&region=US&placement=B00U31IO3Q&asins=B00U31IO3Q&linkId=90c24550a9bca60be3d357d56526f7cf&show_border=true&link_opens_in_new_window=true"></iframe>
+
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=drawbuildplay-20&language=en_US&marketplace=amazon&region=US&placement=B019IJNKCS&asins=B019IJNKCS&linkId=ce4b5d25219161bcb96c1f53b675a6b1&show_border=true&link_opens_in_new_window=true"></iframe>
+
 ## Smart Wall Switches
 
+Smart Outlets are a good entry to controlling your lamps.  But Smart Wall Switches are even better.  Many of our lights and fans around the house are connected to a rocker switch on the wall.  Replacing that rocker switch with an iDevices Wall Switch allows us to automate and control our lights and fans with Apple HomeKit or Google Assistant. "Hey Siri, turn on the fan in the living room", or "Hey Google, dim the lights".  Again, with iDevices, we aren't tied to just one assistant.
+
+You can also start to setup party scenes which will turn on various lights.
+
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=drawbuildplay-20&language=en_US&marketplace=amazon&region=US&placement=B06Y5G7XPJ&asins=B06Y5G7XPJ&linkId=f9a38ee91e32091634f58f943f4efb1c&show_border=true&link_opens_in_new_window=true"></iframe>
+
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=drawbuildplay-20&language=en_US&marketplace=amazon&region=US&placement=B0743Q7VCL&asins=B0743Q7VCL&linkId=7cebc5dc7ea283ee85089dcfb81a2d85&show_border=true&link_opens_in_new_window=true"></iframe>
+
 ## Roomba
+
+The last recommendation I have for tech gadgets for your home is an automated robot vacuum cleaner.  Roomba is best in class here, but others are hot on their tails.
+
+The Roomba will navigate around your home, sucking up all that dirt on your carpet or hardwood floors.  When its battery is drained, it will return to its home station, recharge, and then make its way out again, until its job is finished.
+
+The latest Roomba i7 released in 2018 now has a cool feature where it will empty its own bin at the home station, meaning you want have to clean it for a month depending on how much dirt has collected.
+
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=drawbuildplay-20&language=en_US&marketplace=amazon&region=US&placement=B07GNPDMRP&asins=B07GNPDMRP&linkId=9e6a3de1917d7939f6167ce71872e055&show_border=true&link_opens_in_new_window=true"></iframe>
+
+## Summary
+
+I hope this list helps you prioritize your tech dreams for your home.  I have all of the recommended items above and strongly stand by them.  I have put the items in order of where I think the most benefit is.  Let me know in the comments what other tech gadgets you have.  
+
+Smart Home Tech has become more and more affordable and free's us up to do more interesting things.
