@@ -10,7 +10,11 @@ name = "10 Awesome and Affordable Tech Gadgets for your home"
 src = "/uploads/bg.jpg"
 
 +++
-## Programmable Thermostats
+As we start to jump into tech gadgets for the home, one of the first decisions we need to make is if we want to take advantage of a specific ecosystem (Apple vs Google vs Amazon), or try to keep our options open as the major tech companies fight it over.  My preference has been to try to stay as universal as possible, while choosing the best tech out there for its purpose.
+
+Here are my recommendations (in prioritized order) for how to build up the tech in your home and decisions to be made.
+
+## 1. Programmable Thermostats
 
 If you don't already have a programmable thermostat, then this is a no brainer first gadget you should install in your home.  A programmable thermostat will save you money (often recouping its cost within the first 2 years) because you will be able to control when your HVAC actually needs to run and the temperature desired based on when you actually need it - for example, turn it on when you are at home, off while away, and lower while sleeping.
 
@@ -26,13 +30,13 @@ Both thermostats are great in my opinion.
 
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=drawbuildplay-20&language=en_US&marketplace=amazon&region=US&placement=B06W2LQY6L&asins=B06W2LQY6L&linkId=e2a13331723b4637f08716c1e691567e&show_border=true&link_opens_in_new_window=true"></iframe>
 
-## USB Outlets
+## 2. USB Outlets
 
 Although technically not what is considered a smart internet connected gadget, USB outlets are an incredibly convenient piece of tech to install.  Replace a power outlet in your kitchen, office, or living room where you often find yourself charging gadgets.  A USB outlet makes it incredibly more convenient to charge those USB devices.  Read more about USB Outlets on my post about [DIY Installing a USB Outlet](https://www.drawbuildplay.com/blog/how-to-diy-install-a-usb-outlet/ "DIY Install a USB Outlet").
 
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=drawbuildplay-20&language=en_US&marketplace=amazon&region=US&placement=B076PKVPHQ&asins=B076PKVPHQ&linkId=646c7d25359f7b14c47c61adaa15dbbd&show_border=true&link_opens_in_new_window=true"></iframe>
 
-## Garage Opener or Smart Locks
+## 3. Garage Opener or Smart Locks
 
 Our garage is our main entry/exit point for 95% of the times we leave or return home.  Although we have homelink enabled openers in our car, there are often times we leave the home to go on walks or runs.  An internet connected garage is extremely convenient for this purpose, as it will allow you to open/close the garage from your iPhone or Apple Watch using the MyQ app.  Just purchase the MyQ Homebridge and it will convert your MyQ compatible Liftmaster/Chamberlain garage opener into a connected garage.  You can also set up notifications to your phone every time the garage is opened/closed.  This is helpful to get alerted when a family member returns/leaves home while you are somewhere else.  You can also close the garage from a remote location using your phone/watch if you realize you forgot to close it.  Really cool.
 
@@ -44,7 +48,7 @@ If your primary access to your home is through your front door, then rather than
 
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=drawbuildplay-20&language=en_US&marketplace=amazon&region=US&placement=B075RX6FVP&asins=B075RX6FVP&linkId=3d72266c49cf06002a6e99e261072cd0&show_border=true&link_opens_in_new_window=true"></iframe>
 
-## Smart Doorbell
+## 4. Smart Doorbell
 
 Smart Doorbells such as the Ring Doorbell Pro, and Nest Hello are great tech gadgets when it comes to security.  About a third of break-ins happen through the front door.  Homes with Ring or Nest Doorbells have shown a significant decrease in burglaries.  Thieves don't want to be caught on camera, so a smart doorbell acts as both a deterrent and a great security device.
 
@@ -54,7 +58,7 @@ My recommendation here is to go with the Nest Hello.  It has had better feature 
 
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=drawbuildplay-20&language=en_US&marketplace=amazon&region=US&placement=B07NQN4MDQ&asins=B07NQN4MDQ&linkId=bfb094630cee67db1d0dd16628b02274&show_border=true&link_opens_in_new_window=true"></iframe>
 
-## Voice Assistants
+## 5. Voice Assistants
 
 No smart home will be complete without a voice assistant.  There are a myriad of assistants to choose from now, primarily Google's Assistant, Apple's Siri, or Amazon's Alexa.
 
@@ -72,7 +76,7 @@ For most people, Google Home and Google Home Mini are great starting points for 
 
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=drawbuildplay-20&language=en_US&marketplace=amazon&region=US&placement=B06XCM9LJ4&asins=B06XCM9LJ4&linkId=226ed84af6ddc4657dfa9a668b1ec3c2&show_border=true&link_opens_in_new_window=true"></iframe>
 
-## Sonos Speakers
+## 6. Sonos Speakers
 
 If you are an audiophile, and are looking for a great set of speakers for your home, then look no further than the Sonos range of smart speakers.
 
@@ -98,7 +102,7 @@ Note - Sonos is pricier than most, but it is definitely worth it if you want gre
 
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=drawbuildplay-20&language=en_US&marketplace=amazon&region=US&placement=B01HL8LXQ8&asins=B01HL8LXQ8&linkId=de0b41f4d6e8daeebbd01ec3cb04943f&show_border=true&link_opens_in_new_window=true"></iframe>
 
-## Indoor/Outdoor Cameras
+## 7. Indoor/Outdoor Cameras
 
 Part of living in our home is to ensure we feel secure in it.  This is where indoor and outdoor camera's become a critical part of our security.  Read my post on [how to DIY Home Security](https://www.drawbuildplay.com/blog/diy-home-security-ideas/ "DIY Home Security Ideas") for building a great home security system.
 
@@ -118,7 +122,7 @@ I also use these as a monitor for my young children so I can make sure they are 
 
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=drawbuildplay-20&language=en_US&marketplace=amazon&region=US&placement=B07L37RXBK&asins=B07L37RXBK&linkId=113999ba3b3993a93eba11997085e46f&show_border=true&link_opens_in_new_window=true"></iframe>
 
-## Smart Outlets
+## 8. Smart Outlets
 
 Once you have the above home tech gadgets, the next on my list is to control your other non smart gadgets.  A smart outlet does just that.
 
@@ -132,7 +136,7 @@ They also offer the iDevices Outdoor Switch, which can be plugged in outside to 
 
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=drawbuildplay-20&language=en_US&marketplace=amazon&region=US&placement=B019IJNKCS&asins=B019IJNKCS&linkId=ce4b5d25219161bcb96c1f53b675a6b1&show_border=true&link_opens_in_new_window=true"></iframe>
 
-## Smart Wall Switches
+## 9. Smart Wall Switches
 
 Smart Outlets are a good entry to controlling your lamps.  But Smart Wall Switches are even better.  Many of our lights and fans around the house are connected to a rocker switch on the wall.  Replacing that rocker switch with an iDevices Wall Switch allows us to automate and control our lights and fans with Apple HomeKit or Google Assistant. "Hey Siri, turn on the fan in the living room", or "Hey Google, dim the lights".  Again, with iDevices, we aren't tied to just one assistant.
 
@@ -142,7 +146,7 @@ You can also start to setup party scenes which will turn on various lights.
 
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=drawbuildplay-20&language=en_US&marketplace=amazon&region=US&placement=B0743Q7VCL&asins=B0743Q7VCL&linkId=7cebc5dc7ea283ee85089dcfb81a2d85&show_border=true&link_opens_in_new_window=true"></iframe>
 
-## Roomba
+## 10. Roomba
 
 The last recommendation I have for tech gadgets for your home is an automated robot vacuum cleaner.  Roomba is best in class here, but others are hot on their tails.
 
