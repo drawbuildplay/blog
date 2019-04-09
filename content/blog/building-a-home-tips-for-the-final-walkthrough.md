@@ -65,13 +65,13 @@ The following is a compilation of **Building a Home Tips for the final walkthrou
 
 ### Kitchen
 
-* Cabinets are scratch free
+* Cabinets are scratch free.
 * Cabinet Handles are in good condition and properly aligned/screwed in.
-* Cabinet Doors open/close properly
-* Cabinet Doors have proper alignment
+* Cabinet Doors open/close properly.
+* Cabinet Doors have proper alignment.
 * Kitchen Sink is clean and not scratched up or have rust stains, etc/
 * Kitchen Stove Top is clean and not scratched.
-* No major dents or scratches in any stainless steel appliance
+* No major dents or scratches in any stainless steel appliance.
 * Countertops are clean and in good condition, without any discoloration or stains (builders/painters often rest their equipment on your countertops potentially damaging them).
 
 ### Living Room
