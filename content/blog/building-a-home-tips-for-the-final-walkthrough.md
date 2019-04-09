@@ -3,11 +3,19 @@ categories = ["home-building"]
 date = "2019-04-09T00:00:00-04:00"
 description = "60 Building a Home Tips for the Final Builder Walkthrough to help you build a dream home without the drama."
 draft = true
-pins = []
 title = "Building a Home Tips for the Final Walkthrough"
 [images]
 name = "Home Building Warranty Checklist"
 src = "/uploads/building a home tips.png"
+[[pins]]
+pin_description = "Catch these common builder mistakes with our free checklist before you close on your home. Our building tips will give you a list of things to check for your final walkthrough."
+pin_image = "/uploads/common builder mistakes.png"
+[[pins]]
+pin_description = "Essential Building a new house tips for your final walkthrough with the builder. #newhouse #newhome #dreamhome #builderwalkthrough #builder"
+pin_image = "/uploads/Building a Home Tips New House.png"
+[[pins]]
+pin_description = "Building a Home Tips for your final walkthrough with the builder. #homebuilding #dreamhome #buildingahometips #finalwalkthrough"
+pin_image = "/uploads/60 Building a Home Tips Checklist.png"
 
 +++
 If you have made it this far in your home building journey, then you are almost there.  There are probably only a few weeks left until the builder has you scheduled to close on your brand new dream home.
