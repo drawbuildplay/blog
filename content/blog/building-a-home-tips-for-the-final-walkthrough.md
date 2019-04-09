@@ -1,5 +1,5 @@
 +++
-categories = []
+categories = ["home-building"]
 date = "2019-04-09T00:00:00-04:00"
 description = "60 Building a Home Tips for the Final Builder Walkthrough to help you build a dream home without the drama."
 draft = true
@@ -7,14 +7,14 @@ pins = []
 title = "Building a Home Tips for the Final Walkthrough"
 [images]
 name = "Home Building Warranty Checklist"
-src = "/uploads/bg.jpg"
+src = "/uploads/building a home tips.png"
 
 +++
 If you have made it this far in your home building journey, then you are almost there.  There are probably only a few weeks left until the builder has you scheduled to close on your brand new dream home.
 
 In the final days of construction, the builder is likely to have a number of things left to do - such as paint touch ups, flooring, and a few other small fixtures.
 
-As the buyer, it is your responsibility to make sure the builder has done everything that they promised, and your home is handed over to you in a finished condition.  The builder will want to close (especially before the end of the month or quarter), so they will try to complete many of the requests (within reason) that you make, in order to close.  
+As the buyer, it is your responsibility to make sure the builder has done everything that they promised, and your home is handed over to you in a finished condition.  The builder will want to close (especially before the end of the month or quarter), so they will try to complete many of the requests (within reason) that you make, in order to close.
 
 If there are unfinished items, then you have two options:
 
@@ -102,7 +102,8 @@ The following is a compilation of **Building a Home Tips for the final walkthrou
 * All decorative elements (shutters, caps, pillars) etc are in place - compare to the model home or other neighbors.
 * All trim has been painted.
 * No major cracks in the driveway.
-* All exterior brick and paving is not cracked or chipped.
+* All exterior brick, siding, and paving, is not cracked or chipped.
+* No cracked or broken windows (all labels have been removed properly).
 * Gutters and drain downspouts have been installed along all roof area's.
 * HVAC units are in good condition and functioning.
 * All roof tiles are in place and not lifting or damaged.
