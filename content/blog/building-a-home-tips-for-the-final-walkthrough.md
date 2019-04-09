@@ -11,7 +11,7 @@ pin_description = "Catch these common builder mistakes with our free checklist b
 pin_image = "/uploads/common builder mistakes.png"
 [[pins]]
 pin_description = "Essential Building a new house tips for your final walkthrough with the builder. #newhouse #newhome #dreamhome #builderwalkthrough #builder"
-pin_image = "/uploads/Building a Home Tips New House.png"
+pin_image = "/uploads/building-a-home-new-house.png"
 [[pins]]
 pin_description = "Building a Home Tips for your final walkthrough with the builder. #homebuilding #dreamhome #buildingahometips #finalwalkthrough"
 pin_image = "/uploads/60 Building a Home Tips Checklist.png"
