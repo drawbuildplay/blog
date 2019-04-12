@@ -58,6 +58,7 @@ fields:
   config:
     labelField: pin_description
 pages:
+- content/blog/backyard-privacy-fence.md
 - content/blog/building-a-home-tips-for-the-final-walkthrough.md
 - content/blog/tech-for-your-home.md
 - content/blog/diy-outlet-in-drawer.md
