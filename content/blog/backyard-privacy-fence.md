@@ -1,12 +1,14 @@
 +++
 categories = ["home-building"]
 date = "2019-04-12T00:00:00-04:00"
-description = "Atlanta blogger shares his newly constructed backyard privacy fence using 6x6 posts.  A solid backyard privacy fence not only looks great, but gives the kids a safe area to play in, and sets the stage for further DIY backyard improvements."
+description = "Atlanta blogger shares his newly constructed backyard privacy fence using 6x6 wood posts.  A solid backyard privacy fence not only looks great, but gives the kids a safe area to play in, and sets the stage for further DIY backyard improvements."
 title = "Backyard Privacy Fence"
 [images]
 name = "Backyard Privacy Fence"
 src = "/uploads/backyard-privacy-fence.png"
 [[pins]]
+pin_description = "Awesome wood privacy fence to give you some backyard privacy.  This fence not only looks good, but gives you kids a safe play area and a place for you to entertain your guests. #privacyfence #woodfence"
+pin_image = "/uploads/wood privacy fence.png"
 [[pins]]
 pin_description = "Building a privacy fence using 6x6 dado posts on a corner lot can be expensive but looks really beautiful. #privacyfence #6x6fence #fence #backyardfence"
 pin_image = "/uploads/Building-A-Privacy-Fence-1.png"
@@ -61,7 +63,7 @@ The first day was mounting each post in cement in the ground.  After digging eac
 
 {{<imgproc "/uploads/fence-construction.png" Resize "600x" >}}Privacy Fence Construction{{</imgproc>}} 
 
-The second day was putting up the slats. Basically the guys align the slats on the frame and using their air pressure nail gun, rapidly nailed each slat into place.  Making sure each slat was vertical and up against each other.  They left the last slat on each section to the end as they needed to be trimmed to size depending on how much space was left.  They trimmed it with an electric hand saw.
+The second day was putting up the pickets. Basically the guys align the pickets on the rails and using their air pressure nail gun, rapidly nailed each picket into place.  Making sure each picket was vertical and lined up against each other.  They left the last picket on each section for the end as they needed to be trimmed to size depending on how much space was left between the second to last picket and the post.  They trimmed it with an electric hand saw, and attached it.
 
 {{<imgproc "/uploads/privacy-fence-front.png" Resize "600x" >}}Backyard Privacy Fence{{</imgproc>}} 
 
