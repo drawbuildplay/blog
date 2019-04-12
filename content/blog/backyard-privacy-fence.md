@@ -2,7 +2,6 @@
 categories = ["home-building"]
 date = "2019-04-12T00:00:00-04:00"
 description = "Atlanta blogger shares his newly constructed backyard privacy fence using 6x6 posts.  A solid backyard privacy fence not only looks great, but gives the kids a safe area to play in, and sets the stage for further DIY backyard improvements."
-draft = true
 pins = []
 title = "Backyard Privacy Fence"
 [images]
@@ -55,3 +54,11 @@ Once you have approval, the builder will schedule when they can come out and get
 {{<imgproc "/uploads/privacy-fence-front.png" Resize "600x" >}}Backyard Privacy Fence{{</imgproc>}} 
 
 <p style="text-align:center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/VD1B2ThvssY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+
+### Next Steps
+
+Next with this backyard privacy fence will be staining it the same color as our deck (Sherwin Williams - Hawthorne).  We do need to let the new wood dry out first before staining, which means waiting at minimum 8 weeks, ideal 1 - 2 seasons.  So that step will probably happen in the fall when the temperatures cool down a bit.
+
+I'll also be starting construction on the backyard garden and patio, so stay tuned and I will for sure post about that DIY project when I get to it.
+
+But for now, I am heading outside to play catch with my son!
