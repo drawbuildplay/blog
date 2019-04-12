@@ -2,11 +2,17 @@
 categories = ["home-building"]
 date = "2019-04-12T00:00:00-04:00"
 description = "Atlanta blogger shares his newly constructed backyard privacy fence using 6x6 posts.  A solid backyard privacy fence not only looks great, but gives the kids a safe area to play in, and sets the stage for further DIY backyard improvements."
-pins = []
 title = "Backyard Privacy Fence"
 [images]
 name = "Backyard Privacy Fence"
 src = "/uploads/backyard-privacy-fence.png"
+[[pins]]
+[[pins]]
+pin_description = "Building a privacy fence using 6x6 dado posts on a corner lot can be expensive but looks really beautiful. #privacyfence #6x6fence #fence #backyardfence"
+pin_image = "/uploads/Building-A-Privacy-Fence-1.png"
+[[pins]]
+pin_description = "Backyard Privacy Fence with 6x6 dado posts, privacy capped.  This backyard privacy fence provides tons of privacy and looks absolutely gorgeous on a corner lot."
+pin_image = "/uploads/Backyard Privacy Fence.png"
 
 +++
 Spring is here, and before the days get too hot here in Atlanta, I wanted to get my fence built.  Although tempted to DIY this myself, it is simply way too much work for one person.  I have 380 linear feet of fencing required to go around the back of my yard to the sides of my home.
@@ -49,9 +55,17 @@ Submit your documents to your board, and wait for approval before work starts.  
 
 ### Privacy Fence Construction
 
-Once you have approval, the builder will schedule when they can come out and get started.  For my 380 ft fence, it took them two days to complete.  The first day was mounting each post in cement in the ground.  The second day was putting up the slats.  I created a cool time lapse of the privacy fence construction below, using my [outdoor nest cam](https://www.drawbuildplay.com/blog/10-best-smart-home-tech-for-your-home/ "Outdoor Nest Cam").
+Once you have approval, the builder will schedule when they can come out and get started.  For my 380 ft fence, it took them two days to complete.  You will also want to get a land survey done if you are not 100% certain of your property line.  These surveys can range from $200 for a simple land marking, to $600 for a full land survey with paperwork.  I recommend getting this done to avoid building a fence over your neighbor's property line which might create easement issues in the future.
+
+The first day was mounting each post in cement in the ground.  After digging each hole to the required depth, the post was put in the whole.  The corner posts were the first to be cemented.  Pour the cement into the hole, then place the post into the cement, ensuring the required post height above the ground is visible.  Once each corner post is in, tie a string between the two posts so that you can align the rest of the posts in a straight line between the two points.
+
+{{<imgproc "/uploads/fence-construction.png" Resize "600x" >}}Privacy Fence Construction{{</imgproc>}} 
+
+The second day was putting up the slats. Basically the guys align the slats on the frame and using their air pressure nail gun, rapidly nailed each slat into place.  Making sure each slat was vertical and up against each other.  They left the last slat on each section to the end as they needed to be trimmed to size depending on how much space was left.  They trimmed it with an electric hand saw.
 
 {{<imgproc "/uploads/privacy-fence-front.png" Resize "600x" >}}Backyard Privacy Fence{{</imgproc>}} 
+
+I created a cool timelapse of my privacy fence construction below, using my [outdoor nest cam](https://www.drawbuildplay.com/blog/10-best-smart-home-tech-for-your-home/ "Outdoor Nest Cam").
 
 <p style="text-align:center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/VD1B2ThvssY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 
