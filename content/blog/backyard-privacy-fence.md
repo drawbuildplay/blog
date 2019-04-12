@@ -54,4 +54,4 @@ Once you have approval, the builder will schedule when they can come out and get
 
 {{<imgproc "/uploads/privacy-fence-front.png" Resize "600x" >}}Backyard Privacy Fence{{</imgproc>}} 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hyA4IPuIoBg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<p style="text-align:center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/VD1B2ThvssY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
