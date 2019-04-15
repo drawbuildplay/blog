@@ -29,7 +29,7 @@ _Note - if you do decide you don't care much about the bee's and want to spray i
 
 Also, there are a number of useful insects and pests that would be killed by the insecticide which actually help you get rid of mosquitoes by feeding on them.  This includes spiders (don't get rid of webs if you have a mosquito problem), dragonflies (these are beautiful and eat mosquitoes and their larvae, and lizards.
 
-### A Natural Mosquito Repellent
+## A Natural Mosquito Repellent
 
 A natural solution, and one that is long term, is to strategically landscape your garden to discourage mosquitoes from invading.
 
