@@ -41,34 +41,34 @@ You can also take many of the leaves from these plants and rub them on your skin
 
 Lavender is a great repellant to mosquitos and many other invaders (like rabbits, and other insects).  The essential oils that the lavender plant gives off messes with their sense of smell, and they will move on.  The plant grows gorgeous purple flowers, and is very low maintenance.
 
-{{<imgproc "/uploads/lavender.png" Resize "300x" >}}Lavender{{</imgproc>}} 
+{{<imgproc "/uploads/lavender.jpg" Resize "300x" >}}Lavender{{</imgproc>}} 
 
 #### 2. Rosemary
 
 Rosemary is another great mosquito repellent, which like lavender, will emit a beautiful scent that insects and mosquito's despise.  Rosemary is a woody plant, which is also low maintenance and doesn't require a lot of water.   Once established, it will grow back year after year.  You can use rosemary in your cooking as a herb.  You can also shape and prune the rosemary into shapes in your garden to make a great border or decoration.
 
-{{<imgproc "/uploads/rosemary.png" Resize "300x" >}}Rosemary{{</imgproc>}} 
+{{<imgproc "/uploads/rosemary.jpg" Resize "300x" >}}Rosemary{{</imgproc>}} 
 
 #### 3. Marigolds
 
 Marigolds are a pretty yellow/red/orange flower that adds some beautiful color in your garden. It is an annual, so it will die out every year when the frost moves in.  But it is very easy to grow every year.  Marigolds will emit a smell that repel mosquitos. In fact, marigolds have significance in hinduism due to its protective power as it repels many insects and pests.
 
-{{<imgproc "/uploads/marigolds.png" Resize "300x" >}}Marigolds{{</imgproc>}} 
+{{<imgproc "/uploads/marigolds.jpg" Resize "300x" >}}Marigolds{{</imgproc>}} 
 
 #### 4. Lemon Grass
 
 Notice how many mosquito repellents you apply to your skin has a citrus smell.  Many of these lotions are made from the lemongrass plant.  Citronella Plants are one of the best plants for repelling pests like mosquito's.  In warm sunny climates, these can be planted in the ground.  However it also does not stand up to the frost.
 
-{{<imgproc "/uploads/lemongrass.png" Resize "300x" >}}Lemongrass{{</imgproc>}} 
+{{<imgproc "/uploads/lemongrass.jpg" Resize "300x" >}}Lemongrass{{</imgproc>}} 
 
 #### 5. Bee Balm
 
 Bee Balm (also known as horsemint) is a great mosquito repelling plant.  It belongs to the mint family, and will bring all sorts of great insects to your yard such as bees, butterflies, and hummingbirds.  All the while repelling annoying insects like mosquitos.  Bee balm will grow fairly tall, so ideally placed towards the back of your garden.  As it is part of the mint family, it can become invasive if not properly controlled over time.
 
-{{<imgproc "/uploads/beebalm.png" Resize "300x" >}}Bee Balm{{</imgproc>}} 
+{{<imgproc "/uploads/beebalm.jpg" Resize "300x" >}}Bee Balm{{</imgproc>}} 
 
 #### 6. Basil
 
 Basil is a brilliant plant to [grow on your patio](https://www.drawbuildplay.com/blog/diy-herb-garden-planter-box/ "DIY Outdoor Herb Garden Planter") where you entertain.  Not only is it a delicious herb used in so many great recipes, basil is known to have medicinal properties.  Basil is toxic to the mosquito larvae, so growing basil near areas with standing water to deter mosquitos from laying their eggs.  Also growing basil near your grilling area will keep mosquitos at bay while you cook outdoors.
 
-{{<imgproc "/uploads/basil.png" Resize "300x" >}}Basil{{</imgproc>}} 
+{{<imgproc "/uploads/basil.jpg" Resize "300x" >}}Basil{{</imgproc>}} 
