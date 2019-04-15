@@ -66,9 +66,9 @@ Be sure to check out my post on [top 10 builder upgrades you should do](https://
 
 ## Modification Requests
 
-Once you have selected a location, floor plan, and your standard upgrades, the next step will likely be to sign a contract with the builder. Any modifications from the standard offering you want the builder to make will need to be listed in the contract otherwise they wont do it (don't rely on verbal arrangements).
+Once you have selected a [location](https://www.drawbuildplay.com/blog/home-building-checklist-choosing-a-location/ "building a home location checklist"), [floor plan](https://www.drawbuildplay.com/blog/home-building-checklist-choosing-a-floor-plan/ "Building a home floor plan"), and your [standard upgrades](https://www.drawbuildplay.com/blog/top-10-builder-upgrades-you-should-do/ "10 best builder upgrades to do"), the next step will likely be to sign a contract with the builder. Any modifications from the standard offering you want the builder to make will need to be listed in the contract otherwise they won't do it (don't rely on verbal arrangements).
 
-Here are some of the other modifications that you should ask the builder:
+Here are some of the [other builder modifications](https://www.drawbuildplay.com/blog/top-10-builder-upgrades-you-should-do/ "10 Builder Upgrades you should do when building a home") that you should ask the builder:
 
 * \[ \] <label>Buried Conduit under Driveways and Footpaths</label>
 * \[ \] <label>[Hidden Conduits for TV cables](https://www.drawbuildplay.com/blog/watch-tv-for-free-without-cable/ "Hidden Conduits for TV Cables and Home Wiring for Antenna TV")</label>
