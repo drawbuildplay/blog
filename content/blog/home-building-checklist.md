@@ -19,7 +19,7 @@ pin_image = "/uploads/50 Tips and Tricks to know when building your new home.png
 +++
 ## Choosing a Location
 
-The first thing when scouting for a new home is \[choosing a location\]({{<ref "home-building-checklist-location">}}).  Whether you plan to buy a plot of land and have a custom architect design and build for you, or if you plan to go with one of the many neighborhoods built with existing plans by Pulte, DR Horton, or others, the first step is to find a home within the boundaries of your desired location.
+The first thing when scouting for a new home is[ choosing a location](https://www.drawbuildplay.com/blog/home-building-checklist-choosing-a-location/ "choosing a location").  Whether you plan to buy a plot of land and have a custom architect design and build for you, or if you plan to go with one of the many neighborhoods built with existing plans by Pulte, DR Horton, or others, the first step is to find a home within the boundaries of your desired location.
 
 * \[ \] <label>Good School Districts</label>
 * \[ \] <label>Easy Freeway Access</label>
@@ -33,13 +33,13 @@ The first thing when scouting for a new home is \[choosing a location\]({{<ref "
 * \[ \] <label>Good Cell Coverage</label>
 * \[ \] <label>Good Sun Cover</label>
 
-Read more about each of these items for \[choosing a location\]({{<ref "home-building-checklist-location">}}).
+Read more about each of these items for [choosing a location](https://www.drawbuildplay.com/blog/home-building-checklist-choosing-a-location/ "choosing a location to build your home").
 
 ## Choosing a Floor Plan
 
 Many builders will offer a range of pre-designed plans to choose from.  Each plan may also have a number of elevations (front view) to select from.  Sometimes you get lucky and there are model homes you can walk through that give you an idea of how the floor plan will look once built.
 
-These are the things to look for when \[choosing the floor plan\]({{<ref "home-building-checklist-floorplan">}}) that suits you:
+These are the things to look for when [choosing a floor plan](https://www.drawbuildplay.com/blog/home-building-checklist-choosing-a-floor-plan/ "choosing a floor plan") that suits you:
 
 * \[ \] <label>Open Plan Living</label>
 * \[ \] <label>Bedroom on Main</label>
@@ -66,7 +66,7 @@ Be sure to check out my post on [top 10 builder upgrades you should do](https://
 
 ## Modification Requests
 
-Once you have selected a location, floor plan, and your standard upgrades, the next step will likely be to sign a contract with the builder. Any modifications from the standard offering you want the builder to make will need to be listed in the contract otherwise they wont do it (dont rely on verbal arrangements).
+Once you have selected a location, floor plan, and your standard upgrades, the next step will likely be to sign a contract with the builder. Any modifications from the standard offering you want the builder to make will need to be listed in the contract otherwise they wont do it (don't rely on verbal arrangements).
 
 Here are some of the other modifications that you should ask the builder:
 
@@ -76,7 +76,7 @@ Here are some of the other modifications that you should ask the builder:
 * \[ \] <label>Wired Ethernet</label>
 * \[ \] <label>Ceiling Mounted Wireless Access Points</label>
 * \[ \] <label>Infinity Hot Water Line</label>
-* \[ \] <label>\[Outlets above Kitchen Cabinets\]({{<ref "diy-under-cabinet-lighting">}})</label>
+* \[ \] <label>[Outlets above your Kitchen Cabinets](https://www.drawbuildplay.com/blog/diy-under-cabinet-lighting/ "DIY Under Cabinet Lighting")</label>
 * \[ \] <label>Strategically placed floor outlets</label>
 * \[ \] <label>Backsplash Options</label>
 * \[ \] <label>Electric Car Charging Outlets</label>
@@ -85,14 +85,14 @@ Here are some of the other modifications that you should ask the builder:
 
 There will be upgrades that the builder will offer which you can probably DIY later.  With some planning, you may have the builder do some work to enable better integration of your DIY.  Although this website has is focused on <a href="/categories/home-improvement">DIY tips and tricks</a>, here are some options which I found are much cheaper (or better) to do yourself after you move in, compared to the upgrade options provided by the builder:
 
-* \[ \] <label>\[Under Cabinet Lighting\]({{<ref "diy-under-cabinet-lighting">}})</label>
+* \[ \] <label>[Under Cabinet Lighting](https://www.drawbuildplay.com/blog/diy-under-cabinet-lighting/ "Under Cabinet Lighting")</label>
 * \[ \] <label>Install your own Upgraded Light Fixtures and Fans</label>
 * \[ \] <label>[Outdoor Landscape Lighting](https://www.drawbuildplay.com/blog/diy-outdoor-landscape-lighting/ "DIY Outdoor Landscape Lighting")</label>
 * \[ \] <label>Epoxy the Garage Floor</label>
 
 ## Smart Home Technology
 
-Once your home is built, you may want to incorporate the following smart home technologies into your home.  Making your home connected gives you more convenience to make your home more comfortable, while also giving you the security of being able to see and control aspects of your home while you are away.  These often don't rely on structural changes from the builder, and can be integrated after you move in.  Some builders offer smart home packages.  It would be wise to evaluate what technology they offer, the eco system it falls under, and the price to install vs doing it yourself.  Automation will typically fall under 4 categories - Apple (Siri/Homekit), Google (Home/Assistant), Amazon (Alexa), or "all of the above".
+Once your home is built, you may want to incorporate the following smart home technologies into your home.  Making your home connected gives you more convenience to make your home more comfortable, while also giving you the security of being able to see and control aspects of your home while you are away.  These often don't rely on structural changes from the builder, and can be integrated after you move in.  Some builders offer smart home packages.  It would be wise to evaluate what technology they offer, the eco system it falls under, and the price to install vs doing it yourself.  Automation will typically fall under 4 categories - Apple (Siri/HomeKit), Google (Home/Assistant), Amazon (Alexa), or "all of the above".
 
 * \[ \] <label>[Home Security Camera's](https://www.drawbuildplay.com/blog/diy-home-security-ideas/ "Home Security Ideas - Camera's")</label>
 * \[ \] <label>[Connected Home Security Monitoring](https://www.drawbuildplay.com/blog/diy-home-security-ideas/ "DIY Home Security Ideas")</label>
@@ -102,6 +102,6 @@ Once your home is built, you may want to incorporate the following smart home te
 * \[ \] <label>Smart Locks</label>
 * \[ \] <label>Multi Room Connected Speakers</label>
 * \[ \] <label>Voice Assistants</label>
-* \[ \] <label>Alternatives to Cable (Antenna) - \[Free Over the Air TV\]({{<ref "free-over-the-air-tv">}})</label>
+* \[ \] <label>[Alternatives to Cable (Antenna) - Free Over the Air TV](https://www.drawbuildplay.com/blog/watch-tv-for-free-without-cable/ "Free Over the Air TV")</label>
 * \[ \] <label>Technology Closet</label>
 * \[ \] <label>Home Automation</label>
