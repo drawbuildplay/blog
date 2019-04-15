@@ -89,9 +89,9 @@ There will be upgrades that the builder will offer which you can probably DIY la
 * \[ \] <label>Install your own Upgraded Light Fixtures and Fans</label>
 * \[ \] <label>Install [Outdoor Landscape Lighting](https://www.drawbuildplay.com/blog/diy-outdoor-landscape-lighting/ "DIY Outdoor Landscape Lighting")</label>
 * \[ \] <label>Epoxy your Garage Floor</label>
-* \[ \]<label>[DIY Outlet in Drawers](https://www.drawbuildplay.com/blog/diy-outlet-in-drawer/ "DIY Outlet in Drawer")</label>
-* \[ \]<label>[Install USB Outlets](https://www.drawbuildplay.com/blog/how-to-diy-install-a-usb-outlet/ "DIY Install USB Outlets")</label>
-* \[ \]<label>[Install your own built in shelving](https://www.drawbuildplay.com/blog/diy-built-in-shelves-using-ikea-billy-bookcase-hack/ "DIY Built In Shelving")</label>
+* \[ \] <label>[DIY Outlet in Drawers](https://www.drawbuildplay.com/blog/diy-outlet-in-drawer/ "DIY Outlet in Drawer")</label>
+* \[ \] <label>[Install USB Outlets](https://www.drawbuildplay.com/blog/how-to-diy-install-a-usb-outlet/ "DIY Install USB Outlets")</label>
+* \[ \] <label>[Install your own built in shelving](https://www.drawbuildplay.com/blog/diy-built-in-shelves-using-ikea-billy-bookcase-hack/ "DIY Built In Shelving")</label>
 
 ## Smart Home Technology
 
