@@ -1,30 +1,42 @@
 +++
-categories = []
+categories = ["home-decor", "home-building"]
 date = "2019-04-15T00:00:00-04:00"
-description = "As our temperatures start to go over 50 degrees F, the mosquitos move in and destroy our spring and summer dreams outdoors.  Repel those mosquitos naturally, by planting herbs and shrubs that they hate, causing them to move on."
+description = "As our temperatures start to go over 50 degrees F, the mosquitoes move in and destroy our spring and summer dreams outdoors.  Repel those mosquitos with a natural mosquito repellent strategy, by planting herbs and flowers that they hate, causing the mosquitoes to move on."
 draft = true
-pins = []
-title = "6 Best Natural DIY Mosquito Repellent Plants for your yard"
+title = "6 Best DIY Natural Mosquito Repellent Plants for your yard"
 [images]
 name = "Mosquitoes Repellent DIY"
 src = "/uploads/repel-mosquitos.jpg"
+[[pins]]
+pin_description = "DIY Mosquito Repellent for your yard for get rid of those annoying mosquitoes. #mosquitoes #mosquitorepellent #diymosquitorepellent"
+pin_image = "/uploads/diy-mosquito-repellent.png"
+[[pins]]
+pin_description = "Repel those pesky mosquito from your yard with our 6 best natural mosquito repellent plants.\n#mosquitoes #mosquito #naturalrepellent #repellent #mosquitorepellent #lavender #rosemary #basil #lemongrass #beebalm #marigold"
+pin_image = "/uploads/repel pesky mosquitos.png"
+[[pins]]
+pin_description = "Check out our 6 best mosquito repellent plants that you can grow to repel mosquitos from your garden and yard. #mosquitoes #mosquito #naturalrepellent #repellent #mosquitorepellent"
+pin_image = "/uploads/Mosquito Repelling Plants.png"
 
 +++
-As spring rolls in, those pesky mosquito's love to start breeding and making their home in our beautiful yards.  They will target yards where there is standing water (untreated pools, creeks, poor drainage, old tires/buckets filled with water, etc).
+As spring rolls in, those pesky mosquitoes love to start breeding and making their home in our beautiful yards.  They will target yards where there is standing water (untreated pools, creeks, poor drainage, old tires/buckets filled with water, etc). The mosquitoes will hide under the pine straw where it is moist, as well as under the leaves of trees or near their roots.
 
-The mosquito's tend to move in when the temperatures go above 50F, and start breeding.  Once in place, they can be difficult to get rid of.
+The mosquitoes tend to move in when the temperatures go above 50F, and start breeding.  Their larvae start to hatch at these temperatures too. Once in place, mosquitoes can be difficult to get rid of. They feed on human blood (being attracted to the CO2 from our breath), and leave nasty itch bites behind.  In some areas, mosquitoes carry dangerous viruses such as Zika and West Nile Virus.  Hence the desire to get rid of these pests.
 
 A common response by home owners is to spray their yard with an insecticide.  I will be honest and I have gone this route before.  Ultimately, I found it to be ineffective as the mosquito's tend to come back after the next rain fall.  More importantly, the insecticides will also harm the more useful insects.
 
-> BEE's!!!!  Don't kill the bee's.  Please!
+> BEE's!!!!  Don't kill the bee's.  Please!  We need the bee's to pollenate for humans to survive.
 
-_Note - if you do decide you don't care much about the bee's and want to spray insecticide anyway, then do so on a calm day, late in the evening, when the bee's have returned to their hives.  Only spray the undersides of leaves, and under any mulch, but don't spray the flowers where the bee's collect their nectar!_
+_Note - if you do decide you don't care much about the bee's and want to spray insecticide anyway, then do so on a calm day, late in the evening, when the bee's have returned to their hives.  Only spray the undersides of leaves, and under any mulch, but don't spray the flowers where the bee's collect their nectar and can absorb the insecticide!_
 
-### A Natural Solution to Repel Mosquitos
+Also, there are a number of useful insects and pests that would be killed by the insecticide which actually help you get rid of mosquitoes by feeding on them.  This includes spiders (don't get rid of webs if you have a mosquito problem), dragonflies (these are beautiful and eat mosquitoes and their larvae, and lizards.
 
-A natural solution, and one that is long term, is to strategically landscape your garden to discourage mosquito's from invading.
+### A Natural Mosquito Repellent
 
-Mosquito's tend to hate strong scented plants (especially herbs).  Meanwhile, these plants will look lovely in your garden, and fill your yard with really pretty scents that we love.  Most of them will also attract bee's and butterflies and hummingbirds.  So it's really a win win all round.
+A natural solution, and one that is long term, is to strategically landscape your garden to discourage mosquitoes from invading.
+
+Mosquitoes tend to hate strong scented plants (especially herbs).  Meanwhile, these plants will look lovely in your garden, and fill your yard with really pretty scents that we love.  Most of them will also attract bee's and butterflies and hummingbirds.  So it's really a win win all round.
+
+You can also take many of the leaves from these plants and rub them on your skin as a natural oil to repel mosquitoes from your body.
 
 #### 1. Lavender
 
