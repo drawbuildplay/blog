@@ -71,8 +71,8 @@ Once you have selected a location, floor plan, and your standard upgrades, the n
 Here are some of the other modifications that you should ask the builder:
 
 * \[ \] <label>Buried Conduit under Driveways and Footpaths</label>
-* \[ \] <label>Hidden Conduits for TV cables</label>
-* \[ \] <label>Hidden Conduits from Attic to Basement</label>
+* \[ \] <label>[Hidden Conduits for TV cables](https://www.drawbuildplay.com/blog/watch-tv-for-free-without-cable/ "Hidden Conduits for TV Cables and Home Wiring for Antenna TV")</label>
+* \[ \] <label>[Hidden Conduits from Attic to Basement](https://www.drawbuildplay.com/blog/watch-tv-for-free-without-cable/ "Hidden Conduits from the Attic for Free Antenna Live TV")</label>
 * \[ \] <label>Wired Ethernet</label>
 * \[ \] <label>Ceiling Mounted Wireless Access Points</label>
 * \[ \] <label>Infinity Hot Water Line</label>
@@ -83,12 +83,15 @@ Here are some of the other modifications that you should ask the builder:
 
 ## DIY Home Projects
 
-There will be upgrades that the builder will offer which you can probably DIY later.  With some planning, you may have the builder do some work to enable better integration of your DIY.  Although this website has is focused on <a href="/categories/home-improvement">DIY tips and tricks</a>, here are some options which I found are much cheaper (or better) to do yourself after you move in, compared to the upgrade options provided by the builder:
+There will be upgrades that the builder will offer which you can probably DIY later.  With some planning, you may have the builder do some work to enable better integration of your DIY.  Although this website has is focused on [DIY Home Improvements](https://www.drawbuildplay.com/ "DIY Home Improvements"), here are some options which I found are much cheaper (or better) to do yourself after you move in, compared to the upgrade options provided by the builder:
 
-* \[ \] <label>[Under Cabinet Lighting](https://www.drawbuildplay.com/blog/diy-under-cabinet-lighting/ "Under Cabinet Lighting")</label>
+* \[ \] <label>DIY Install [Under Cabinet Lighting](https://www.drawbuildplay.com/blog/diy-under-cabinet-lighting/ "Under Cabinet Lighting")</label>
 * \[ \] <label>Install your own Upgraded Light Fixtures and Fans</label>
-* \[ \] <label>[Outdoor Landscape Lighting](https://www.drawbuildplay.com/blog/diy-outdoor-landscape-lighting/ "DIY Outdoor Landscape Lighting")</label>
-* \[ \] <label>Epoxy the Garage Floor</label>
+* \[ \] <label>Install [Outdoor Landscape Lighting](https://www.drawbuildplay.com/blog/diy-outdoor-landscape-lighting/ "DIY Outdoor Landscape Lighting")</label>
+* \[ \] <label>Epoxy your Garage Floor</label>
+* \[ \]<label>[DIY Outlet in Drawers](https://www.drawbuildplay.com/blog/diy-outlet-in-drawer/ "DIY Outlet in Drawer")</label>
+* \[ \]<label>[Install USB Outlets](https://www.drawbuildplay.com/blog/how-to-diy-install-a-usb-outlet/ "DIY Install USB Outlets")</label>
+* \[ \]<label>[Install your own built in shelving](https://www.drawbuildplay.com/blog/diy-built-in-shelves-using-ikea-billy-bookcase-hack/ "DIY Built In Shelving")</label>
 
 ## Smart Home Technology
 
