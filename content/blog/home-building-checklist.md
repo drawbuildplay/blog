@@ -92,7 +92,16 @@ There will be upgrades that the builder will offer which you can probably DIY la
 
 ## Smart Home Technology
 
-Once your home is built, you may want to incorporate the following smart home technologies into your home.  Making your home connected gives you more convenience to make your home more comfortable, while also giving you the security of being able to see and control aspects of your home while you are away.  These often don't rely on structural changes from the builder, and can be integrated after you move in.  Some builders offer smart home packages.  It would be wise to evaluate what technology they offer, the eco system it falls under, and the price to install vs doing it yourself.  Automation will typically fall under 4 categories - Apple (Siri/HomeKit), Google (Home/Assistant), Amazon (Alexa), or "all of the above".
+Once your home is built, you may want to incorporate the following smart home technologies into your home.  Making your home connected gives you more convenience to make your home more comfortable, while also giving you the security of being able to see and control aspects of your home while you are away.  These often don't rely on structural changes from the builder, and can be integrated after you move in.  Some builders offer smart home packages.  It would be wise to evaluate what technology they offer, the eco system it falls under, and the price to install vs doing it yourself.  
+
+Automation will typically fall under 4 categories
+
+* Apple (Siri/HomeKit)
+* Google (Home/Assistant)
+* Amazon (Alexa)
+* All of the above
+
+Once you have an idea what eco system(s) to focus on, start looking at [smart home devices](https://www.drawbuildplay.com/blog/10-best-smart-home-tech-for-your-home/ "10 Best Smart Home Devices for your home") that meet your needs:
 
 * \[ \] <label>[Home Security Camera's](https://www.drawbuildplay.com/blog/diy-home-security-ideas/ "Home Security Ideas - Camera's")</label>
 * \[ \] <label>[Connected Home Security Monitoring](https://www.drawbuildplay.com/blog/diy-home-security-ideas/ "DIY Home Security Ideas")</label>
