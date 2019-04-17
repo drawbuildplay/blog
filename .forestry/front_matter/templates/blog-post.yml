@@ -58,6 +58,7 @@ fields:
   config:
     labelField: pin_description
 pages:
+- content/blog/diy-outdoor-patio-lights.md
 - content/blog/tech-for-your-home.md
 - content/blog/backyard-privacy-fence.md
 - content/blog/6-best-natural-diy-mosquito-repellent-plants-for-your-yard.md
