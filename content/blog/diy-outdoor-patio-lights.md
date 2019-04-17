@@ -57,4 +57,12 @@ The final step is to start screwing in each bulb.  Starting from the start, plug
 
 {{<imgproc "/uploads/Outdoor-Patio-Lights.JPG" Resize "600x" >}}Outdoor Patio Lights{{</imgproc>}}
 
-This is the final product.  It looks so cool, and I am looking forward to spending time on my outdoor patio this summer with friends and family, while drinking those Moscow Mules.
+This is the final look of the outdoor patio lighting.  It looks so cool, and I am looking forward to spending time on my outdoor patio this summer with friends and family, while drinking those Moscow Mules.
+
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=drawbuildplay-20&language=en_US&marketplace=amazon&region=US&placement=B00V2UKN0Y&asins=B00V2UKN0Y&linkId=18fe918a76dde9f6524d83c9b00a4de0&show_border=true&link_opens_in_new_window=true"></iframe>
+
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=drawbuildplay-20&language=en_US&marketplace=amazon&region=US&placement=B076ZM1799&asins=B076ZM1799&linkId=48b97da43ce24ce0799601af7d6923c5&show_border=true&link_opens_in_new_window=true"></iframe>
+
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=drawbuildplay-20&language=en_US&marketplace=amazon&region=US&placement=B000BOKN0C&asins=B000BOKN0C&linkId=9edc9455b9af1d07ce68eb86cf11abe5&show_border=true&link_opens_in_new_window=true"></iframe>
+
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=drawbuildplay-20&language=en_US&marketplace=amazon&region=US&placement=B07FBGJTCX&asins=B07FBGJTCX&linkId=ae47692984bb6d2ab79300aaf525f595&show_border=true&link_opens_in_new_window=true"></iframe>
