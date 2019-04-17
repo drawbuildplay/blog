@@ -1,7 +1,7 @@
 +++
 categories = ["home-decor", "smart-home"]
 date = "2019-04-17T00:00:00-04:00"
-description = "Installing outdoor patio lights creates a nice summer vibe to your outdoor patio. Create outdoor lights to set the mood and enjoy your outdoor patio well after the sun goes down."
+description = "Installing outdoor patio lights creates a nice summer vibe to your outdoor patio. Patio Lighting sets the mood for you to enjoy your outdoor patio well after the sun goes down."
 draft = true
 pins = []
 title = "DIY Outdoor Patio Lights"
@@ -10,13 +10,13 @@ name = "Patio Lighting"
 src = "/uploads/backyard-fence.png"
 
 +++
-As we gear up for the spring/summer season, I decided to add a touch of lighting to our outdoor patio/deck with some beautiful outdoor patio lights.  These string lights are super simple to install.
+As we gear up for the spring/summer season, I decided to add a touch of lighting to our outdoor patio/deck with some beautiful outdoor patio lights.  These patio lighting are super simple to install.
 
-One end of the lights were going to hang from the siding of the house, but I did not have anywhere to hang the other sides.  So, off to Home Depot I go, and I bought some really cheap furring wood that matches the furring wood on my deck.  These come in 8ft lengths, which is the perfect height I need.
+One end of the lights were going to hang from the siding of the house, but I did not have anywhere to hang the other sides.  So, off to Home Depot I go, and I bought some really cheap furring wood that matches the furring wood on my deck.  These come in 8ft lengths, which is the perfect height I need. You can find them right at the back by the timber yard.
 
 {{<imgproc "/uploads/FurringWood.png" Resize "400x" >}}Furring Wood{{</imgproc>}} 
 
-Once I was home, I pulled out some left over stain I had from my DIY Herb Planter Box project, and gave the furring wood 3 coats of Sherwin Williams Hawthorne stain, so that it would match my deck stain.  I wanted the posts to blend in with the deck.
+Once I was home, I pulled out some left over stain I had from my [DIY Herb Planter Box project](https://www.drawbuildplay.com/blog/diy-herb-garden-planter-box/ "DIY Herb Garden Planter Box"), and gave the furring wood 3 coats of Sherwin Williams Hawthorne stain, so that it would match my deck stain.  I wanted the posts to blend in with the deck.
 
 {{<imgproc "/uploads/Staining.png" Resize "400x" >}}Staining the Posts{{</imgproc>}} 
 
@@ -28,13 +28,13 @@ While staining these posts, I had a curious visitor from the gorgeous looking dr
 
 {{<imgproc "/uploads/Dragonfly.png" Resize "400x" >}}My Helper{{</imgproc>}} 
 
-Next, if you have hooks lying around, then great, otherwise you can buy some heavy duty hooks from Amazon to hold the string lights.  Drill a small pilot hole where you want to mount the hook.  Then twist the hook into the hole.  Repeat for as many posts as you need.
+Next, if you have hooks lying around, then great, otherwise you can buy some [heavy duty hooks](https://amzn.to/2Gln7Af "Heavy Duty Hooks (Amazon)") from Amazon to hold the outdoor patio lights.  Drill a small pilot hole where you want to mount the hook.  Then twist the hook into the hole.  Repeat for as many posts as you need.
 
 {{<imgproc "/uploads/Drill-Pilot-Holes.png" Resize "400x" >}}Drill Pilot Holes{{</imgproc>}} 
 
 {{<imgproc "/uploads/Post-With-Hook.png" Resize "400x" >}}Post with Hook{{</imgproc>}} 
 
-The posts need to be mounted vertically against the deck railing.  Many other blog posts try to mount these in cement or in pots.  I just needed it to lean against the existing deck railing, so I bought these 36 inch heavy duty cable ties instead.  Use the cable ties to tie the post to the existing deck.  Do this near the top and bottom so it has good support.  Cable ties (zip ties) work best because they hold in place (ie don't loosen over time), and you can tug on it to get it really nice and tight.  My initial attempt I tried to tie it with some string, but you really cant get it to hold tight enough.
+The posts need to be mounted vertically against the deck railing.  Many other blog posts try to mount these in cement or in pots.  I just needed it to lean against the existing deck railing, so I bought these [36 inch heavy duty cable ties](https://amzn.to/2Dia3uO "36 inch heavy duty cable ties (Amazon)") from Amazon instead.  Use the cable ties to tie the post to the existing deck.  Do this near the top and bottom so it has good support.  Cable ties (zip ties) work best because they hold in place (ie don't loosen over time), and you can tug on it to get it really nice and tight.  My initial attempt I tried to tie it with some string, but you really cant get it to hold tight enough.  The cable ties are black (also available in clear), so they hide pretty well.  Just snip off the excess.
 
 {{<imgproc "/uploads/Tied-Post.png" Resize "400x" >}}Tie with Cable Ties{{</imgproc>}} 
 
