@@ -7,7 +7,7 @@ pins = []
 title = "DIY Outdoor Patio Lights"
 [images]
 name = "Patio Lighting"
-src = "/uploads/backyard-fence.png"
+src = "/uploads/Outdoor-Patio-Lighting.JPG"
 
 +++
 As we gear up for the spring/summer season, I decided to add a touch of lighting to our outdoor patio/deck with some beautiful outdoor patio lights.  These patio lighting are super simple to install.
@@ -42,18 +42,20 @@ Once you have all your posts mounted and tied to your deck, with the hooks facin
 
 {{<imgproc "/uploads/Mounted-Posts.png" Resize "400x" >}}Mounted Posts{{</imgproc>}} 
 
-We need to have hooks on the wall.  There are a few different options I considered here.  One was to buy some gutter hooks which hang off the gutters.  The second option was to use 3M outdoor command strips with light hooks which are designed for Christmas lights or other string lights.  I went with the second option as it looks cleaner, and gets the lights right up to the wall.
+We need to have hooks on the wall.  There are a few different options I considered here.  One was to buy some gutter hooks which hang off the gutters.  The second option was to use [3M outdoor command strips with light hooks](https://amzn.to/2IDRtAH "3M Command Outdoor Light Clips") (Amazon) which are designed for Christmas lights or other string lights.  I went with the second option as it looks cleaner, and gets the lights right up to the wall.
 
 {{<imgproc "/uploads/Command-Strip-Hooks.png" Resize "400x" >}}3M Outdoor Command Strips{{</imgproc>}} 
 
 Stick the Command Strip onto the wall first, and the plastic hooks onto each strip, and let it bond for about an hour.  A good pattern to apply is to zig zag the lights, so place each Command Strip in the space parallel, but in between your posts.
 
-Once the Command Strips have bonded, it's time to mount your string lights.  We used these gorgeous and super affordable string lights from Amazon.  You get 100 bulbs in the pack which was perfect for the length we needed.  Start stringing your outdoor patio lights, starting where it will be plugged in (eg outdoor outlet), and going to your first hook.  From there, string it along to the first post with a hook, then back to the wall, and so on, following a zig zag pattern.  You will want a minor swag in the line so that it has tolerance with heat changes and wind.  Otherwise it might pull off one of the hooks if things get tight with temperature variations.
+Once the [Command Strips](https://amzn.to/2IEOyI0 "Command Outdoor Light Clips") have bonded, it's time to mount your string lights.  We used these gorgeous and super affordable [Outdoor Patio Globe String Lights](https://amzn.to/2XiIdWX "Outdoor Globe String Lights") from Amazon.  You get 100 globe lights in the pack which was perfect for the length we needed.  Start stringing your outdoor patio lights, starting where it will be plugged in (eg outdoor outlet), and going to your first hook.  From there, string it along to the first post with a hook, then back to the wall, and so on, following a zig zag pattern.  You will want a minor swag in the line so that it has tolerance with heat changes and wind.  Otherwise it might pull off one of the hooks if things get tight with temperature variations.
 
 {{<imgproc "/uploads/Hooked-Lights.png" Resize "400x" >}}Hooked Outdoor Patio Lights{{</imgproc>}} 
 
 If by the time you get to your last hook, you still have wire left over, then bundle it together with a tie, and find a place to hide it.  You can hide it around a corner, behind a gutter, or even throw the excess onto the roof where it's not so obvious.
 
 The final step is to start screwing in each bulb.  Starting from the start, plug in each bulb.  I had the wire connected while doing this so that I could ensure each bulb lit up as I installed it.  These bulbs don't really get that hot, so I didn't feel any risk of burning myself.
+
+{{<imgproc "/uploads/Outdoor-Patio-Lighting.jpg" Resize "1200x" >}}Outdoor Patio Lights{{</imgproc>}} 
 
 This is the final product.  It looks so cool, and I am looking forward to spending time on my outdoor patio this summer with friends and family, while drinking those Moscow Mules.
