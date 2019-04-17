@@ -56,6 +56,6 @@ If by the time you get to your last hook, you still have wire left over, then bu
 
 The final step is to start screwing in each bulb.  Starting from the start, plug in each bulb.  I had the wire connected while doing this so that I could ensure each bulb lit up as I installed it.  These bulbs don't really get that hot, so I didn't feel any risk of burning myself.
 
-{{<imgproc "/uploads/Outdoor-Patio-Lighting.jpg" Resize "1200x" >}}Outdoor Patio Lights{{</imgproc>}} 
+{{<imgproc "/uploads/Outdoor-Patio-Lights.JPG" Resize "1200x" >}}Outdoor Patio Lights{{</imgproc>}} 
 
 This is the final product.  It looks so cool, and I am looking forward to spending time on my outdoor patio this summer with friends and family, while drinking those Moscow Mules.
