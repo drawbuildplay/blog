@@ -2,11 +2,19 @@
 categories = ["home-decor", "smart-home"]
 date = "2019-04-17T00:00:00-04:00"
 description = "Installing outdoor patio lights creates a nice summer vibe to your outdoor patio. Patio Lighting sets the mood for you to enjoy your outdoor patio well after the sun goes down."
-pins = []
 title = "DIY Outdoor Patio Lights"
 [images]
 name = "Patio Lighting"
 src = "/uploads/Outdoor-Patio-Lighting.JPG"
+[[pins]]
+pin_description = "Step by step how to guide on mounting your own patio lighting to help you entertain your guests on those fun summer evenings. #outdoorpatio #patio #patiolighting #outdoorpatiolighting #stringlights #patiolights"
+pin_image = "/uploads/how-to-mount-patio-lights.png"
+[[pins]]
+pin_description = "DIY instructions on how to install outdoor patio lights on your outdoor patio or deck so that you can entertain your guests or chill out with some wine while you enjoy that summer sun. #outdoorpatio #patio #patiolighting #outdoorpatiolighting #stringlights #patiolights"
+pin_image = "/uploads/how-to-install-outdoor-patio-lights.png"
+[[pins]]
+pin_description = "DIY outdoor patio lighting instructions for your patio or deck so that you can entertain your guests or chill out with a cold drink while you enjoy that summer sun with friends and family. #outdoorpatio #patio #patiolighting #outdoorpatiolighting #stringlights #patiolights"
+pin_image = "/uploads/DIY Outdoor Patio Lighting.png"
 
 +++
 As we gear up for the spring/summer season, I decided to add a touch of lighting to our outdoor patio/deck with some beautiful outdoor patio lights.  These patio lighting are super simple to install.
