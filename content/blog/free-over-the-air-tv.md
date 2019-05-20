@@ -1,7 +1,7 @@
 +++
 categories = ["smart-home"]
 date = "2018-12-19"
-description = "Watch TV for free without cable with an Apple TV, HDHomeRun, and over the air broadcasts. Stop spending hundreds of $$$ on cable. We stopped paying them back in 2015 by combining free over the air live TV with Netflix.  Learn how you can do this too."
+description = "Watch TV for free without cable with an Apple TV, HDHomeRun, and over the air broadcasts. Stop spending hundreds of $$$ on cable. We stopped paying them back in 2015 by combining free over the air live antenna TV with Netflix.  Learn how you can do this too."
 title = "Watch TV for Free without cable"
 [images]
 name = "Watch TV for free with an HDHomeRun and an Apple TV"
