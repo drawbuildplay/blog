@@ -1,11 +1,14 @@
 +++
 categories = ["home-decor"]
 date = "2019-01-15"
-description = "DIY Farmhouse Washer Dryer Decor Makeover, with Wooden Countertops and Beadboard walls."
+description = "DIY Rustic Farmhouse Laundry Room Makeover, with Wooden Countertops and Bead Board walls."
 title = "Laundry Room Makeover"
 [images]
 name = "Laundry Room Makeover"
 src = "/uploads/laundry_room_makeover_cover.png"
+[[pins]]
+pin_description = "Rustic Laundry Room Ideas - This rustic laundry room makeover brings a farmhouse vibe to your laundry.  Dress up your front loading washer dryer combo with the rustic look of dated wooden countertops."
+pin_image = "/uploads/laundry-room-ideas-rustic.png"
 [[pins]]
 pin_description = "Best washer and dryer makeover with that built in look.  Easy DIY project to makeover your washer and dryer room decor with a beautiful farmhouse washer dryer counter and plenty of washer dryer storage. Save this pin to your washer dryer ideas board today! #washerdryer #laundry #washerdryercounter"
 pin_image = "/uploads/Washer-Dryer-Makeover.png"
