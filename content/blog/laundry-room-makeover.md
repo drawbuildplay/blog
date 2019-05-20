@@ -7,6 +7,9 @@ title = "Laundry Room Makeover"
 name = "Laundry Room Makeover"
 src = "/uploads/laundry_room_makeover_cover.png"
 [[pins]]
+pin_description = "Hidden Laundry room in an upstairs closet, made over with a DIY farmhouse laundry room makeover."
+pin_image = "/uploads/hidden-laundry-room.png"
+[[pins]]
 pin_description = "Rustic Laundry Room Ideas - This rustic laundry room makeover brings a farmhouse vibe to your laundry.  Dress up your front loading washer dryer combo with the rustic look of dated wooden countertops."
 pin_image = "/uploads/laundry-room-ideas-rustic.png"
 [[pins]]
@@ -20,7 +23,9 @@ pin_description = "DIY Laundry Room with a Farmhouse Style and a Distressed Wood
 pin_image = "/uploads/pinterest-laundry-room-makeover.png"
 
 +++
-Hi DIYers.  Welcome to my latest post on DIY projects.  This is one of the first projects I ever completed at home and inspired me to do many more since then.  Our home came equipped with two locations for the laundry room.  The standard one was downstairs behind the kitchen in what I consider to be a massively oversized room for a laundry.  But, we also asked the builder to equip one of the closets upstairs to be a laundry room, which he happily obliged.  We wanted our laundry to be upstairs, and the smaller closet location really made a lot of sense to us, since we dont really get the need for having oversized laundry rooms.  _I'll post later on what we did in what was supposed to be the downstairs laundry._
+Hi DIYers.  Welcome to my latest post on DIY projects.  This is one of the first projects I ever completed at home and inspired me to do many more since then.  Our home came equipped with two locations for the laundry room.  The standard one was downstairs behind the kitchen in what I consider to be a massively oversized room for a laundry.  But, we also asked the builder to equip one of the closets upstairs to be a laundry room, which he happily obliged.  We wanted our laundry to be upstairs, and the smaller closet location really made a lot of sense to us, since we dont really get the need for having oversized laundry rooms. This also gave us the added benefit of having a hidden laundry room, hiding in an upstairs closet.
+
+_I will post later on what we did in what was supposed to be the downstairs laundry._
 
 Here is what the washer and dryer room looked like before the makeover:
 
@@ -50,3 +55,5 @@ And now for the big reveal!
 {{<imgproc "/uploads/laundry_room_after.png" Resize "600x" >}}Laundry Room Makeover{{</imgproc>}}
 
 The laundry room is not fully complete yet (are any of our projects truly ever complete?).  Next we will be adding a shelf next to the cupboard there, which I plan to do as one of my upcoming projects (stay tuned). Probably a floating shelf or maybe pipes holding the shelf up.  Stay tuned for that update.  Also need to get some farmhouse signage that would look great in here.
+
+I am also contemplating the idea of if we should keep our laundry room hidden.  An option I am thinking about is replacing the doors with a farmhouse look with an opaque glass panel with lettering on it.  Not sure yet, since I also like how the laundry room is currently hidden.
