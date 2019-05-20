@@ -7,6 +7,9 @@ title = "DIY Under Cabinet Lighting"
 name = "DIY Under Cabinet Lighting for less than $30"
 src = "/uploads/under_cabinet_lighting.png"
 [[pins]]
+pin_description = "Cabinet Decor Lighting that levels up your cabinet decor by providing much needed accent lighting to your kitchen or bar area.  This easy DIY guides you on how to install your own cabinet decor lighting at an affordable cost. "
+pin_image = "/uploads/cabinet-decor.png"
+[[pins]]
 pin_description = "Kitchen Cabinet Lighting Idea that is so simple to install yourself.  Why pay someone to do this when you will have this done yourself in 15 minutes.  This cabinet lighting works great both inside and under the cabinets. #cabinetlighting #lighting #cabinets #undercabinet #undercabinetlighting #diycabinetlighting #counterlighting"
 pin_image = "/uploads/kitchen-cabinet-lighting-ideas.png"
 [[pins]]
