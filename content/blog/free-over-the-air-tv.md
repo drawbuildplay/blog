@@ -7,13 +7,19 @@ title = "Watch TV for Free without cable"
 name = "Watch TV for free with an HDHomeRun and an Apple TV"
 src = "/uploads/hdhomerun.jpg"
 [[pins]]
+pin_description = "Watch free antenna TV on your Apple TV, iPhone, iPad, or Android Device with a great TV guide with all your favorite TV shows available on your antenna TV channels. Get rid of cable right now and join the masses that are cutting the cord.  #appletv #freetv #cutthecord #nomorecable #watchtvforfree #getridofcomcast #getridofcable"
+pin_image = "/uploads/antenna-tv.png"
+[[pins]]
+pin_description = "No Cable TV guide for your Apple TV to make it easier to get rid of cable and watch antenna tv with an easy to use TV guide.\n#appletv #freetv #cutthecord #nomorecable #watchtvforfree #getridofcomcast #getridofcable"
+pin_image = "/uploads/no-cable-tv-guide.png"
+[[pins]]
 pin_description = "Watch TV for free with an Apple TV, HDHomeRun, and over the air broadcasts. STOP paying hundreds for cable! Learn how to do this easily.  #appletv #freetv #cutthecord #nomorecable #watchtvforfree #getridofcomcast #getridofcable"
 pin_image = "/uploads/watchfreetv.png"
 [[pins]]
-pin_description = "Watch TV for free with an Apple TV, HDHomeRun, and over the air broadcasts. STOP paying hundreds for cable! Learn how to do this easily.  #appletv #freetv #cutthecord #nomorecable #watchtvforfree #getridofcomcast #getridofcable"
+pin_description = "How to watch live TV for free with just an Apple TV, HDHomeRun, and free over the air broadcasts. STOP paying hundreds for cable every month! Learn how to do this easily and legally.  #appletv #freetv #cutthecord #nomorecable #watchtvforfree #getridofcomcast #getridofcable"
 pin_image = "/uploads/watch_live_tv.png"
 [[pins]]
-pin_description = "Watch TV for free with an Apple TV, HDHomeRun, and over the air broadcasts. STOP paying hundreds for cable! Learn how to do this easily.  #appletv #freetv #cutthecord #nomorecable #watchtvforfree #getridofcomcast #getridofcable"
+pin_description = "Ditch Cable, and learn how to watch TV for free with an Apple TV, HDHomeRun, and free over the air broadcasts. STOP paying hundreds for cable! Learn how to watch tv without cable easily with our free easy DIY guide.  #appletv #freetv #cutthecord #nomorecable #watchtvforfree #getridofcomcast #getridofcable"
 pin_image = "/uploads/ditchcable.png"
 
 +++
