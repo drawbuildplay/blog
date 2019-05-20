@@ -1,17 +1,17 @@
 +++
 categories = ["home decor"]
 date = "2019-02-22T00:00:00-05:00"
-description = "Installing DIY outdoor landscape lighting around your home is simpler than you think.  DIY your outdoor landscape lighting today in 6 simple steps.  My home setup cost less than $500 all up, compared to professional installers who charge about $2,000 - $3,000 for a similar installation. "
+description = "Installing DIY decorative outdoor lighting around your home is simpler than you think.  DIY your outdoor landscape lighting today in 6 simple steps for your front yard or back yard.  My home setup cost less than $500 all up, compared to professional installers who charge about $2,000 - $3,000 for a similar installation. "
 title = "DIY Outdoor Landscape Lighting"
 [images]
 name = "DIY Outdoor Landscape Lighting"
 src = "/uploads/outdoor_lighting.jpeg"
 [[pins]]
-pin_description = "DIY Outdoor Landscape Lighting in 6 simple steps is so easy and cheap to do. Landscape Lighting that will be the envy of your neighbors. #diy #landscapelighting #outdoorlighting #outdoorliving #lighting #frontyardappeal #curbappeal"
-pin_image = "/uploads/savemoneyonoutdoorlighting.png"
+pin_description = "Decorative Outdoor Lighting that looks great during the day, and shines even greater at night.  This decorative outdoor lighting will accent your house and vastly improve your curb appeal in the evening."
+pin_image = "/uploads/decorative-outdoor-lighting.png"
 [[pins]]
-pin_description = "DIY Outdoor Landscape Lighting in 6 simple steps is so easy and cheap to do. Landscape Lighting that will be the envy of your neighbors. #diy #landscapelighting #outdoorlighting #outdoorliving #lighting #frontyardappeal #curbappeal"
-pin_image = "/uploads/DIYLighting.png"
+pin_description = "DIY Lights in backyard to brighten up your backyard features.  Install these lights in your backyard under a tree, along the fence line, or against accent pillars along your house to increase your curb appeal."
+pin_image = "/uploads/lights-in-backyard.png"
 [[pins]]
 pin_description = "DIY Outdoor Landscape Lighting in 6 simple steps is so easy and cheap to do. Landscape Lighting that will be the envy of your neighbors. #diy #landscapelighting #outdoorlighting #outdoorliving #lighting #frontyardappeal #curbappeal"
 pin_image = "/uploads/DIY Landscape Lighting in 6 Simple Steps.png"
