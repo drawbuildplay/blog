@@ -1,7 +1,7 @@
 +++
 categories = ["home-decor"]
 date = "2018-12-20"
-description = "How to install your own gorgeous DIY Under Cabinet Lighting in the kitchen for less than $30."
+description = "How to install your own gorgeous DIY Under Cabinet Lighting decor in your kitchen for less than $30."
 title = "DIY Under Cabinet Lighting"
 [images]
 name = "DIY Under Cabinet Lighting for less than $30"
