@@ -58,6 +58,7 @@ fields:
   config:
     labelField: pin_description
 pages:
+- content/blog/how-much-content-should-i-be-pinning.md
 - content/blog/diy-outdoor-lighting.md
 - content/blog/laundry-room-makeover.md
 - content/blog/diy-under-cabinet-lighting.md
