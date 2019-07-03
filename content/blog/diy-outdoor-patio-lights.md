@@ -1,5 +1,6 @@
 +++
 categories = ["home-decor", "smart-home"]
+keywords = ["garden", "smart home", "patio", "decor"]
 date = "2019-04-17T00:00:00-04:00"
 description = "Installing outdoor patio lights creates a nice summer vibe to your outdoor patio. Patio Lighting sets the mood for you to enjoy your outdoor patio well after the sun goes down."
 title = "DIY Outdoor Patio Lights"

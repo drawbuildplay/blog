@@ -1,5 +1,6 @@
 +++
 categories = ["home-decor"]
+keywords = ["decor", "farmhouse", "kitchen", "laundry"]
 date = "2019-01-15"
 description = "DIY Rustic Farmhouse Hidden Laundry Room Makeover, with Wooden Countertops and Bead Board walls."
 title = "Laundry Room Makeover"

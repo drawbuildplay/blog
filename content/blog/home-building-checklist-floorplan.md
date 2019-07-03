@@ -1,5 +1,6 @@
 +++
 categories = ["home-building"]
+keywords = ["building", "smart home"]
 date = "2019-01-08"
 description = "Once you have found a location for your new home, the next step is to choose the floor plan that is best for you.  Read our free checklist on finding your perfect floor plan."
 title = "Home Building Checklist - Choosing a Floor Plan"

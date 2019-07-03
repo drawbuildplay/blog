@@ -1,5 +1,6 @@
 +++
 categories = ["home-decor"]
+keywords = ["decor", "bedroom", "farmhouse", "entry"]
 date = "2019-03-22T00:00:00-04:00"
 description = "I love this farmhouse entryway console table as the first thing you see when you enter our home.  Get this look and more below."
 title = "Farmhouse Entryway Console Table"

@@ -1,5 +1,6 @@
 +++
 categories = ["home-decor", "smart-home"]
+keywords = ["decor", "smart home", "kitchen", "bedroom", "organizer", "office"]
 date = "2019-04-02T00:00:00-04:00"
 description = "Installing a DIY Outlet in a drawer is an easy to do DIY to give you hidden outlets in your kitchen or bathroom for your hair dryer or USB devices."
 title = "DIY Outlet In Drawer"

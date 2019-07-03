@@ -1,5 +1,6 @@
 +++
 categories = ["home-decor"]
+keywords = ["organizer", "kitchen", "office", "bedroom", "decor"]
 date = "2019-03-26T00:00:00-04:00"
 description = "Do this easy DIY Drawer Organizer for your kitchen utensils, or really any drawer organization you want. Total cost of materials was less than $11."
 title = "DIY Drawer Organizer"

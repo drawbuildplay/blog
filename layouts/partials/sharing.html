@@ -4,7 +4,7 @@
 {{ $body := print .Title " - " .Params.description }}
 {{ $pins := .Params.pins }}
 
-    {{ if $pins }}
+{{ if $pins }}
     {{ with $data.social }}
     <section id="sharing" class="panelShare">
         <div class="box">
@@ -43,7 +43,40 @@
 
     </section>
     {{ end }}
-    {{ end }}
+{{ end }}
 
+{{ $related := .Site.Pages.Related . | first 6 }}
+{{ with $related }}
+<h2>Read These Next</h2>
+<p><i>If you loved the post above, please pin it to your boards.  Then check out some of our other related DIY projects below.</i></p>
+
+<div class="card-columns relatedArticles">
+    {{ range . }}
+    <div class="card">
+        <a href="{{ .Permalink }}">
+            {{ $imageResources := .Site.GetPage "/uploads" }}
+            {{ with .Params.images }}
+                {{ $imageName := .name }}
+                
+                {{ if not (eq .src "") }}
+                    {{ $imgToFind := strings.TrimPrefix "/uploads/" .src }}
+                    {{ $imageResource := $imageResources.Resources.GetMatch ($imgToFind) }}
+                    {{ $resized := $imageResource.Resize "x400" }}
+
+                    <img class="card-img-top" data-pin-nopin="true" src="{{ $resized.Permalink }}" alt="{{ $imageName }}">
+                {{ end }}
+            {{ end }}
+        </a>  
+        <div class="card-body">
+          <h5 class="card-title"><a href="{{ .Permalink }}">{{ .Title }}</a></h5>
+        </div>
+        <div class="card-footer">
+          <small class="text-muted"></small>
+        </div>
+    </div>
+    {{ end }}
+</div>
+
+{{ end }}
 
 

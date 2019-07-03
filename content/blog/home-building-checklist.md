@@ -1,5 +1,6 @@
 +++
 categories = ["home-building"]
+keywords = ["building", "smart home", "garden"]
 date = "2019-01-02T19:50:00-05:00"
 description = "Congrats on deciding to build your new home. There are many items to consider to find and build your dream home.  Go through my home building checklist for building a new house to help you get into your dream home."
 title = "50 Awesome Hacks for Building a new home"

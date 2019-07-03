@@ -1,5 +1,6 @@
 +++
 categories = ["home-decor"]
+keywords = ["farmhouse", "decor", "kitchen", "bedroom", "office"]
 date = "2019-03-25T00:00:00-04:00"
 description = "Get farmhouse decor in your living room with a beautifully decorated farmhouse ladder shelf that incorporates hygge warmth."
 title = "Farmhouse Ladder Shelf Decor"

@@ -1,5 +1,6 @@
 +++
 categories = ["home-building"]
+keywords = ["building"]
 date = "2019-04-09T00:00:00-04:00"
 description = "60 Building a Home Tips for the Final Builder Walkthrough to help you build a dream home without the drama."
 title = "Building a Home Tips for the Final Walkthrough"

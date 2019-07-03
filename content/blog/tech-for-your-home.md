@@ -1,5 +1,6 @@
 +++
 categories = ["smart-home"]
+keywords = ["smart home", "security", "decor"]
 date = "2019-04-03T00:00:00-04:00"
 description = "10 Awesome and Affordable Smart Home Tech Gadgets for your home"
 title = "10 Best Smart Home Tech for your home"

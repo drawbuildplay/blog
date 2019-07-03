@@ -1,5 +1,6 @@
 +++
 categories = ["home-building"]
+keywords = ["garden", "patio"]
 date = "2019-04-12T00:00:00-04:00"
 description = "Atlanta blogger shares his newly constructed backyard privacy fence using 6x6 wood posts.  A solid backyard privacy fence not only looks great, but gives the kids a safe area to play in, and sets the stage for further DIY backyard improvements."
 title = "Backyard Privacy Fence"

@@ -1,5 +1,6 @@
 +++
 categories = ["smart-home"]
+keywords = ["smart home", "kitchen", "office", "bedroom", "building"]
 date = "2019-03-28T00:00:00-04:00"
 description = "USB Outlets are great for keeping your outlets free while you are charging your phones and tablets.  Read our easy how to guide on how to install a USB outlet yourself in less than 10 minutes."
 title = "How to DIY install a USB outlet"

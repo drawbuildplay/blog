@@ -1,5 +1,6 @@
 +++
 categories = ["home-decor"]
+keywords = ["shelves", "decor", "office", "ikea", "organizer", "farmhouse"]
 date = "2019-03-21T00:00:00-04:00"
 description = "Enhance your Library Room (Home Office) with our easy to do DIY IKEA Shelf Idea, using the Billy BookCase Shelf Hack from IKEA."
 title = "DIY Built-In Shelves using Ikea Billy Bookcase Hack"

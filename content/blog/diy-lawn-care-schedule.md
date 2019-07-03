@@ -1,5 +1,6 @@
 +++
 categories = ["home decor"]
+keywords = ["garden", "patio"]
 date = "2019-03-18T00:00:00-04:00"
 description = "Whether you mow and treat your own lawn, or pay someone else to do it, it's important to follow a disciplined lawn care schedule. Read our healthy lawn care tips below on what to do when to get a perfect lawn that is weed free and green."
 title = "Secret DIY Tips to get a Greener Lawn"

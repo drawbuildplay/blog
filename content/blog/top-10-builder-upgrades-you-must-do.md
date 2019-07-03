@@ -1,5 +1,6 @@
 +++
 categories = ["home-building"]
+keywords = ["building", "decor", "bedroom", "living room", "smart home", "garden", "patio"]
 date = "2019-04-01T00:00:00-04:00"
 description = "When building a new home, there are many builder upgrades available. Some cost more than others and your budget will likely require to choose. Read below for my top 10 builder upgrades you should do, and a few builder upgrades to avoid when building your dream home."
 title = "Top 10 Builder Upgrades You Should Do"

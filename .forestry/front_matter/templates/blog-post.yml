@@ -26,6 +26,11 @@ fields:
   type: tag_list
   hidden: false
   default: ''
+- name: keywords
+  type: tag_list
+  default: []
+  label: Keywords
+  description: List of keywords to relate posts together
 - name: images
   label: Cover Image
   type: field_group
