@@ -16,7 +16,7 @@
                 {{ $imageResource := $imageResources.Resources.GetMatch (strings.TrimPrefix "/uploads/" .src ) }}
                 {{ $resized := $imageResource.Fill "600x400" }}
 
-                <img src="{{ $resized.Permalink }}" alt="{{ $imageName }}">
+                <img src="{{ $resized.Permalink }}" alt="{{ $imageName }}" data-pin-nopin="true">
             {{ end }}
 
         </a>    

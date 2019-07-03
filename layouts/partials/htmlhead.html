@@ -20,7 +20,7 @@
 		* as the event label. Setting the transport method to 'beacon' lets the hit be sent
 		* using 'navigator.sendBeacon' in browser that support it.
 		*/
-		$(function() {
+		(function() {
 		  $("a.tracked").click(function(e) {
 		    if (!ga.q) {
 		      var url = $(this).attr("href");
