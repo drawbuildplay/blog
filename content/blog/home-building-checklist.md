@@ -1,14 +1,14 @@
 +++
 categories = ["home-building"]
 date = "2019-01-02T19:50:00-05:00"
-description = "Congrats on deciding to build your new home. There are many items to consider to find and build your dream home.  Go through my home building checklist for building a new house to help you get into your dream home."
+description = "Congrats on deciding to build your new home. There are many items to consider to find and build your future dream home.  Go through my free tips and home building checklist for building a new house to help you get into your dream home."
 keywords = ["building", "smart home", "garden"]
 title = "50 Awesome Hacks for Building a new home"
 [images]
 name = "Free Home Building Checklist"
 src = "/uploads/home-building-checklist.png"
 [[pins]]
-pin_description = "50 things to know when planning your future home design. Review our future home building checklist before you start designing your new home to help you get into your perfect dream home. #futurehome #newhome #buildingguide #newconstruction #builder #dreamhome #homechecklist"
+pin_description = "50 things to know when planning your future home design. Review our future home design checklist before you start designing your new home to help you get into your perfect dream home. #futurehome #newhome #buildingguide #newconstruction #builder #dreamhome #homechecklist"
 pin_image = "/uploads/future-home-design.png"
 [[pins]]
 pin_description = "50 Tips and Tricks to know when building your new home. Read this building a house checklist before you start building your new home to help you get into your perfect dream home. Don't miss these critical items. #newhome #buildingguide #newconstruction #builder #dreamhome"
