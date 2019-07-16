@@ -11,7 +11,7 @@ src = "/uploads/under_cabinet_lighting.png"
 pin_description = "Installing lights under kitchen cabinets is so simple to install yourself.  LED cabinet lighting gives your kitchen an ambience that your friends will envy. Why pay someone to do this when you will have this done yourself in 15 minutes.  Under kitchen cabinet lighting works great both inside and under the cabinets. #cabinetlighting #lighting #cabinets #undercabinet #undercabinetlighting #diycabinetlighting #counterlighting"
 pin_image = "/uploads/lights-under-kitchen-cabinets.png"
 [[pins]]
-pin_description = "Cabinet Decor Lighting that levels up your cabinet decor by providing much needed accent lighting to your kitchen or bar area.  This easy DIY guides you on how to install your own cabinet decor lighting at an affordable cost. "
+pin_description = "Easy Under Cabinet Decor Lighting that levels up your cabinet decor by providing much needed accent lighting to your kitchen or bar area.  This easy DIY guides you on how to install your own easy cabinet lighting at an affordable cost, saving you time and money."
 pin_image = "/uploads/cabinet-decor.png"
 [[pins]]
 pin_description = "Kitchen Cabinet Lighting Idea that is so simple to install yourself.  Why pay someone to do this when you will have this done yourself in 15 minutes.  This cabinet lighting works great both inside and under the cabinets. #cabinetlighting #lighting #cabinets #undercabinet #undercabinetlighting #diycabinetlighting #counterlighting"
