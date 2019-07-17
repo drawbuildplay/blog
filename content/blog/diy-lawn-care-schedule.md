@@ -1,12 +1,15 @@
 +++
 categories = ["home decor"]
-keywords = ["garden", "patio"]
 date = "2019-03-18T00:00:00-04:00"
 description = "Whether you mow and treat your own lawn, or pay someone else to do it, it's important to follow a disciplined lawn care schedule. Read our healthy lawn care tips below on what to do when to get a perfect lawn that is weed free and green."
+keywords = ["garden", "patio"]
 title = "Secret DIY Tips to get a Greener Lawn"
 [images]
 name = "Lawn Care Tips and Schedule"
 src = "/uploads/lawn.jpg"
+[[pins]]
+pin_description = "Do you want a greener lawn this summer?  Then save our free Lawn Fertilizer Schedule and enjoy a weed free, beautiful lawn. #lawnfertilizerschedule #greenerlawn #beautifullawn #lawncare #weeds #grass"
+pin_image = "/uploads/lawn-fertilizer-schedule.png"
 [[pins]]
 pin_description = "The secret to get a perfect lawn this summer with our free lawn tips and tricks. Free Lawn Care Schedule for a weed free perfect green lawn. #lawncare #weeds #grass"
 pin_image = "/uploads/lawncaresecrets.png"
