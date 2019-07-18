@@ -8,6 +8,9 @@ title = "DIY Herb Garden Planter Box"
 name = "DIY Herb Garden Planter Box"
 src = "/uploads/DIY Herb Garden Planter Box-1.png"
 [[pins]]
+pin_description = "Garden windows are really cool and convenient.  Read our DIY guide for building your own window garden planter box, and then hang this garden window planter box outside your window for easy access to your all your favorite herbs. #planterbox #gardenwindow #window #herbs #vegetablegarden #diyvegetableplanter"
+pin_image = "/uploads/garden-windows.png"
+[[pins]]
 pin_description = "Build your own DIY Vegetable Planter for your vegetable or herb garden.  Our vegetable planter box design is easy to build and looks great.  Hang the vegetable planter over the side of a deck rail, or below a window sill.  Build a larger version for your larger vegetables.  Pin this easy DIY now so you can enjoy fresh veggies all summer long. #vegetableplanter #planter #planterbox #diy #garden #vegetablegarden"
 pin_image = "/uploads/diy-vegetable-planter.png"
 [[pins]]
@@ -23,11 +26,11 @@ pin_image = "/uploads/DIY Herb Garden Planter Box-2.png"
 +++
 As the temperatures start to warm up, it's time to start thinking about the growing season.  We love to cook at our home, and a fresh batch of herbs on hand is always a life saver.  Not to mention we love the smell of fresh herbs around us.
 
-We wanted to have something close to the kitchen so that we could walk out and grab a handful of Thyme or Rosemary whenever we needed.  Ideally ours would have been against a window sill, but our kitchen isn't ideally situated for that.  So instead, we decided to hang a long planter box over our deck railing.
+We wanted to have something close to the kitchen so that we could walk out and grab a handful of Thyme or Rosemary whenever we needed.  Ideally ours would have been against a window sill, but our kitchen isn't ideally situated for that.  So instead, we decided to hang a long planter box over our deck railing.  If you have a window sill you can just as easily hang this design from there too.
 
 This cedar planter box was super easy to build.  I used cedar for the box since my research showed it was one of the best options for outside weather conditions.  Plus I love the look and smell of cedar (yeah I may be weird).
 
-I also stained my planter box using Sherwin Williams SW3518 Hawthorne, which is the same color as our deck stain.  
+I also stained my planter box using Sherwin Williams SW3518 Hawthorne, which is the same color as our deck stain.  If hanging from a window, you may prefer to paint it white or give it a white washed stain for a more farmhouse vibe.
 
 For this project, you will need to decide how long you want your planter box to be.  Ours is pretty long, but I wanted it to be the same length as our deck rail on that edge.  Your's will probably be shorter.  My planter box ended up being 50" long, 9" wide, and 7" high.  I purchased cedar which was 7" x 3/4 inches, and then cut it to three lengths of 7" x 50" (bottom, front, and back), and two lengths of 7" x 9" (two ends).
 
@@ -47,7 +50,7 @@ Once you have mounted the brackets on your deck railing, hang your planter box o
 
 Now for the best part.  Plant your herbs and water well.
 
-{{<imgproc "/uploads/PlanterHerbs.png" Resize "1200x" >}}DIY Herb Garden Planter Box{{</imgproc>}} 
+{{<imgproc "/uploads/PlanterHerbs.png" Resize "1200x" >}}DIY Herb Garden Planter Box{{</imgproc>}}
 
 Pictured above, last year we planted (starting from the left):
 
