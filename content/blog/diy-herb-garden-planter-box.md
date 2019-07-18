@@ -1,12 +1,15 @@
 +++
 categories = ["home-decor"]
-keywords = ["decor", "garden", "patio"]
 date = "2019-03-23T00:00:00-04:00"
-description = "Its finally Spring, and that means it's time to get planting outside.  This DIY Herb Garden Planter Box is perfect for hanging over your Deck rails to grow your herbs, or even some spring flowers. "
+description = "Its finally Spring, and that means it's time to get planting outside.  This DIY Herb Garden Planter Box is perfect for hanging over your Deck rails to grow your herbs, or as a DIY vegetable planter box. "
+keywords = ["decor", "garden", "patio"]
 title = "DIY Herb Garden Planter Box"
 [images]
 name = "DIY Herb Garden Planter Box"
 src = "/uploads/DIY Herb Garden Planter Box-1.png"
+[[pins]]
+pin_description = "Build your own DIY Vegetable Planter for your vegetable or herb garden.  Our vegetable planter box design is easy to build and looks great.  Hang the vegetable planter over the side of a deck rail, or below a window sill.  Build a larger version for your larger vegetables.  Pin this easy DIY now so you can enjoy fresh veggies all summer long. #vegetableplanter #planter #planterbox #diy #garden #vegetablegarden"
+pin_image = "/uploads/diy-vegetable-planter.png"
 [[pins]]
 pin_description = "Grow herbs in our easy DIY Cedar Planter Box for your herb garden.  This is great to hang over your deck or by your kitchen windows.  Pin this easy DIY now so you can enjoy fresh herbs all summer long. #herbs #planter #planterbox #diy #herbgarden"
 pin_image = "/uploads/Build your own Planter Box (1).png"
