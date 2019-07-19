@@ -1,12 +1,15 @@
 +++
 categories = ["home-decor"]
-keywords = ["decor", "farmhouse", "kitchen", "laundry"]
 date = "2019-01-15"
-description = "DIY Rustic Farmhouse Hidden Laundry Room Makeover, with Wooden Countertops and Bead Board walls."
+description = "DIY Rustic Laundry Room Makeover, with Wooden Countertops and Bead Board walls. This elegant laundry room will make laundry a pleasure. Start this easy DIY laundry room remodel today."
+keywords = ["decor", "farmhouse", "kitchen", "laundry"]
 title = "Laundry Room Makeover"
 [images]
 name = "Laundry Room Makeover"
 src = "/uploads/laundry_room_makeover_cover.png"
+[[pins]]
+pin_description = "Elegant Laundry Room remodel for a small laundry room.  This elegant laundry room uses custom sanded wooden countertops with a white washed stain, and bead board panels on the walls to really introduce elegance to the laundry room. Follow our easy DIY laundry room guide for an easy DIY that looks elegant!  #elegantlaundryroom #laundryroom #laundryroomremodel #smalllaundryroom #laundryroomideas"
+pin_image = "/uploads/elegant-laundry-room.png"
 [[pins]]
 pin_description = "Hidden Laundry room in an upstairs closet, made over with a DIY farmhouse laundry room makeover."
 pin_image = "/uploads/hidden-laundry-room.png"
@@ -28,7 +31,7 @@ Hi DIYers.  Welcome to my latest post on DIY projects.  This is one of the first
 
 _I will post later on what we did in what was supposed to be the downstairs laundry._
 
-Here is what the washer and dryer room looked like before the makeover:
+Here is what the laundry room looked like before the remodel:
 
 {{<imgproc "/uploads/laundry_room_before.png" Resize "600x" >}}Laundry Room Before the Makeover{{</imgproc>}}
 
