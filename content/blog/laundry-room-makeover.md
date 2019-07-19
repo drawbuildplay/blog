@@ -2,11 +2,14 @@
 categories = ["home-decor"]
 date = "2019-01-15"
 description = "DIY Rustic Laundry Room Makeover, with Wooden Countertops and Bead Board walls. This elegant laundry room will make laundry a pleasure. Start this easy DIY laundry room remodel today."
-keywords = ["decor", "farmhouse", "kitchen", "laundry"]
+keywords = ["farmhouse", "kitchen", "laundry", "decor"]
 title = "Laundry Room Makeover"
 [images]
 name = "Laundry Room Makeover"
 src = "/uploads/laundry_room_makeover_cover.png"
+[[pins]]
+pin_description = "This easy laundry room remodel project will leave your laundry room looking elegant and homely, with the rustic farmhouse look.  The warmth of the distressed wooden bench over the washer dryer offers a nice countertop as a workspace.  The panelling on the walls provides an elegant finishing touch to the laundry room remodel.  This was one of the first projects I tackled and was super easy to do.  Read more to get this guide. #laundryroomremodel #laundryroom #smalllaundryroom #elegantlaundryroom #farmhouse #rustic"
+pin_image = "/uploads/laundry-room-remodel.png"
 [[pins]]
 pin_description = "Elegant Laundry Room remodel for a small laundry room.  This elegant laundry room uses custom sanded wooden countertops with a white washed stain, and bead board panels on the walls to really introduce elegance to the laundry room. Follow our easy DIY laundry room guide for an easy DIY that looks elegant!  #elegantlaundryroom #laundryroom #laundryroomremodel #smalllaundryroom #laundryroomideas"
 pin_image = "/uploads/elegant-laundry-room.png"
