@@ -1,8 +1,8 @@
 +++
 categories = ["home-decor"]
-keywords = ["farmhouse", "decor", "kitchen", "bedroom", "office"]
 date = "2019-03-25T00:00:00-04:00"
-description = "Get farmhouse decor in your living room with a beautifully decorated farmhouse ladder shelf that incorporates hygge warmth."
+description = "Get farmhouse decor in your living room with a beautifully decorated farm house shelf. This Farm house shelf incorporates elements of Hygge for warmth. Use it as a blanket ladder, or decorate it with your favorite farm house shelf decor items."
+keywords = ["farmhouse", "decor", "kitchen", "bedroom", "office"]
 title = "Farmhouse Ladder Shelf Decor"
 [images]
 name = "Farmhouse Ladder Shelf Decor"
@@ -11,7 +11,7 @@ src = "/uploads/farmhouse-ladder-decor.JPG"
 pin_description = "Get the farmhouse look in your living room with a beautifully decorated farmhouse ladder shelf that incorporates hygge warmth. #farmhouse #ladder-decor #hygge #leaning-shelf"
 pin_image = "/uploads/Ladder Shelf Decor.png"
 [[pins]]
-pin_description = "This Ladder Shelf Decor (Leaning Shelf) incorporates elements of Hygge for warmth. #farmhouse #ladder-decor #hygge #leaning-shelf"
+pin_description = "This Farm house Shelf Decor incorporates elements of Hygge for warmth. Use it as a blanket ladder, or decorate it with your favorite farm house shelf decor items. #farmhouse #shelfdecor  #ladderdecor #blanketladder #farmhouseshelfdecor #leaningshelf"
 pin_image = "/uploads/Farmhouse Ladder Shelf.png"
 [[pins]]
 pin_description = "Get this Farmhouse Ladder Decor Style that incorporates elements of Hygge for your living room. #farmhouse #ladder-decor #hygge #leaning-shelf #livingroom"
