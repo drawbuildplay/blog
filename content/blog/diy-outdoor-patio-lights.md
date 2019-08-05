@@ -1,12 +1,15 @@
 +++
 categories = ["home-decor", "smart-home"]
-keywords = ["garden", "smart home", "patio", "decor"]
 date = "2019-04-17T00:00:00-04:00"
 description = "Installing outdoor patio lights creates a nice summer vibe to your outdoor patio. Patio Lighting sets the mood for you to enjoy your outdoor patio well after the sun goes down."
+keywords = ["garden", "smart home", "patio", "decor"]
 title = "DIY Outdoor Patio Lights"
 [images]
 name = "Patio Lighting"
 src = "/uploads/Outdoor-Patio-Lighting.JPG"
+[[pins]]
+pin_description = "Outdoor party lights ideas for your summer entertaining.  Whether you enjoy entertaining outdoors in the spring, summer, fall, or winter, this easy DIY outdoor party lights idea will get your party going. #outdoorparty #partylighting #patio #patiolighting #outdoorpartylights #outdoorpatiolighting #stringlights #patiolights #outdoorlights"
+pin_image = "/uploads/outdoor-party-lights-ideas.png"
 [[pins]]
 pin_description = "Step by step how to guide on mounting your own patio lighting to help you entertain your guests on those fun summer evenings. #outdoorpatio #patio #patiolighting #outdoorpatiolighting #stringlights #patiolights"
 pin_image = "/uploads/how-to-mount-patio-lights.png"
