@@ -1,12 +1,18 @@
 +++
 categories = ["home decor"]
-keywords = ["garden", "patio", "smart home", "decor"]
 date = "2019-02-22T00:00:00-05:00"
-description = "Installing DIY decorative outdoor lighting around your home is simpler than you think.  DIY your outdoor landscape lighting today in 6 simple steps for your front yard or back yard.  My home setup cost less than $500 all up, compared to professional installers who charge about $2,000 - $3,000 for a similar installation. "
+description = "Installing DIY decorative outdoor lighting around your home is simpler than you think.  DIY your outdoor landscaping idea and have outdoor lighting today in 6 simple steps for your front yard or back yard.  My home setup cost less than $500 all up, compared to professional installers who charge about $2,000 - $3,000 for a similar installation. "
+keywords = ["garden", "patio", "smart home", "decor"]
 title = "DIY Outdoor Landscape Lighting"
 [images]
 name = "DIY Outdoor Landscape Lighting"
 src = "/uploads/outdoor_lighting.jpeg"
+[[pins]]
+pin_description = "Curb Appeal Ideas DIY to have a gorgeous front or back yard.  Our essential curb appeal DIY guide will be the greatest landscaping idea you find and is ridiculously affordable and easy to do yourself. Enjoy the best easy curb appeal in your neighborhood with this beautiful landscape idea. #curbappeal #landscapingideas #gardenlighting #outdoorlighting #outsidelighting #landscaping  #diy #diylandscapingideas  "
+pin_image = "/uploads/easy-curb-appeal.png"
+[[pins]]
+pin_description = "Landscaping Ideas to get that gorgeous front or back yard.  Our garden lighting DIY guide will be the greatest landscaping idea you find and is ridiculously affordable and easy to do yourself. Our recommended outdoor garden lights will shine a light on the most beautiful features of your home and garden. #landscapingideas #gardenlighting #outdoorlighting #outsidelighting #landscaping #curbappeal #diy #diylandscapingideas  "
+pin_image = "/uploads/landscaping-ideas.png"
 [[pins]]
 pin_description = "Decorative Outdoor Lighting that looks great during the day, and shines even greater at night.  This decorative outdoor lighting will accent your house and vastly improve your curb appeal in the evening."
 pin_image = "/uploads/decorative-outdoor-lighting.png"

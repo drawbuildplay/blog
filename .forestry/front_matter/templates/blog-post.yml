@@ -63,13 +63,13 @@ fields:
   config:
     labelField: pin_description
 pages:
+- content/blog/diy-outdoor-lighting.md
 - content/blog/diy-outdoor-patio-lights.md
 - content/blog/backyard-privacy-fence.md
 - content/blog/building-a-home-tips-for-the-final-walkthrough.md
 - content/blog/how-to-install-a-usb-outlet.md
 - content/blog/farmhouse-ladder-shelf-decor.md
 - content/blog/diy-lawn-care-schedule.md
-- content/blog/diy-outdoor-lighting.md
 - content/blog/home-building-checklist-floorplan.md
 - content/blog/home-building-checklist-location.md
 - content/blog/laundry-room-makeover.md
