@@ -8,6 +8,9 @@ title = "DIY Outdoor Patio Lights"
 name = "Patio Lighting"
 src = "/uploads/Outdoor-Patio-Lighting.JPG"
 [[pins]]
+pin_description = "DIY Outdoor Decor for your patio.  Installing outside lights on house will level up your entertaining credentials!  Host your next outdoor party with outside lights on your house with this very easy DIY.  This simple DIY Outdoor decor can be completed in an afternoon.  Click to read more and install the outside lights this weekend! #diyoutdoordecor #outsidelightsonhouse #diy #patio #patiolighting #outdoorpartylights #outdoorpatiolighting #stringlights #patiolights #outsidelights"
+pin_image = "/uploads/diy-outdoor-decor.png"
+[[pins]]
 pin_description = "Outdoor party lights ideas for your summer entertaining.  Whether you enjoy entertaining outdoors in the spring, summer, fall, or winter, this easy DIY outdoor party lights idea will get your party going. #outdoorparty #partylighting #patio #patiolighting #outdoorpartylights #outdoorpatiolighting #stringlights #patiolights #outdoorlights"
 pin_image = "/uploads/outdoor-party-lights-ideas.png"
 [[pins]]
