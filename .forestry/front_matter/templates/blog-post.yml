@@ -63,6 +63,7 @@ fields:
   config:
     labelField: pin_description
 pages:
+- content/blog/top-10-builder-upgrades-you-must-do.md
 - content/blog/diy-outdoor-lighting.md
 - content/blog/diy-outdoor-patio-lights.md
 - content/blog/backyard-privacy-fence.md
@@ -77,7 +78,6 @@ pages:
 - content/blog/home-building-checklist.md
 - content/blog/diy-drawer-organizer.md
 - content/blog/diy-outlet-in-drawer.md
-- content/blog/top-10-builder-upgrades-you-must-do.md
 - content/blog/diy-built-in-shelves-using-ikea-billy-bookcase-hack.md
 - content/blog/how-to-cut-the-cord.md
 - content/blog/tech-for-your-home.md
