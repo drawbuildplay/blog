@@ -25,8 +25,8 @@ pattern = "2006"
 	description = "Useful tips and tricks for designing and building things yourself"
 
 [outputs]
-  home = ["HTML", "AMP", "RSS"]
-  page = ["HTML", "AMP"]
+  home = ["HTML", "RSS"]
+  page = ["HTML"]
 
 # Below parameters can be set to override default post settings
 [params.posts]

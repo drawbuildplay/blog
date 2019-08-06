@@ -1,5 +1,16 @@
 DrawBuildPlay blog (based on Hugo Static Site Generator)
 
+Cloning the repo
+-----------------
+
+Clone the repo
+
+```$ git pull github.com/drawbuildplay/blog.git```
+
+Clone the submodules
+
+```$ git submodule update --init ```
+
 Running Locally
 ----------------
 
