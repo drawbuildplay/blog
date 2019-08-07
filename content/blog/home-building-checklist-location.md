@@ -1,12 +1,24 @@
 +++
 categories = ["home-building"]
-keywords = ["building", "smart home", "patio", "garden"]
 date = "2019-01-04"
-description = "The first thing when scouting for a new home is choosing a location.  Whether you plan to buy a plot of land and use a custom architect/builder, or if you plan to go with one of the many neighborhoods built with existing plans by Pulte, DR Horton, or other large developers, the first step is to find a home in your desired location."
+description = "When building a new home, or buying a home, it is important to find your future dream home in the perfect location for you. Our free check list for your future home design - location will guide you through what you must consider when coming up with your building a home ideas.  Are you close to things you need?  What is important to you.  These questions will be answered in our free home buying checklist.  Continue reading to learn more."
+keywords = ["building", "smart home", "patio", "garden"]
 title = "Home Building Checklist - Choosing a Location"
 [images]
 name = "Free Home Building Checklist - Choosing a Location Checklist"
 src = "/uploads/home-building-location.png"
+[[pins]]
+pin_description = "When building a home or buying a home, it is critical you know how to pick a location for your future dream home.  Our free home checklist guides you through the most important qualities for choosing a location for your new construction home or future dream home. #futuredreamhome #buildinganewhome #futurehomedesign #newconstructionhome #homelocation #homechecklist"
+pin_image = "/uploads/building-a-home-ideas-location.png"
+[[pins]]
+pin_description = "When building a new home, you need to find the perfect location for your future dream home.  Our free checklist guides you through the most important qualities with a location for your new construction home or future home design. #futuredreamhome #buildinganewhome #futurehomedesign #newconstructionhome #homelocation #homechecklist"
+pin_image = "/uploads/building-a-new-home-perfect-location.png"
+[[pins]]
+pin_description = "When building a new home, it is critical you know how to pick a location for your future dream home.  Our free building a home checklist guides you through the most important qualities for picking a location for your new construction home or future home design. #futuredreamhome #buildinganewhome #futurehomedesign #newconstructionhome #homelocation #homechecklist"
+pin_image = "/uploads/building-a-new-home-pick-location.png"
+[[pins]]
+pin_description = "Your future dream home requires you to choose your perfect location.  Our free building a home checklist guides you through the essential features for finding your perfect location. #futuredreamhome #buildinganewhome #futurehomedesign #newconstructionhome #homelocation #homechecklist"
+pin_image = "/uploads/future-dream-home-location.png"
 [[pins]]
 pin_description = "Choosing a location for your new home, New House Location, Where to live, New Home Construction, Tips and Tricks for choosing where to live."
 pin_image = "/uploads/Choosing a location when buying a home.png"
