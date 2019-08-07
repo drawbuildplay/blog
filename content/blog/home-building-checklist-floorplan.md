@@ -9,8 +9,8 @@ is_pin_friendly = false
 name = "Free Home Building Checklist - Choosing a Floor Plan Checklist"
 src = "/uploads/choosing_a_floorplan.png"
 [[pins]]
-pin_description = ""
-pin_image = ""
+pin_description = "Your future home interior design needs a well thought out floor plan.  Get our free checklist and let us guide you through what to look for when designing your future home interior floor plan layout. #futurehome #buildingahome #newconstructionhome #floorplan #futurehomedesign #futurehomeinterior #fengshui #openplan #dreamhome"
+pin_image = "/uploads/future-home-interior.png"
 [[pins]]
 pin_description = "How to choose the right Floor Plan Designs, Open Plan Living, Bedroom on Main, Basement Layout, Elevation, Ceiling Height, Feng Shui, Vastu Shashtra, when designing your home with a new floor plan. Avoid these 7 mistakes when designing your floor plan."
 pin_image = "/uploads/avoid mistakes floorplan.png"
