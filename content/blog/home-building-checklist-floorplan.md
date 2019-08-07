@@ -1,13 +1,16 @@
 +++
 categories = ["home-building"]
-keywords = ["building", "smart home"]
 date = "2019-01-08"
-description = "Once you have found a location for your new home, the next step is to choose the floor plan that is best for you.  Read our free checklist on finding your perfect floor plan."
+description = "Designing the ideal floor plan for your future home interior is essential. Whether you are looking at your Living Room Feng Shui, or looking for a a well planned home layout for your new construction home, your building a home ideas needs to have a great future home design floor plan.  Get our free checklist on designing your perfect floor plan for your future dream home!"
+keywords = ["building", "smart home"]
 title = "Home Building Checklist - Choosing a Floor Plan"
 [images]
 is_pin_friendly = false
 name = "Free Home Building Checklist - Choosing a Floor Plan Checklist"
 src = "/uploads/choosing_a_floorplan.png"
+[[pins]]
+pin_description = ""
+pin_image = ""
 [[pins]]
 pin_description = "How to choose the right Floor Plan Designs, Open Plan Living, Bedroom on Main, Basement Layout, Elevation, Ceiling Height, Feng Shui, Vastu Shashtra, when designing your home with a new floor plan. Avoid these 7 mistakes when designing your floor plan."
 pin_image = "/uploads/avoid mistakes floorplan.png"
