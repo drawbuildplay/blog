@@ -1,12 +1,21 @@
 +++
 categories = ["home-building"]
-keywords = ["building"]
 date = "2019-04-09T00:00:00-04:00"
-description = "60 Building a Home Tips for the Final Builder Walkthrough to help you build a dream home without the drama."
+description = "60 Building a Home Ideas for the Final Builder Walkthrough to help you build a dream home without the drama. A new construction home gets you your dream home, but get in front of the nightmares by knowing what to look for before you close on your future home."
+keywords = ["building"]
 title = "Building a Home Tips for the Final Walkthrough"
 [images]
 name = "Home Building Warranty Checklist"
 src = "/uploads/building a home tips.png"
+[[pins]]
+pin_description = "Our home buying checklist is essential before closing on your new construction home so that the builder can remedy any problems before it's too late. Don't move into a new home full of issues.  Our free home buying checklist will guide you on what to check and raise with your builder so you can move into your dream home stress free.  #homebuyingchecklist #newconstructionhome #buildingahome #buildingahomeideas #homechecklist #builderissues #finalwalkthrough"
+pin_image = "/uploads/home-buying-checklist.png"
+[[pins]]
+pin_description = "Don't move into a lemon of a house.  Check out our comprehensive list of future home interior issues for your new construction home.  Our free checklist gives you confidence before you close to ensure your builder resolves these issues. #futurehomeinterior #newconstructionhome #buildingahome #buildingahomeideas #homechecklist #builderissues #finalwalkthrough"
+pin_image = "/uploads/future-home-interior-issues.png"
+[[pins]]
+pin_description = "Check out our 60 common builder issues to look for on a new construction home.  Our free checklist gives you confidence before you close to ensure your builder resolves these issues. #newconstructionhome #buildingahome #buildingahomeideas #homechecklist #builderissues #finalwalkthrough"
+pin_image = "/uploads/new-construction-home.png"
 [[pins]]
 pin_description = "Catch these common builder mistakes with our free checklist before you close on your home. Our building tips will give you a list of things to check for your final walkthrough."
 pin_image = "/uploads/common builder mistakes.png"

@@ -63,6 +63,7 @@ fields:
   config:
     labelField: pin_description
 pages:
+- content/blog/building-a-home-tips-for-the-final-walkthrough.md
 - content/blog/home-building-checklist-floorplan.md
 - content/blog/farmhouse-entryway-console-table.md
 - content/blog/diy-herb-garden-planter-box.md
@@ -82,7 +83,6 @@ pages:
 - content/blog/diy-lawn-care-schedule.md
 - content/blog/farmhouse-ladder-shelf-decor.md
 - content/blog/how-to-install-a-usb-outlet.md
-- content/blog/building-a-home-tips-for-the-final-walkthrough.md
 - content/blog/backyard-privacy-fence.md
 - content/blog/top-10-builder-upgrades-you-must-do.md
 - content/blog/diy-outdoor-lighting.md
