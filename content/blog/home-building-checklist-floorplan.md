@@ -9,6 +9,9 @@ is_pin_friendly = false
 name = "Free Home Building Checklist - Choosing a Floor Plan Checklist"
 src = "/uploads/choosing_a_floorplan.png"
 [[pins]]
+pin_description = "Consider Feng Shui for your future home interior design.  When designing the interior layout of your new construction home, designing good room Feng Shui goes a long way to ensure a natural and practical flow in your home, as well as encouraging peaceful energies. #fengshui #roomfengshui #livingroomfengshui #futurehome #buildingahome #newconstructionhome #floorplan #futurehomedesign #futurehomeinterior #openplan #dreamhome"
+pin_image = "/uploads/feng-shui.png"
+[[pins]]
 pin_description = "Your future home interior design needs a well thought out floor plan.  Get our free checklist and let us guide you through what to look for when designing your future home interior floor plan layout. #futurehome #buildingahome #newconstructionhome #floorplan #futurehomedesign #futurehomeinterior #fengshui #openplan #dreamhome"
 pin_image = "/uploads/future-home-interior.png"
 [[pins]]
