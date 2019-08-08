@@ -1,12 +1,18 @@
 +++
 categories = ["home-decor"]
 date = "2019-03-25T00:00:00-04:00"
-description = "Get farmhouse decor in your living room with a beautifully decorated farm house shelf. This Farm house shelf incorporates elements of Hygge for warmth. Use it as a blanket ladder, or decorate it with your favorite farm house shelf decor items."
+description = "Place a ladder shelf in your living room with a beautifully decorated farm house style shelf. This Farm house shelf decor incorporates elements of Hygge for warmth. Use it as a blanket ladder, or decorate it with your favorite farm house shelf decor items. A ladder in the living room compliments your TV and makes a stand out feature.  Continue reading to learn how I decorated our living room ladder shelf."
 keywords = ["farmhouse", "decor", "kitchen", "bedroom", "office"]
 title = "Farmhouse Ladder Shelf Decor"
 [images]
 name = "Farmhouse Ladder Shelf Decor"
 src = "/uploads/farmhouse-ladder-decor.JPG"
+[[pins]]
+pin_description = "A farmhouse style shelf is a great way to add to your farmhouse decor in your living room.  Style up your living room with this farm house shelf decor, using books and greenery to give pops of color in your living room.  #livingroom #farmhouse #laddershelf #farmhouseshelf #farmhousedecor #beautifulfamilyroom #decor #homedecor #familyroomdecor"
+pin_image = "/uploads/farmhouse-style-shelf-decor.png"
+[[pins]]
+pin_description = "This living room ladder shelf is a great way to add to your farmhouse style in your living room.  This works with any wooden ladder in a living room.  Then dress up your living room ladder shelf with some ladder decor, books, and greenery to make the ladder the centerpiece in your living room.  #livingroom #farmhouse #laddershelf #farmhouseshelf #farmhousedecor #beautifulfamilyroom #decor #homedecor #familyroomdecor"
+pin_image = "/uploads/living-room-ladder-shelf.png"
 [[pins]]
 pin_description = "Get the farmhouse look in your living room with a beautifully decorated farmhouse ladder shelf that incorporates hygge warmth. #farmhouse #ladder-decor #hygge #leaning-shelf"
 pin_image = "/uploads/Ladder Shelf Decor.png"
