@@ -1,12 +1,24 @@
 +++
 categories = ["home-decor"]
-keywords = ["shelves", "decor", "office", "ikea", "organizer", "farmhouse"]
 date = "2019-03-21T00:00:00-04:00"
-description = "Enhance your Library Room (Home Office) with our easy to do DIY IKEA Shelf Idea, using the Billy BookCase Shelf Hack from IKEA."
+description = "Enhance your Farmhouse Office with our easy to do DIY book shelf, using the IKEA Billy book shelf hack.  These white shelves will enhance any room and highlight your favorite home decor elements, by organizing them giving you a styled bookcase.  Add these home decor shelves to your DIY book case ideas and continue reading more to learn how to build these book cases yourself."
+keywords = ["shelves", "decor", "office", "ikea", "organizer", "farmhouse"]
 title = "DIY Built-In Shelves using Ikea Billy Bookcase Hack"
 [images]
 name = "Office Shelving"
 src = "/uploads/GV4A7575.jpg"
+[[pins]]
+pin_description = "This built in book shelf is a great DIY and easy to do with the help of IKEA Billy book shelves.  This book shelf will look great in a home office or library, or even a beautiful family room where you want to show case your home decor.  #bookshelf #bookcases #diybookcaseideas #shelveswhite #homedecorshelves #styledbookcase #bookcasemakeovers"
+pin_image = "/uploads/diy-book-shelf.png"
+[[pins]]
+pin_description = "Everyone needs built in book cases in their home to take their decor to the next level.  This book case look is great for your home decor in your office or library or family room.  These book cases were done using an IKEA furniture hack and so easy to do.  Cheaper than other custom built shelves. Click through to read how I built this simple book case DIY. #bookshelf #bookcases #diybookcaseideas #shelveswhite #homedecorshelves #styledbookcase #bookcasemakeovers"
+pin_image = "/uploads/book-cases.png"
+[[pins]]
+pin_description = "Home decor shelves are a great way to show off what you love.  Whether you display books, photos, or simple home decor elements, these white shelves give that clean sleek look to give extra polish.  Read more about how to build these gloss white home decor shelves yourself. #bookshelf #bookcases #diybookcaseideas #shelveswhite #homedecorshelves #styledbookcase #bookcasemakeovers"
+pin_image = "/uploads/home-decor-shelves.png"
+[[pins]]
+pin_description = "This simple DIY book case is built with IKEA billy book cases, then wrapped in molding and painted to give a custom built in book case look to any room in your home.  Display your favorite home decor items on this DIY book case, or actually use it for your library of books.  Read more to learn how to DIY this book case yourself. #bookshelf #bookcases #diybookcaseideas #shelveswhite #homedecorshelves #styledbookcase #bookcasemakeovers"
+pin_image = "/uploads/book-case.png"
 [[pins]]
 pin_description = "How to build a beautiful DIY IKEA Shelf idea for the library or office, using the IKEA Billy Bookcase Hack #shelving #library #office #workfromhome #ikea #billy "
 pin_image = "/uploads/diy_shelving.png"
