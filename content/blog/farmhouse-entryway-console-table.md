@@ -1,12 +1,27 @@
 +++
 categories = ["home-decor"]
-keywords = ["decor", "bedroom", "farmhouse", "entry"]
 date = "2019-03-22T00:00:00-04:00"
-description = "I love this farmhouse entryway console table as the first thing you see when you enter our home.  Get this look and more below."
+description = "This farmhouse entryway console table is the first thing you see when you enter our farmhouse home. Decorate your own hallway table in your entryway for your modern farmhouse."
+keywords = ["decor", "bedroom", "farmhouse", "entry"]
 title = "Farmhouse Entryway Console Table"
 [images]
 name = "Beautiful Entry Console Table"
 src = "/uploads/consoletable.png"
+[[pins]]
+pin_description = "Rustic Farmhouse Table for your entryway or hallway.  This wooden farmhouse table is thin so it doesn't take up too much space, making it perfect for a hallway or entryway location.  The grey whitewash makes it a must have decor piece in your farmhouse home. #farmhouse #farmhousetable #rusticfarmhousetable #entryway #hallwaytable #consoledecor #decorentryway"
+pin_image = "/uploads/rustic-farmhouse-table.png"
+[[pins]]
+pin_description = "Console decor for your entryway table or hallway.  This console table is slim so it doesn't take up much space, making it perfect for a hallway or entryway location. Decorate your console with elements of gold to compliment the gray whitewash, giving you a modern console decor on a beautiful rustic farmhouse console table. #farmhouse #farmhousetable #rusticfarmhousetable #entryway #hallwaytable #consoledecor #decorentryway"
+pin_image = "/uploads/console-decor.png"
+[[pins]]
+pin_description = "Hallway Table Decor perfect for your entryway.  This wooden farmhouse table is slim so it doesn't take up too much space, making it perfect for a hallway or entryway location.  The grey whitewash makes it a must have decor piece in your farmhouse home.  Elements of gold gives a stunning presentation for guests entering your home. #farmhouse #farmhousetable #rusticfarmhousetable #entryway #hallwaytable #consoledecor #decorentryway"
+pin_image = "/uploads/hallway-table-decor-entryway.png"
+[[pins]]
+pin_description = "Entryway Table with the farmhouse look, for your entryway or hallway.  This modern farmhouse table is slender so it doesn't take up too much space, making it a perfect table for your hallway or entryway location.  The grey whitewash makes it a must have decor piece in your farmhouse home. #farmhouse #farmhousetable #rusticfarmhousetable #entryway #hallwaytable #consoledecor #decorentryway"
+pin_image = "/uploads/entryway-table.png"
+[[pins]]
+pin_description = "Check out this modern farmhouse table decor for your entryway or hallway.  This modern farmhouse table is slim, making it perfect for a hallway or entryway location.  The grey whitewash makes it a must have decor piece in your farmhouse home, and then decorate your table with your favorite color decor pieces. #farmhouse #farmhousetable #rusticfarmhousetable #entryway #hallwaytable #consoledecor #decorentryway"
+pin_image = "/uploads/modern-farmhouse-table-decor.png"
 [[pins]]
 pin_description = "Really cute entry way console table with a gray whitewash and gold decor accents. This beautiful table will compliment your entryway, or work in any hallway you want to liven up."
 pin_image = "/uploads/cute entryway console table.png"
