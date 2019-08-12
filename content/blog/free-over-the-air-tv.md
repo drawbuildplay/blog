@@ -1,7 +1,7 @@
 +++
 categories = ["smart-home"]
 date = "2018-12-19"
-description = "Watch TV for free without cable with an Apple TV, HDHomeRun, and over the air broadcasts. Stop spending hundreds of $$$ on cable. We stopped paying them back in 2015 by combining free over the air live antenna TV with Netflix.  Learn how you can do this too."
+description = "Learn our money saving hack to save money without cable, using an Apple TV, HDHomeRun, and over the air antenna. Stop spending hundreds of $$$ on cable. We started saving money back in 2015 by combining free over the air live antenna TV with Netflix.  Learn how you can do this too, with our best way to save money in your new home."
 keywords = ["smart home", "living room", "bedroom"]
 title = "Watch TV for Free without cable"
 [images]
