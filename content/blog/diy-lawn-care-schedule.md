@@ -37,11 +37,11 @@ Cutting the grass is only 25% of the battle.  A healthy lawn care regiment requi
 
 Follow the below schedule to keep you grass cut to healthy levels.
 
-##### **Early March**
+##### **Early March (Spring)**
 
 Get your lawn ready for the spring by giving your lawn its first cut of the year.  Always only cut 1/3 of the height of the grass blades at a time to avoid shocking the grass.
 
-##### **Mid - Late March**
+##### **Mid - Late March (Late Spring)**
 
 Your grass still will not have started greening, but 2 weeks after your first cut, give it another cut.  Remember, we are aiming to cut only 1/3 of the height at a time.  One of the best kept secrets to getting a greener lawn is **Scalping**.
 
@@ -53,11 +53,11 @@ If your lawn is still fairly long after 2 cuts, your third cut may be the cut th
 
 Its important to remember, only scalp your lawn only after the danger of freezing temperatures has passed.  In Georgia, usually after mid-March the last freeze snap will have passed.
 
-##### **April - October**
+##### **April - October (Summer months)**
 
 This is the growing period for Bermuda Grass.  As the temperatures get warmer, the grass will grow faster.  As a general rule, I recommend mowing your lawn every 2 - 3 weeks.  During the peak summer months, you will definitely need to mow every 2 weeks.  Remember to never cut more that 1/3 of the grass blade height.
 
-##### **October - March**
+##### **October - March (Fall and Winter)**
 
 Bermuda Grass will start to go dormant around October/November as the temperatures get cooler.  Your final cut for the year will likely be around mid October.  When the grass goes dormant, it will turn this yellowish/brown color, and remain like that until the spring when it regrows.
 
@@ -99,7 +99,7 @@ Repeat another round of fertilizer 6 weeks after your last application.  Another
 
 ##### **August/September - PreEmergent with Fertilizer: LESCO 25-0-7**
 
-As we enter the Fall months, and temperatures start to cool, you should apply a Fall WinterGuard to strengthen the roots with potassium to keep the lawn safe during the winter.  This will also help keep the Fall and Winter weeds at bay.
+As we enter the **Fall months,** and temperatures start to cool, you should apply a Fall WinterGuard to strengthen the roots with potassium to keep the lawn safe during the winter.  This will also help keep the Fall and Winter weeds at bay.
 
 ##### **October/November - PreEmergent: LESCO 0-0-7**
 
@@ -115,9 +115,13 @@ I have successfully used Spectracide Weed Control (concentrate or hose attachmen
 
 Core Aeration is the process of pulling plugs of dirt from your soil so that sunlight, water, and nutrients get deeper to where the roots are.  It will help promote a strong and healthier root system, and is essential for greener turfs.  It will help loosen the dirt to allow the Bermuda to spread more easily.
 
-##### **April/May**
+##### **April/May (Spring)**
 
 Late April or May is the best month to perform Core Aeration.  Your landscaper may offer this, but I also find many students offer this service at a much cheaper price - look on NextDoor.com for students in your area offering to do this.
+
+##### **October/November (Fall)**
+
+If you live in an area where your grass actively grows in the Fall (eg in the cooler northern states), then it's a good idea to aerate at the start of the autumn months so your grass roots continue to get water, oxygen, and other nutrients.  In the southern states where the Bermuda tends to go dormant, you can skip the fall aeration.
 
 ## Seeding
 
