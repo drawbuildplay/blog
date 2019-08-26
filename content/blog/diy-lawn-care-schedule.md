@@ -8,6 +8,12 @@ title = "Secret DIY Tips to get a Greener Lawn"
 name = "Lawn Care Tips and Schedule"
 src = "/uploads/lawn.jpg"
 [[pins]]
+pin_description = "Prepare your fall garden ideas this autumn starting with creating a healthy lawn. Learn how to get greener grass by applying the right fertilizers and weed control. Get ahead of the spring and summer weeds by creating a barrier before the weeds germinate.  A healthy root system in the fall and winter will have your lawn looking greener in the spring, giving you a beautiful lawn.  Check out our free lawn fertilizer schedule. #fallgarden #lawncare #lawnfertilizerschedule #greenerlawn"
+pin_image = "/uploads/fall-garden-ideas.png"
+[[pins]]
+pin_description = "How to get a beautiful lawn in the spring by taking preparing it in the fall.  By applying the right fertilizers and weed control, get ahead of the weeds by creating a barrier before the weeds germinate.  A healthy root system in the fall and winter will have your grass looking green in the spring.  Check out our free lawn fertilizer schedule. #fallgarden #lawncare #lawnfertilizerschedule #greenerlawn"
+pin_image = "/uploads/fall-lawncare-tips.png"
+[[pins]]
 pin_description = "Do you want a greener lawn this summer?  Then save our free Lawn Fertilizer Schedule and enjoy a weed free, beautiful lawn. #lawnfertilizerschedule #greenerlawn #beautifullawn #lawncare #weeds #grass"
 pin_image = "/uploads/lawn-fertilizer-schedule.png"
 [[pins]]
