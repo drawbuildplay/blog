@@ -63,7 +63,7 @@
                     {{ $imageResource := $imageResources.Resources.GetMatch ($imgToFind) }}
                     {{ $resized := $imageResource.Resize "x400" }}
 
-                    <img class="card-img-top" data-pin-nopin="true" src="{{ $resized.Permalink }}" alt="{{ $imageName }}">
+                    <img class="card-img-top" data-pin-nopin="true" data-src="{{ $resized.Permalink }}" alt="{{ $imageName }}">
                 {{ end }}
             {{ end }}
         </a>  
