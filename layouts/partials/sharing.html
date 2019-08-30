@@ -30,7 +30,7 @@
                 <div class="row gtr-50 gtr-uniform">
                     {{ if $pins }}
                         {{ range $pins }}
-                        <div class="col-4"><span class="image fit"><img src="{{ .pin_image }}" data-pin-description="{{ .pin_description }}"></span></div>
+                        <div class="col-4"><span class="image fit"><img data-src="{{ .pin_image }}" data-pin-description="{{ .pin_description }}"></span></div>
                         {{ end }}
                     {{ end }}
 
