@@ -4,6 +4,7 @@ title = "DrawBuildPlay"
 theme = "massively"
 disqusShortname = "drawbuildplay"
 googleAnalytics = "UA-73309318-2"
+enableRobotsTXT = true
 
 [related]
 threshold = 80
